@@ -1,0 +1,33 @@
+{
+  "flow_name": "media_list_article_question_19",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "article",
+      "value": "media_list",
+      "rows": [
+        {
+          "name": "data",
+          "value": "article_faq",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "article.data"
+        },
+        {
+          "name": "article_id",
+          "value": "article_question_19",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "article.article_id"
+        }
+      ],
+      "_nested_name": "article"
+    }
+  ]
+}

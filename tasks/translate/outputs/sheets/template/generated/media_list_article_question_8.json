@@ -1,16 +1,16 @@
 {
-  "flow_name": "article_@gen.id",
+  "flow_name": "media_list_article_question_8",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
       "name": "article",
-      "value": "article",
+      "value": "media_list",
       "rows": [
         {
           "name": "data",
-          "value": "article",
+          "value": "article_faq",
           "_translations": {
             "value": {}
           },
@@ -19,7 +19,7 @@
         },
         {
           "name": "article_id",
-          "value": "@gen.id",
+          "value": "article_question_8",
           "_translations": {
             "value": {}
           },

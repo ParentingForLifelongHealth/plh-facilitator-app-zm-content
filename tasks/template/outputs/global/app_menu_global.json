@@ -1,0 +1,43 @@
+{
+  "flow_type": "global",
+  "flow_name": "app_menu_global",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "Implementers App"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "language",
+      "value": "Language"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_groups",
+      "value": "parent groups"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_medium",
+      "value": "WhatsApp"
+    },
+    {
+      "type": "declare_field_default",
+      "name": "current_package",
+      "value": "facilitator"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "type_prompt",
+      "value": "Tap and type"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "select_prompt",
+      "value": "Tap and select"
+    }
+  ],
+  "_xlsxPath": "data/navigation_data.xlsx"
+}

@@ -246,11 +246,6 @@
       "flow_name": "footer",
       "_xlsxPath": "templates/footer.xlsx"
     },
-    "article_@gen.id": {
-      "flow_name": "article_@gen.id",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
     "article_article_0": {
       "flow_name": "article_article_0",
       "flow_subtype": "generated",
@@ -543,11 +538,6 @@
     },
     "help_profile": {
       "flow_name": "help_profile",
-      "flow_subtype": "generated",
-      "flow_type": "template"
-    },
-    "media_list_@gen.id": {
-      "flow_name": "media_list_@gen.id",
       "flow_subtype": "generated",
       "flow_type": "template"
     },

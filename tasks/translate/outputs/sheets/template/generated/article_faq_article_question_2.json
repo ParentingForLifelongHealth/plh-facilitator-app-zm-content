@@ -1,35 +1,33 @@
 {
-  "flow_name": "media_list_@gen.id",
+  "flow_name": "article_faq_article_question_2",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
     {
       "type": "template",
-      "name": "media_list",
-      "value": [
-        "media_list"
-      ],
+      "name": "article",
+      "value": "article",
       "rows": [
         {
           "name": "data",
-          "value": "article",
+          "value": "article_faq",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "media_list.data"
+          "_nested_name": "article.data"
         },
         {
           "name": "article_id",
-          "value": "@gen.id",
+          "value": "article_question_2",
           "_translations": {
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "media_list.article_id"
+          "_nested_name": "article.article_id"
         }
       ],
-      "_nested_name": "media_list"
+      "_nested_name": "article"
     }
   ]
 }

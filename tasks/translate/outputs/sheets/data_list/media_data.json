@@ -1,0 +1,81 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "media_data",
+  "status": "released",
+  "data_list_name": "media",
+  "rows": [
+    {
+      "id": "media_1",
+      "number": 1,
+      "foreign_id": "article_1",
+      "type_caption": "Audio",
+      "type": "audio",
+      "title": "Starting the conversation",
+      "introduction": "This is a audio file",
+      "media_asset": "audio/facilitation_skills/start_conversation.mp3",
+      "title_short": "Audio: Starting the conversation",
+      "icon_asset": "images/icons/women waving.svg"
+    },
+    {
+      "id": "media_2",
+      "number": 2,
+      "foreign_id": "question_1",
+      "type_caption": "Audio",
+      "type": "audio",
+      "title": "Participant answer",
+      "introduction": "This is a audio file",
+      "media_asset": "audio/facilitation_skills/participant_answer.mp3",
+      "title_short": "Audio: Participant answer",
+      "icon_asset": "images/icons/women waving.svg"
+    },
+    {
+      "id": "media_3",
+      "number": 3,
+      "foreign_id": "article_question_1",
+      "type_caption": "Audio",
+      "type": "audio",
+      "title": "Explore",
+      "introduction": "This is a audio file",
+      "media_asset": "audio/facilitation_skills/explore.mp3",
+      "title_short": "Audio: Explore",
+      "icon_asset": "images/icons/women waving.svg"
+    },
+    {
+      "id": "media_4",
+      "number": 4,
+      "foreign_id": "question_11",
+      "type_caption": "Audio",
+      "type": "audio",
+      "title": "Testimonial",
+      "introduction": "This is a audio file",
+      "media_asset": "audio/faq/participant_questions_facilitator_abilities_testimonial.mp3",
+      "title_short": "Audio: Testimonial",
+      "icon_asset": "images/icons/women waving.svg"
+    },
+    {
+      "id": "media_5",
+      "number": 5,
+      "foreign_id": "question_12",
+      "type_caption": "Audio",
+      "type": "audio",
+      "title": "Example",
+      "introduction": "This is a audio file",
+      "media_asset": "audio/faq/unhelpful_participant_suggestion_example.mp3",
+      "title_short": "Audio: Example",
+      "icon_asset": "images/icons/women waving.svg"
+    },
+    {
+      "id": "media_6",
+      "number": 6,
+      "foreign_id": "question_12",
+      "type_caption": "Audio",
+      "type": "audio",
+      "title": "Testimonial",
+      "introduction": "This is a audio file",
+      "media_asset": "audio/faq/unhelpful_participant_suggestion_testimonial.mp3",
+      "title_short": "Audio: Testimonial",
+      "icon_asset": "images/icons/women waving.svg"
+    }
+  ],
+  "_xlsxPath": "data/article_data.xlsx"
+}
