@@ -6,11 +6,11 @@
   "rows": [
     {
       "id": "article_1",
-      "title": "Session 1 Manual",
-      "title_short": "Session 1 Manual",
+      "title": "Session 1 PDF",
+      "pdf_asset": "pdf/draft_template_manual_format.pdf",
+      "title_short": "Session 1 PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
-      "introduction": "This is an example of a pdf.",
-      "pdf_asset": "pdf/example.pdf"
+      "introduction": "This is an example of a pdf."
     },
     {
       "id": "question_1",
