@@ -80,64 +80,147 @@
     },
     {
       "type": "display_group",
-      "name": "dg_header",
+      "name": "top",
+      "parameter_list": {
+        "style": "column"
+      },
       "rows": [
         {
-          "type": "title",
-          "name": "title",
-          "value": "@local.pdf_data.title",
-          "_translations": {
-            "value": {}
-          },
-          "style_list": [
-            "flex:5"
-          ],
-          "_nested_name": "dg_header.title",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.pdf_data.title",
-                "matchedExpression": "@local.pdf_data.title",
-                "type": "local",
-                "fieldName": "pdf_data"
+          "type": "template",
+          "name": "header",
+          "value": "header",
+          "rows": [
+            {
+              "name": "title",
+              "value": "@local.pdf_data.title",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "top.header.title",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.pdf_data.title",
+                    "matchedExpression": "@local.pdf_data.title",
+                    "type": "local",
+                    "fieldName": "pdf_data"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.pdf_data.title": [
+                  "value"
+                ]
               }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.pdf_data.title": [
-              "value"
-            ]
-          }
+            },
+            {
+              "name": "icon_asset",
+              "value": "@local.pdf_data.icon_asset",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "top.header.icon_asset",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.pdf_data.icon_asset",
+                    "matchedExpression": "@local.pdf_data.icon_asset",
+                    "type": "local",
+                    "fieldName": "pdf_data"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.pdf_data.icon_asset": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "top.header"
         },
         {
-          "type": "image",
-          "name": "icon_asset",
-          "value": "@local.pdf_data.icon_asset",
-          "_translations": {
-            "value": {}
+          "type": "round_button",
+          "name": "round_button",
+          "parameter_list": {
+            "icon_src": "images/icons/book_white.svg"
           },
-          "style_list": [
-            "flex:1"
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_session",
+                "@local.session_id"
+              ],
+              "_raw": "click | set_field: current_session: @local.session_id",
+              "_cleaned": "click | set_field: current_session: @local.session_id"
+            },
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "manual_pdf"
+              ],
+              "_raw": "click | go_to: manual_pdf",
+              "_cleaned": "click | go_to: manual_pdf"
+            }
           ],
-          "_nested_name": "dg_header.icon_asset",
+          "condition": "@local.session_id != \"onboarding\"",
+          "_nested_name": "top.round_button",
           "_dynamicFields": {
-            "value": [
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.session_id",
+                      "matchedExpression": "@local.session_id",
+                      "type": "local",
+                      "fieldName": "session_id"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field: current_session: @local.session_id",
+                    "matchedExpression": "@local.session_id",
+                    "type": "local",
+                    "fieldName": "session_id"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field: current_session: @local.session_id",
+                    "matchedExpression": "@local.session_id",
+                    "type": "local",
+                    "fieldName": "session_id"
+                  }
+                ]
+              }
+            },
+            "condition": [
               {
-                "fullExpression": "@local.pdf_data.icon_asset",
-                "matchedExpression": "@local.pdf_data.icon_asset",
+                "fullExpression": "@local.session_id != \"onboarding\"",
+                "matchedExpression": "@local.session_id",
                 "type": "local",
-                "fieldName": "pdf_data"
+                "fieldName": "session_id"
               }
             ]
           },
           "_dynamicDependencies": {
-            "@local.pdf_data.icon_asset": [
-              "value"
+            "@local.session_id": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "condition"
             ]
           }
         }
       ],
-      "_nested_name": "dg_header"
+      "_nested_name": "top"
     },
     {
       "type": "text",
@@ -189,6 +272,15 @@
           "value"
         ]
       }
+    },
+    {
+      "parameter_list": {
+        "click | set_field": "current_session",
+        "click | go_to": "manual_pdf"
+      },
+      "type": "set_variable",
+      "name": "set_variable",
+      "_nested_name": "set_variable"
     }
   ],
   "_xlsxPath": "templates/articles.xlsx"

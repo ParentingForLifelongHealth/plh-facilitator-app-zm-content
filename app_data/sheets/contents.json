@@ -821,6 +821,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "header": {
+      "flow_type": "template",
+      "flow_name": "header",
+      "_xlsxPath": "templates/navigation.xlsx"
+    },
     "help_button": {
       "flow_type": "template",
       "flow_name": "help_button",

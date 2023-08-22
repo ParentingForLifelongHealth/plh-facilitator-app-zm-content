@@ -79,20 +79,18 @@
       }
     },
     {
-      "type": "display_group",
-      "name": "dg_header",
+      "type": "template",
+      "name": "header",
+      "value": "header",
       "rows": [
         {
-          "type": "title",
           "name": "title",
           "value": "@local.media_data.title",
           "_translations": {
             "value": {}
           },
-          "style_list": [
-            "flex:5"
-          ],
-          "_nested_name": "dg_header.title",
+          "type": "set_variable",
+          "_nested_name": "header.title",
           "_dynamicFields": {
             "value": [
               {
@@ -110,16 +108,13 @@
           }
         },
         {
-          "type": "image",
           "name": "icon_asset",
           "value": "@local.media_data.icon_asset",
           "_translations": {
             "value": {}
           },
-          "style_list": [
-            "flex:1"
-          ],
-          "_nested_name": "dg_header.icon_asset",
+          "type": "set_variable",
+          "_nested_name": "header.icon_asset",
           "_dynamicFields": {
             "value": [
               {
@@ -137,7 +132,7 @@
           }
         }
       ],
-      "_nested_name": "dg_header"
+      "_nested_name": "header"
     },
     {
       "type": "text",
