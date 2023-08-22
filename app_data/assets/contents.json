@@ -79,6 +79,10 @@
     "md5Checksum": "841a27e6e013d797d2bcf20391632cee",
     "size_kb": 1.4
   },
+  "images/icons/recording_blue.svg": {
+    "md5Checksum": "368d36a71dbf4d2c7e094e93144e88c2",
+    "size_kb": 1.4
+  },
   "images/icons/school_blue.svg": {
     "md5Checksum": "bc87b2ae05c7c762ca7673657c0efb56",
     "size_kb": 1.6
@@ -106,5 +110,9 @@
   "pdf/example.pdf": {
     "md5Checksum": "2288c46f60ecc0dee4c0d177bd755897",
     "size_kb": 13.6
+  },
+  "plh_images/icons/play_white.svg": {
+    "md5Checksum": "6508bf39f8cb3c3ab0f30b96994a6cbc",
+    "size_kb": 0.5
   }
 }

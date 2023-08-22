@@ -1,5 +1,5 @@
 {
-  "flow_name": "pdf_article_2",
+  "flow_name": "pdf_article_1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -19,7 +19,7 @@
         },
         {
           "name": "pdf_id",
-          "value": "article_2",
+          "value": "article_1",
           "_translations": {
             "value": {}
           },

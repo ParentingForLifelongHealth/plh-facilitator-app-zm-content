@@ -15,7 +15,7 @@
             "value": {}
           },
           "style_list": [
-            "flex:5"
+            "flex:3"
           ],
           "_nested_name": "dg_header.title",
           "_dynamicFields": {
