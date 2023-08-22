@@ -5,9 +5,9 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "article_2",
-      "title_short": "Example PDF",
-      "title": "Example PDF",
+      "id": "article_1",
+      "title": "Session 1 Manual",
+      "title_short": "Session 1 Manual",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "introduction": "This is an example of a pdf.",
       "pdf_asset": "pdf/example.pdf"

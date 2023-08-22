@@ -13,9 +13,8 @@
       "title_short": "Session 0: Safeguarding Information",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_1",
@@ -27,9 +26,8 @@
       "title_short": "Session 1: Family Goals & One-on-One Time",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_2",
@@ -43,9 +41,8 @@
       "faq_title": "Responding to Parents",
       "title_short": "Session 2: Keeping it Positive: Praise & Instructions",
       "icon_asset": "images/icons/women and girl with phone.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_3",
@@ -55,9 +52,8 @@
       "title_short": "Session 3: Keeping it Cool: Managing Anger and Stress",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_4",
@@ -68,9 +64,8 @@
       "title_short": "Session 4: Establishing Rules to Keep Healthy and Safe",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_5",
@@ -79,9 +74,8 @@
       "title_short": "Session 5: Family Budgeting and Ways to Save",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_6",
@@ -91,9 +85,8 @@
       "title_short": "Session 6: Accepting Responsibility for Our Actions",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_7",
@@ -102,9 +95,8 @@
       "title_short": "Session 7: Solving Problems Together as a Family",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_8",
@@ -114,9 +106,8 @@
       "title_short": "Session 8: Keeping Safe in the Community & Responding to Crises",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     },
     {
       "id": "article_9",
@@ -125,9 +116,8 @@
       "title_short": "Session 9: Widening Circles of Support",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "message_title": "@global.message_title",
-      "attached_single_doc": "https://docs.google.com/document/d/1LtPkcVUkDhQtfv-KpokwnBCflhw8poFVlBD6pcu_t_4",
       "media_title": "This is media",
-      "media_icon": "images/icons/reader_blue.svg"
+      "media_icon": "images/icons/recording_blue.svg"
     }
   ],
   "_xlsxPath": "data/article_data.xlsx"

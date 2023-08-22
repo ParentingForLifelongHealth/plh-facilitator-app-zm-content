@@ -14,7 +14,7 @@
       "introduction": "This is a audio file",
       "media_asset": "audio/facilitation_skills/start_conversation.mp3",
       "title_short": "Audio: Starting the conversation",
-      "icon_asset": "images/icons/women waving.svg"
+      "icon_asset": "images/icons/recording_blue.svg"
     },
     {
       "id": "media_2",
@@ -26,7 +26,7 @@
       "introduction": "This is a audio file",
       "media_asset": "audio/facilitation_skills/participant_answer.mp3",
       "title_short": "Audio: Participant answer",
-      "icon_asset": "images/icons/women waving.svg"
+      "icon_asset": "images/icons/recording_blue.svg"
     },
     {
       "id": "media_3",
@@ -38,7 +38,7 @@
       "introduction": "This is a audio file",
       "media_asset": "audio/facilitation_skills/explore.mp3",
       "title_short": "Audio: Explore",
-      "icon_asset": "images/icons/women waving.svg"
+      "icon_asset": "images/icons/recording_blue.svg"
     },
     {
       "id": "media_4",
@@ -50,7 +50,7 @@
       "introduction": "This is a audio file",
       "media_asset": "audio/faq/participant_questions_facilitator_abilities_testimonial.mp3",
       "title_short": "Audio: Testimonial",
-      "icon_asset": "images/icons/women waving.svg"
+      "icon_asset": "images/icons/recording_blue.svg"
     },
     {
       "id": "media_5",
@@ -62,7 +62,7 @@
       "introduction": "This is a audio file",
       "media_asset": "audio/faq/unhelpful_participant_suggestion_example.mp3",
       "title_short": "Audio: Example",
-      "icon_asset": "images/icons/women waving.svg"
+      "icon_asset": "images/icons/recording_blue.svg"
     },
     {
       "id": "media_6",
@@ -74,7 +74,7 @@
       "introduction": "This is a audio file",
       "media_asset": "audio/faq/unhelpful_participant_suggestion_testimonial.mp3",
       "title_short": "Audio: Testimonial",
-      "icon_asset": "images/icons/women waving.svg"
+      "icon_asset": "images/icons/recording_blue.svg"
     }
   ],
   "_xlsxPath": "data/article_data.xlsx"
