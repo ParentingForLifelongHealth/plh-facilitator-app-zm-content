@@ -1,0 +1,44 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_data",
+  "status": "released",
+  "data_list_name": "library",
+  "rows": [
+    {
+      "id": "topic_about_fac_app",
+      "number": 1,
+      "title": "About Facilitator App",
+      "title_short": "topic 1: About Facilitator App",
+      "icon_asset": "images/icons/family.svg"
+    },
+    {
+      "id": "topic_sessions",
+      "number": 2,
+      "title": "Safeguarding",
+      "title_short": "topic 2: Safeguarding",
+      "icon_asset": "images/icons/family.svg"
+    },
+    {
+      "id": "faq",
+      "number": 3,
+      "title": "FAQs",
+      "title_short": "topic 3: FAQs",
+      "icon_asset": "images/icons/family.svg"
+    },
+    {
+      "id": "topic_facil_skills",
+      "number": 4,
+      "title": "Facilitation Skills",
+      "title_short": "topic 4: Facilitation Skills",
+      "icon_asset": "images/icons/family.svg"
+    },
+    {
+      "id": "topic_wellbeing",
+      "number": 5,
+      "title": "Wellbeing",
+      "title_short": "topic 5: Wellbeing",
+      "icon_asset": "images/icons/family.svg"
+    }
+  ],
+  "_xlsxPath": "data/article_data.xlsx"
+}
