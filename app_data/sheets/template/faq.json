@@ -4,11 +4,11 @@
   "status": "released",
   "rows": [
     {
-      "type": "display_group",
-      "name": "dg_header",
+      "type": "template",
+      "name": "header",
+      "value": "header",
       "rows": [
         {
-          "type": "title",
           "name": "title",
           "value": "@global.faq_title",
           "_translations": {
@@ -17,7 +17,8 @@
           "style_list": [
             "flex:3"
           ],
-          "_nested_name": "dg_header.title",
+          "type": "set_variable",
+          "_nested_name": "header.title",
           "_dynamicFields": {
             "value": [
               {
@@ -35,7 +36,6 @@
           }
         },
         {
-          "type": "image",
           "name": "icon_asset",
           "value": "@global.faq_icon",
           "_translations": {
@@ -44,7 +44,8 @@
           "style_list": [
             "flex:1"
           ],
-          "_nested_name": "dg_header.icon_asset",
+          "type": "set_variable",
+          "_nested_name": "header.icon_asset",
           "_dynamicFields": {
             "value": [
               {
@@ -62,7 +63,7 @@
           }
         }
       ],
-      "_nested_name": "dg_header"
+      "_nested_name": "header"
     },
     {
       "type": "items",
