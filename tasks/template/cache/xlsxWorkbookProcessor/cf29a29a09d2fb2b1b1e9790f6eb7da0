@@ -1,1 +1,0 @@
-[{"flow_type":"conversation","flow_name":"link_mod_welcome_page","status":"draft","rows":[{"row_id":1,"type":"send_message","from":"start","message_text":"https://plh-demo1.idems.international/module_page/mod_welcome_page"}],"_xlsxPath":"data/links_module_pages.xlsx"}]
