@@ -26,6 +26,83 @@
       "name": "my_ms",
       "text": "Malay",
       "image": "images/flags/my.svg"
+    },
+    {
+      "id": "zm_en",
+      "country_code": "zm",
+      "country_label": "Zambia",
+      "country_icon": "images/flags/zm.svg",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "zm_en",
+      "text": "English",
+      "image": "images/flags/zm.svg"
+    },
+    {
+      "id": "ug_lg",
+      "country_code": "ug",
+      "country_label": "Uganda",
+      "country_icon": "images/flags/ug.svg",
+      "language_code": "lg",
+      "language_label": "Luganda",
+      "name": "ug_lg",
+      "text": "Luganda",
+      "image": "images/flags/ug.svg"
+    },
+    {
+      "id": "ug_en",
+      "country_code": "ug",
+      "country_label": "Uganda",
+      "country_icon": "images/flags/ug.svg",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "ug_en",
+      "text": "English",
+      "image": "images/flags/ug.svg"
+    },
+    {
+      "id": "tz_sw",
+      "country_code": "tz",
+      "country_label": "Tanzania",
+      "country_icon": "images/flags/tz.svg",
+      "language_code": "sw",
+      "language_label": "Kiswahili",
+      "name": "tz_sw",
+      "text": "Kiswahili",
+      "image": "images/flags/tz.svg"
+    },
+    {
+      "id": "tz_en",
+      "country_code": "tz",
+      "country_label": "Tanzania",
+      "country_icon": "images/flags/tz.svg",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "tz_en",
+      "text": "English",
+      "image": "images/flags/tz.svg"
+    },
+    {
+      "id": "ke_sw",
+      "country_code": "ke",
+      "country_label": "Kenya",
+      "country_icon": "images/flags/ke.svg",
+      "language_code": "sw",
+      "language_label": "Kiswahili",
+      "name": "ke_sw",
+      "text": "Kiswahili",
+      "image": "images/flags/ke.svg"
+    },
+    {
+      "id": "ke_en",
+      "country_code": "ke",
+      "country_label": "Kenya",
+      "country_icon": "images/flags/ke.svg",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "ke_en",
+      "text": "English",
+      "image": "images/flags/ke.svg"
     }
   ],
   "_xlsxPath": "data/language_data.xlsx"

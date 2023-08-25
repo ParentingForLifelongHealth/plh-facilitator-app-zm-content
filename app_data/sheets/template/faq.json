@@ -14,9 +14,6 @@
           "_translations": {
             "value": {}
           },
-          "style_list": [
-            "flex:3"
-          ],
           "type": "set_variable",
           "_nested_name": "header.title",
           "_dynamicFields": {
@@ -41,9 +38,6 @@
           "_translations": {
             "value": {}
           },
-          "style_list": [
-            "flex:1"
-          ],
           "type": "set_variable",
           "_nested_name": "header.icon_asset",
           "_dynamicFields": {
