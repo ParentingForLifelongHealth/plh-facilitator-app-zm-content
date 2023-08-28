@@ -25,23 +25,23 @@
       "data_list_name": "article_faq",
       "_xlsxPath": "data/article_data.xlsx"
     },
+    "article_groups_data": {
+      "flow_type": "data_list",
+      "flow_name": "article_groups_data",
+      "data_list_name": "article_groups",
+      "_xlsxPath": "data/article_data.xlsx"
+    },
     "faq_data": {
       "flow_type": "data_list",
       "flow_name": "faq_data",
       "data_list_name": "faq",
       "_xlsxPath": "data/article_data.xlsx"
     },
-    "library_data": {
-      "flow_type": "data_list",
-      "flow_name": "library_data",
-      "data_list_name": "library",
-      "_xlsxPath": "data/article_data.xlsx"
-    },
     "media_data": {
       "flow_type": "data_list",
       "flow_name": "media_data",
       "data_list_name": "media",
-      "_xlsxPath": "data/article_data.xlsx"
+      "_xlsxPath": "data/media_data.xlsx"
     },
     "number_data": {
       "flow_type": "data_list",
@@ -59,7 +59,7 @@
       "flow_type": "data_list",
       "flow_name": "pdf_data",
       "data_list_name": "pdf",
-      "_xlsxPath": "data/article_data.xlsx"
+      "_xlsxPath": "data/media_data.xlsx"
     },
     "profile_section_data": {
       "flow_type": "data_list",
@@ -84,7 +84,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/article.xlsx"
     },
     "article_faq_media_list": {
       "flow_type": "generator",
@@ -95,7 +95,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     },
     "article_generator": {
       "flow_type": "generator",
@@ -106,7 +106,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/article.xlsx"
     },
     "article_media_list": {
       "flow_type": "generator",
@@ -117,7 +117,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     },
     "faq_generator": {
       "flow_type": "generator",
@@ -128,7 +128,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/article.xlsx"
     },
     "faq_media_list": {
       "flow_type": "generator",
@@ -139,7 +139,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     },
     "help_generator": {
       "flow_type": "generator",
@@ -172,7 +172,7 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     }
   },
   "global": {
@@ -206,12 +206,7 @@
     "article": {
       "flow_type": "template",
       "flow_name": "article",
-      "_xlsxPath": "templates/articles.xlsx"
-    },
-    "articles": {
-      "flow_type": "template",
-      "flow_name": "articles",
-      "_xlsxPath": "templates/navigation.xlsx"
+      "_xlsxPath": "templates/article.xlsx"
     },
     "data_collection": {
       "flow_type": "template",
@@ -423,6 +418,11 @@
     },
     "article_faq_article_question_9": {
       "flow_name": "article_faq_article_question_9",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "article_intro_goals": {
+      "flow_name": "article_intro_goals",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
@@ -721,6 +721,11 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "media_list_intro_goals": {
+      "flow_name": "media_list_intro_goals",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "media_list_question_1": {
       "flow_name": "media_list_question_1",
       "flow_subtype": "generated",
@@ -806,6 +811,16 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
+    "pdf_home_visit_guide": {
+      "flow_name": "pdf_home_visit_guide",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_manual_intro_goals": {
+      "flow_name": "pdf_manual_intro_goals",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
     "pdf_question_1": {
       "flow_name": "pdf_question_1",
       "flow_subtype": "generated",
@@ -849,17 +864,17 @@
     "media": {
       "flow_type": "template",
       "flow_name": "media",
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     },
     "media_list": {
       "flow_type": "template",
       "flow_name": "media_list",
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     },
     "message_box": {
       "flow_type": "template",
       "flow_name": "message_box",
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/article.xlsx"
     },
     "nav_buttons": {
       "flow_type": "template",
@@ -874,7 +889,7 @@
     "pdf": {
       "flow_type": "template",
       "flow_name": "pdf",
-      "_xlsxPath": "templates/articles.xlsx"
+      "_xlsxPath": "templates/media.xlsx"
     },
     "profile": {
       "flow_type": "template",

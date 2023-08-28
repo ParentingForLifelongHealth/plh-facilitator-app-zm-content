@@ -9,15 +9,13 @@
       "title": "Session 1 PDF",
       "pdf_asset": "pdf/draft_template_manual_format.pdf",
       "title_short": "Session 1 PDF",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "introduction": "This is an example of a pdf."
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
       "id": "question_1",
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
-      "introduction": "This is an example of a pdf.",
       "pdf_asset": "pdf/example.pdf"
     },
     {
@@ -25,7 +23,6 @@
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
-      "introduction": "This is an example of a pdf.",
       "pdf_asset": "pdf/example.pdf"
     },
     {
@@ -33,7 +30,6 @@
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
-      "introduction": "This is an example of a pdf.",
       "pdf_asset": "pdf/example.pdf"
     },
     {
@@ -41,9 +37,22 @@
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
-      "introduction": "This is an example of a pdf.",
+      "pdf_asset": "pdf/example.pdf"
+    },
+    {
+      "id": "manual_intro_goals",
+      "title": "Manual",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg",
+      "pdf_asset": "pdf/example.pdf"
+    },
+    {
+      "id": "home_visit_guide",
+      "title": "Home Visit Guide",
+      "title_short": "Home Visit Guide",
+      "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     }
   ],
-  "_xlsxPath": "data/article_data.xlsx"
+  "_xlsxPath": "data/media_data.xlsx"
 }

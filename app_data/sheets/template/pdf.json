@@ -145,30 +145,6 @@
       "_nested_name": "top"
     },
     {
-      "type": "text",
-      "name": "introduction",
-      "value": "@local.pdf_data.introduction",
-      "_translations": {
-        "value": {}
-      },
-      "_nested_name": "introduction",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.pdf_data.introduction",
-            "matchedExpression": "@local.pdf_data.introduction",
-            "type": "local",
-            "fieldName": "pdf_data"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.pdf_data.introduction": [
-          "value"
-        ]
-      }
-    },
-    {
       "type": "pdf",
       "name": "pdf_1",
       "value": "@local.pdf_data.pdf_asset",
@@ -194,16 +170,7 @@
           "value"
         ]
       }
-    },
-    {
-      "parameter_list": {
-        "click | set_field": "current_session",
-        "click | go_to": "manual_pdf"
-      },
-      "type": "set_variable",
-      "name": "set_variable",
-      "_nested_name": "set_variable"
     }
   ],
-  "_xlsxPath": "templates/articles.xlsx"
+  "_xlsxPath": "templates/media.xlsx"
 }
