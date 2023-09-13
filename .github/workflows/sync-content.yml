@@ -40,6 +40,10 @@ jobs:
           repository: "IDEMSInternational/parenting-app-ui.git"
           ref: ${{env.APP_CODE_BRANCH}}
 
+      - name: Remove .git from the repository in order to nest
+        run: |
+          rm -rf .git
+
       - name: Checkout parent repo if needed
         if: env.PARENT_DEPLOYMENT_REPO != ''
         uses: actions/checkout@v3
@@ -84,10 +88,6 @@ jobs:
 
       - name: Sync content
         run: yarn workflow sync
-
-      - name: Remove .git from nested repository
-        run: |
-          rm -rf .idems_app/.git
       
       - name: Commit changes
         run: |
