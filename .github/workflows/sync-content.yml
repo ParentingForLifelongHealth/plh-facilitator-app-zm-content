@@ -106,5 +106,5 @@ jobs:
           source_branch: ""
           destination_branch: "main"
           pr_title: ${{ inputs.pr-title }}
-          pr_body: ${{ pr-body }}
+          pr_body: ${{ inputs.pr-body }}
           github_token: ${{ secrets.PAT }}
