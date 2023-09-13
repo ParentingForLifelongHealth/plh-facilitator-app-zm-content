@@ -84,6 +84,10 @@ jobs:
 
       - name: Sync content
         run: yarn workflow sync
+
+      - name: Remove .git from nested repository
+        run: |
+          rm -rf .idems_app/.git
       
       - name: Commit changes
         run: |
