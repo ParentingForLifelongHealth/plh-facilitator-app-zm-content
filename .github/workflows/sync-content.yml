@@ -91,8 +91,8 @@ jobs:
       
       - name: Commit changes
         run: |
-          git config --.idems_app/deployments/${{env.DEPLOYMENT_NAME}} user.email "action@github.com"
-          git config --.idems_app/deployments/${{env.DEPLOYMENT_NAME}} user.name "GitHub Action"
+          git config --file .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/.git user.email "action@github.com"
+          git config --filr .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/.git user.name "GitHub Action"
           git checkout -b automated-changes # Creating a new branch for these changes
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated commit message" # Only commit if there are changes
