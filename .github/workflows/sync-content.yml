@@ -97,12 +97,30 @@ jobs:
           git checkout -b automated-changes
           git add .  # This adds all changes to the staging area
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated commit message" # Only commit if there are changes
+      
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+          sudo apt-add-repository https://cli.github.com/packages
+          sudo apt update
+          sudo apt install gh
+      
+      - name: Create Pull Request using GitHub CLI
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+        run: |
+          cd .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+          git push origin automated-changes
+          echo $GH_TOKEN | gh auth login --with-token
+          gh pr create --base main --head automated-changes --title ${{ inputs.pr-title }} --body ${{ inputs.pr-body }}
 
-      - name: Create PR
-        uses: repo-sync/pull-request@v2
-        with:
-          source_branch: "automated-changes"
-          destination_branch: "main"
-          pr_title: ${{ inputs.pr-title }}
-          pr_body: ${{ inputs.pr-body }}
-          github_token: ${{ secrets.PAT }}
+
+
+    #  - name: Create PR
+     #   uses: repo-sync/pull-request@v2
+     #   with:
+     #     source_branch: "automated-changes"
+     #     destination_branch: "main"
+     #     pr_title: ${{ inputs.pr-title }}
+     #     pr_body: ${{ inputs.pr-body }}
+     #     github_token: ${{ secrets.PAT }}
