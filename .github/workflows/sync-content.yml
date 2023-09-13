@@ -85,11 +85,11 @@ jobs:
 
       - name: Move assets over
         run: |
-          cp -R ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/assets/ app_data/assets/ 
+          cp -R /.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/assets/ app_data/assets/ 
 
       - name: Move sheets over
         run: |
-          cp -R  ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  
+          cp -R  /.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  
       
       - name: Commit changes
         run: |
