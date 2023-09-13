@@ -93,26 +93,68 @@ jobs:
         working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git checkout -b automated-changes
+          git config --local user.name "GitHub Action"        
           git add .  # This adds all changes to the staging area
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated commit message" # Only commit if there are changes
+#  git checkout -b automated-changes
+
+
+      - name: Create Pull Request
+      # You may pin to the exact commit or the version.
+      # uses: peter-evans/create-pull-request@153407881ec5c347639a548ade7d8ad1d6740e38
+        uses: peter-evans/create-pull-request@v5.0.2
+        with:
+          token: ${{ secrets.PAT }}
+    # Relative path under $GITHUB_WORKSPACE to the repository. Defaults to $GITHUB_WORKSPACE.
+          path: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}             
+          # The title of the pull request.
+          title: ${{ inputs.pr-title }}
+          # The body of the pull request.
+          body: ${{ inputs.pr-body }}
+
+    # The message to use when committing changes.
+  #  commit-message: # optional, default is [create-pull-request] automated change
+    # The committer name and email address in the format `Display Name <email@address.com>`. Defaults to the GitHub Actions bot user.
+ #    push-to-fork: # optional
+
+   
+    # The pull request branch name.
+#    branch: # optional, default is create-pull-request/patch
+    # Delete the `branch` when closing pull requests, and when undeleted after merging. Recommend `true`.
+
+
+
+#    base: # optional
+    # A fork of the checked out parent repository to which the pull request branch will be pushed. e.g. `owner/repo-fork`. The pull request will be created to merge the fork's branch into the parent's base.
+
+
+
+  #  labels: # optional
+  
+
+
+
+
+
+
+
+
       
-      - name: Install GitHub CLI
-        run: |
-          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
-          sudo apt-add-repository https://cli.github.com/packages
-          sudo apt update
-          sudo apt install gh
+  #    - name: Install GitHub CLI
+  #      run: |
+  #        sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+  #        sudo apt-add-repository https://cli.github.com/packages
+  #        sudo apt update
+  #        sudo apt install gh
       
-      - name: Create Pull Request using GitHub CLI
-        env:
-          GH_TOKEN: ${{ secrets.PAT }}
-        run: |
-          cd .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
-          git push origin automated-changes
-          echo $GH_TOKEN | gh auth login --with-token
-          gh pr create --base main --head automated-changes --title ${{ inputs.pr-title }} --body ${{ inputs.pr-body }}
+  #    - name: Create Pull Request using GitHub CLI
+  #      env:
+  #        GH_TOKEN: ${{ secrets.PAT }}
+  #      run: |
+  #        cd .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
+  #        git push origin automated-changes
+  #        echo $GH_TOKEN | gh auth login --with-token
+  #        gh pr create --base main --head automated-changes --title ${{ inputs.pr-title }} --body ${{ inputs.pr-body }}
 
 
 
