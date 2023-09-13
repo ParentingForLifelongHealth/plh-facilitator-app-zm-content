@@ -51,7 +51,10 @@ jobs:
       - name: Checkout deployment
         uses: actions/checkout@v3
         with:
+          token: ${{ secrets.PAT }}
           path: ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
+
+          
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
         run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
@@ -81,28 +84,19 @@ jobs:
 
       - name: Sync content
         run: yarn workflow sync
-
-      - name: re initialize repository
-        uses: actions/checkout@v3
-        with: 
-          token: ${{ secrets.PAT }}
-          fetch-depth: 0 
-
-      - name: Move assets over
-        run: |
-          cp -R .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/ app_data/
       
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git checkout -b automated-changes # Creating a new branch for these changes
           git add app_data/
-          git commit -m "Automated commit message"
-
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated commit message" # Only commit if there are changes
+        
       - name: Create PR
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: ""
+          source_branch: "automated-changes"
           destination_branch: "main"
           pr_title: ${{ inputs.pr-title }}
           pr_body: ${{ inputs.pr-body }}
