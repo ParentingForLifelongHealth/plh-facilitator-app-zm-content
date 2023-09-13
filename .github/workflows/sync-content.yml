@@ -85,13 +85,11 @@ jobs:
 
       - name: Move assets over
         run: |
-          ROBOCOPY ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/assets app_data/assets /E
-          continue-on-error: true 
+          cp -R ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/assets/ app_data/assets/ 
 
       - name: Move sheets over
         run: |
-          ROBOCOPY ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  /E
-          continue-on-error: true 
+          cp -R  ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  
       
       - name: Commit changes
         run: |
