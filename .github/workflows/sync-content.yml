@@ -86,16 +86,12 @@ jobs:
       - name: Move assets over
         run: |
           cp -R .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/ app_data/
-
-      - name: Move sheets over
-        run: |
-          cp -R  /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  
       
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add app_data/assets/ app_data/sheets/
+          git add app_data/
           git commit -m "Automated commit message"
 
       - name: Create PR
