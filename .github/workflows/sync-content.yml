@@ -85,11 +85,11 @@ jobs:
 
       - name: Move assets over
         run: |
-          cp -R /.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/ app_data/
+          cp -R .idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/ app_data/
 
       - name: Move sheets over
         run: |
-          cp -R  /.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  
+          cp -R  /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/app_data/sheets app_data/sheets  
       
       - name: Commit changes
         run: |
