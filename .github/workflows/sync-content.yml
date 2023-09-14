@@ -114,8 +114,16 @@ jobs:
         run: |
           echo "${{env.GDRIVE_TOKEN}}" > ./packages/scripts/config/token.json
     
+      - name: Debug print
+        run: cat ./packages/scripts/config/token.json
 
-        
+      - name: Add google token
+        run: echo "$GDRIVE_TOKEN" > ./packages/scripts/config/token.json
+        env:
+          GDRIVE_TOKEN: ${{ env.GDRIVE_TOKEN }}
+
+      - name: Debug print
+        run: cat ./packages/scripts/config/token.json
 
       - name: Sync content
         run: yarn workflow sync
