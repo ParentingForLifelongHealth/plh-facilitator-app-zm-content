@@ -150,6 +150,7 @@ jobs:
           title: ${{ inputs.pr-title }}
           # The body of the pull request.
           body: ${{ inputs.pr-body }}
+          labels: test - preview
 
     # The message to use when committing changes.
   #  commit-message: # optional, default is [create-pull-request] automated change
