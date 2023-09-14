@@ -75,6 +75,72 @@
       "media_asset": "audio/faq/unhelpful_participant_suggestion_testimonial.mp3",
       "title_short": "Audio: Testimonial",
       "icon_asset": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "media_7",
+      "number": 7,
+      "foreign_id": "intro_goals",
+      "type_caption": "Video",
+      "type": "video",
+      "title": "Physical Exercise",
+      "introduction": "This is a video",
+      "title_short": "Video: Physical Exercise",
+      "icon_asset": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "media_8",
+      "number": 8,
+      "foreign_id": "article _1",
+      "type_caption": "Video",
+      "type": "video",
+      "title": "Trust Game",
+      "introduction": "This is a video",
+      "title_short": "Video: Trust Game",
+      "icon_asset": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "media_9",
+      "number": 9,
+      "foreign_id": "leading_roleplay",
+      "type_caption": "Video",
+      "type": "video",
+      "title": "Videos",
+      "introduction": "This is a video",
+      "title_short": "Video: Videos",
+      "icon_asset": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "media_10",
+      "number": 10,
+      "foreign_id": "aecp_techniques",
+      "type_caption": "Video",
+      "type": "video",
+      "title": "Listen to a facilitator",
+      "introduction": "This is a video",
+      "title_short": "Video: Listen to a facilitator",
+      "icon_asset": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "media_11",
+      "number": 11,
+      "foreign_id": "contagious emotions",
+      "type_caption": "Video",
+      "type": "video",
+      "title": "Video on contagious emotions",
+      "introduction": "This is a video",
+      "title_short": "Video: Video on contagious emotions",
+      "icon_asset": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "media_12",
+      "number": 12,
+      "foreign_id": "problem_solving",
+      "type_caption": "Video",
+      "type": "video",
+      "title": "The Human Knot",
+      "introduction": "This is a video",
+      "title_short": "Video: The Human Knot",
+      "icon_asset": "images/icons/recording_blue.svg"
     }
   ],
   "_xlsxPath": "data/media_data.xlsx"

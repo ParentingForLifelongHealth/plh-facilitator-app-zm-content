@@ -1,0 +1,33 @@
+{
+  "flow_name": "faq_healthy_food_habits",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "article",
+      "value": "article",
+      "rows": [
+        {
+          "name": "data",
+          "value": "faq",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "article.data"
+        },
+        {
+          "name": "article_id",
+          "value": "healthy_food_habits",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "article.article_id"
+        }
+      ],
+      "_nested_name": "article"
+    }
+  ]
+}
