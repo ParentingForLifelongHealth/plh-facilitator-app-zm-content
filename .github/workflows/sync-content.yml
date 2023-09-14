@@ -9,7 +9,9 @@ env:
   PARENT_DEPLOYMENT_BRANCH: ${{vars.PARENT_DEPLOYMENT_BRANCH}}
   DEPLOYMENT_PRIVATE_KEY: ${{secrets.DEPLOYMENT_PRIVATE_KEY}}
   FIREBASE_CONFIG: ${{secrets.FIREBASE_CONFIG}}
-  GDRIVE_KEY: ${{ secrets.GDRIVE_PRIVATE }} 
+  #GDRIVE_KEY: ${{ secrets.GDRIVE_PRIVATE }} 
+  GDRIVE_CREDENTIALS: ${{ GDRIVE_CREDENTIALS }} 
+  GDRIVE_TOKEN:  ${{ secrets.GDRIVE_TOKEN }}
   
 
 ##################################################################################
@@ -105,11 +107,11 @@ jobs:
           
       - name: Add google credentials
         run: |
-          echo ${{ secrets.GDRIVE_CREDENTIALS }} > ./packages/scripts/config/credentials.json
+          echo "${{env.GDRIVE_CREDENTIALS}}" > ./packages/scripts/config/credentials.json
     
       - name: Add google token
         run: |
-          echo ${{ secrets.GDRIVE_TOKEN }} > ./packages/scripts/config/token.json
+          echo "${{env.GDRIVE_TOKEN}}" > ./packages/scripts/config/token.json
     
 
         
