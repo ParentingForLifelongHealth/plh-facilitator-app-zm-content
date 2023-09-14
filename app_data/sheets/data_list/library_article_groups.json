@@ -1,0 +1,13 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "library_article_groups",
+  "status": "released",
+  "data_list_name": "library_article_groups",
+  "rows": [
+    {
+      "id": "library",
+      "title": "Library"
+    }
+  ],
+  "_xlsxPath": "data/library_data.xlsx"
+}

@@ -7,6 +7,14 @@
     {
       "id": "sessions",
       "title": "Sessions"
+    },
+    {
+      "id": "facilitator_journey",
+      "title": "The Facilitator Journey"
+    },
+    {
+      "id": "aecp",
+      "title": "AECP"
     }
   ],
   "_xlsxPath": "data/article_data.xlsx"
