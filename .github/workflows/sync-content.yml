@@ -86,6 +86,26 @@ jobs:
       - name: Set deployment
         run: yarn workflow deployment set $DEPLOYMENT_NAME
 
+
+      - name: Add private key
+        run: |
+          mkdir -p /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/
+          echo ${{ secrets.GDRIVE_PRIVATE }} > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/private.key
+
+      - name: Set deployment
+        run: yarn workflow deployment encrypt
+          
+      - name: Add google credentials
+        run: |
+          echo ${{ secrets.GDRIVE_CREDENTIALS }} > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/credentials.json
+    
+      - name: Add google token
+        run: |
+          echo ${{ secrets.GDRIVE_TOKEN }} > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/token.json
+    
+
+        
+
       - name: Sync content
         run: yarn workflow sync
       
