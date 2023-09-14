@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   build:  
-    if: contains(github.event.pull_request.labels.*.name, 'Test - preview')
+    if: contains(github.event.pull_request.labels.*.name, 'test - preview')
     uses: ./.github/workflows/web-build.yml
     secrets: inherit
     with:
