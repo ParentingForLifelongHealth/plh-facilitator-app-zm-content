@@ -8,11 +8,12 @@ env:
   PARENT_DEPLOYMENT_NAME: ${{vars.PARENT_DEPLOYMENT_NAME}}
   PARENT_DEPLOYMENT_BRANCH: ${{vars.PARENT_DEPLOYMENT_BRANCH}}
   DEPLOYMENT_PRIVATE_KEY: ${{secrets.DEPLOYMENT_PRIVATE_KEY}}
-  FIREBASE_CONFIG: ${{secrets.FIREBASE_CONFIG}}
-  #GDRIVE_KEY: ${{ secrets.GDRIVE_PRIVATE }} 
-  GDRIVE_CREDENTIALS: ${{ GDRIVE_CREDENTIALS }} 
+  FIREBASE_CONFIG: ${{secrets.FIREBASE_CONFIG}}  
+  GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }} 
   GDRIVE_TOKEN:  ${{ secrets.GDRIVE_TOKEN }}
-  
+
+
+  #GDRIVE_KEY: ${{ secrets.GDRIVE_PRIVATE }} 
 
 ##################################################################################
 #         Main Code
