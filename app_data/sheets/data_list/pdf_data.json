@@ -5,53 +5,109 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "article_1",
+      "4": "article_1",
       "title": "Session 1 PDF",
       "pdf_asset": "pdf/draft_template_manual_format.pdf",
       "title_short": "Session 1 PDF",
       "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "question_1",
+      "4": "question_1",
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
-      "id": "article_question_1",
+      "4": "article_question_1",
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
-      "id": "question_11",
+      "4": "question_11",
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
-      "id": "question_12",
+      "4": "question_12",
       "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
-      "id": "manual_intro_goals",
+      "4": "manual_intro_goals",
       "title": "Manual",
+      "pdf_asset": "pdf/manual_intro_goals.pdf",
       "title_short": "Manual",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "home_visit_guide",
-      "title": "Home Visit Guide",
-      "title_short": "Home Visit Guide",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
+      "4": "manual_1_on_1_time",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_1_on_1_time.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_praise_instructions",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_praise_instructions.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_managing_anger_stress",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_managing_anger_stress.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_establing_rules",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_establishing_rules.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_family_budgeting",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_family_budgeting.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_accepting_responsibilities",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_accepting_responsibilities.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_family_problemsolving",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_family_problemsolving.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_keeping_safe",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_keeping_safe.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "4": "manual_widening_support",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_widening_support.pdf",
+      "title_short": "Manual",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     }
   ],
   "_xlsxPath": "data/media_data.xlsx"

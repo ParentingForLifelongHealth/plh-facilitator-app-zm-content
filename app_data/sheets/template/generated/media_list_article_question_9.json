@@ -10,7 +10,7 @@
       "rows": [
         {
           "name": "data",
-          "value": "article_faq",
+          "value": "faq",
           "_translations": {
             "value": {}
           },
