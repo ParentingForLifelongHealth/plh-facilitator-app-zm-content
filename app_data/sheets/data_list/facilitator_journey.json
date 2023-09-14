@@ -1,0 +1,59 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "facilitator_journey",
+  "status": "released",
+  "data_list_name": "facilitator journey",
+  "rows": [
+    {
+      "id": "recruitment",
+      "number": 1,
+      "title": "Recruitment",
+      "title_button": "Session 1: Recruitment",
+      "icon_asset": "images/icons/women and girl with phone.svg",
+      "message_title_1": "@global.message_title",
+      "media_title": "This is media",
+      "media_icon": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "session_time_management",
+      "number": 2,
+      "title": "Managing time in a session",
+      "title_button": "Session 2: Managing time in a session",
+      "icon_asset": "images/icons/women and girl with phone.svg",
+      "message_title_1": "@global.message_title",
+      "media_title": "This is media",
+      "media_icon": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "tips_leading_rolepays",
+      "number": 3,
+      "title": "Tips on leading a role play",
+      "title_button": "Session 3: Tips on leading a role play",
+      "icon_asset": "images/icons/women and girl with phone.svg",
+      "message_title_1": "@global.message_title",
+      "media_title": "This is media",
+      "media_icon": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "handling_difficult_topics",
+      "number": 4,
+      "title": "How to prepare and handle uncomfortbale topics",
+      "title_button": "Session 4: How to prepare and handle uncomfortbale topics",
+      "icon_asset": "images/icons/women and girl with phone.svg",
+      "message_title_1": "@global.message_title",
+      "media_title": "This is media",
+      "media_icon": "images/icons/recording_blue.svg"
+    },
+    {
+      "id": "pitching_programme",
+      "number": 5,
+      "title": "How to sell the programme to participants",
+      "title_button": "Session 5: How to sell the programme to participants",
+      "icon_asset": "images/icons/women and girl with phone.svg",
+      "message_title_1": "@global.message_title",
+      "media_title": "This is media",
+      "media_icon": "images/icons/recording_blue.svg"
+    }
+  ],
+  "_xlsxPath": "data/library_data.xlsx"
+}
