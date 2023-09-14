@@ -24,6 +24,7 @@ config.app_config.APP_HEADER_DEFAULTS.title = "Implementer App";
 config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Implementer App";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Implementer App";
 config.app_config.APP_THEMES.available = ["default", "professional"];
+config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
 config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
