@@ -95,21 +95,21 @@ jobs:
    #       echo ${{ secrets.GDRIVE_PRIVATE }} | base64 -d > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/private.key
 
 
-      - name: Add private key
-        run: echo "${{env.GDRIVE_KEY}}" > ./packages/scripts/config/private.key
+  #    - name: Add private key
+  #      run: echo "${{env.GDRIVE_KEY}}" > ./packages/scripts/config/private.key
     #    run: | GDRIVE_KEY
     #      echo ${{ secrets.GDRIVE_PRIVATE }} | base64 -d > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/private.key
 
-      - name: Set deployment
-        run: yarn workflow deployment encrypt
+   #   - name: Set deployment
+    #    run: yarn workflow deployment encrypt
           
       - name: Add google credentials
         run: |
-          echo ${{ secrets.GDRIVE_CREDENTIALS }} > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/credentials.json
+          echo ${{ secrets.GDRIVE_CREDENTIALS }} > ./packages/scripts/config/credentials.json
     
       - name: Add google token
         run: |
-          echo ${{ secrets.GDRIVE_TOKEN }} > /home/runner/work/plh-facilitator-app-zm-content/plh-facilitator-app-zm-content/packages/scripts/config/token.json
+          echo ${{ secrets.GDRIVE_TOKEN }} > ./packages/scripts/config/token.json
     
 
         
