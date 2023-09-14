@@ -7,7 +7,7 @@ name: Deployment Preview
 on:
   pull_request:
     branches:
-      - master
+      - main
 concurrency:
   group: deployment-preview-${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
