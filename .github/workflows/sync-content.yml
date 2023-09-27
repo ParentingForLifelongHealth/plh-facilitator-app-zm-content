@@ -107,7 +107,7 @@ jobs:
       - name: Increment version number
         run: |
           # Extract the version number
-          VERSION=$(grep 'content_tag_latest:' .idems_app/deployments/config.ts | sed 's/content_tag_latest: "\(.*\)"/\1/')
+          VERSION=$(grep 'content_tag_latest:' .idems_app/deployments/${{env.PARENT_DEPLOYMENT_NAME}}/config.ts | sed 's/content_tag_latest: "\(.*\)"/\1/')
         
           # Split the version into major, minor, and patch components
           IFS='.' read -ra VERSION_PARTS <<< "$VERSION"
