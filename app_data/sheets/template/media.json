@@ -14,7 +14,7 @@
     },
     {
       "name": "data",
-      "value": "related_media",
+      "value": "media",
       "_translations": {
         "value": {}
       },
@@ -160,12 +160,16 @@
     },
     {
       "type": "video",
-      "name": "video_src",
+      "name": "video",
       "value": "@local.media_data.media_asset",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "video_src",
+      "parameter_list": {
+        "title": "@item.title"
+      },
+      "condition": "@item.type == \"video\"",
+      "_nested_name": "video",
       "_dynamicFields": {
         "value": [
           {
@@ -174,25 +178,89 @@
             "type": "local",
             "fieldName": "media_data"
           }
+        ],
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@item.title",
+              "matchedExpression": "@item.title",
+              "type": "item",
+              "fieldName": "title"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "@item.type == \"video\"",
+            "matchedExpression": "@item.type",
+            "type": "item",
+            "fieldName": "type"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@local.media_data.media_asset": [
           "value"
+        ],
+        "@item.title": [
+          "parameter_list.title"
+        ],
+        "@item.type": [
+          "condition"
         ]
       }
     },
     {
       "type": "audio",
-      "name": "audio_1",
-      "value": "test_audio.mp3",
+      "name": "audio",
+      "value": "@local.media_data.media_asset",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
-        "title": "\"Audio player #1\""
+        "title": "@item.title"
       },
-      "_nested_name": "audio_1"
+      "condition": "@item.type == \"audio\"",
+      "_nested_name": "audio",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.media_data.media_asset",
+            "matchedExpression": "@local.media_data.media_asset",
+            "type": "local",
+            "fieldName": "media_data"
+          }
+        ],
+        "parameter_list": {
+          "title": [
+            {
+              "fullExpression": "@item.title",
+              "matchedExpression": "@item.title",
+              "type": "item",
+              "fieldName": "title"
+            }
+          ]
+        },
+        "condition": [
+          {
+            "fullExpression": "@item.type == \"audio\"",
+            "matchedExpression": "@item.type",
+            "type": "item",
+            "fieldName": "type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.media_data.media_asset": [
+          "value"
+        ],
+        "@item.title": [
+          "parameter_list.title"
+        ],
+        "@item.type": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/media.xlsx"

@@ -8,33 +8,28 @@
       "id": "article_1",
       "title": "Session 1 PDF",
       "pdf_asset": "pdf/draft_template_manual_format.pdf",
-      "title_short": "Session 1 PDF",
       "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
       "id": "question_1",
-      "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
       "id": "article_question_1",
-      "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
       "id": "question_11",
-      "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
     },
     {
       "id": "question_12",
-      "title_short": "Example PDF",
       "title": "Example PDF",
       "icon_asset": "images/icons/women and girl with phone.svg",
       "pdf_asset": "pdf/example.pdf"
@@ -42,17 +37,63 @@
     {
       "id": "manual_intro_goals",
       "title": "Manual",
-      "title_short": "Manual",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
+      "pdf_asset": "pdf/manual_intro_goals.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "home_visit_guide",
-      "title": "Home Visit Guide",
-      "title_short": "Home Visit Guide",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
+      "id": "manual_1_on_1_time",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_1_on_1_time.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_praise_instructions",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_praise_instructions.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_managing_anger_stress",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_managing_anger_stress.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_establing_rules",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_establishing_rules.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_family_budgeting",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_family_budgeting.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_accepting_responsibilities",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_accepting_responsibilities.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_family_problemsolving",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_family_problemsolving.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_keeping_safe",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_keeping_safe.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_widening_support",
+      "title": "Manual",
+      "pdf_asset": "pdf/manual_widening_support.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     }
   ],
-  "_xlsxPath": "data/media_data.xlsx"
+  "_xlsxPath": "data/article_data.xlsx"
 }
