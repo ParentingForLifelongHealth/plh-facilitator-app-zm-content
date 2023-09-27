@@ -102,6 +102,26 @@ jobs:
 
       - name: Sync content
         run: yarn workflow sync
+
+
+      - name: Increment version number
+        run: |
+          # Extract the version number
+          VERSION=$(grep 'content_tag_latest:' .idems_app/deployments/config.ts | sed 's/content_tag_latest: "\(.*\)"/\1/')
+        
+          # Split the version into major, minor, and patch components
+          IFS='.' read -ra VERSION_PARTS <<< "$VERSION"
+          PATCH_VERSION="${VERSION_PARTS[2]}"
+          
+          # Increment the patch version
+          NEW_PATCH_VERSION=$((PATCH_VERSION + 1))
+          
+          # Construct the new version
+          NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$NEW_PATCH_VERSION"
+          
+          # Replace the old version with the new version in file.txt
+          sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" file.txt
+    
       
       - name: Commit changes
         working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
