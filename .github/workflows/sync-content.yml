@@ -111,9 +111,17 @@ jobs:
           
           # Extract the version number
           VERSION=$(grep 'content_tag_latest:' $FILE_PATH | sed 's/content_tag_latest: "\(.*\)"/\1/')
-          
+    
+          echo "Extracted Version: $VERSION"
+    
           # Split the version into major, minor, and patch components
           IFS='.' read -ra VERSION_PARTS <<< "$VERSION"
+          
+          if [[ ${#VERSION_PARTS[@]} -ne 3 ]]; then
+             echo "Error: Version format is not as expected."
+             exit 1
+          fi
+          
           PATCH_VERSION="${VERSION_PARTS[2]}"
           
           # Increment the patch version
@@ -121,6 +129,9 @@ jobs:
           
           # Construct the new version
           NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$NEW_PATCH_VERSION"
+          
+
+  
           
           # Replace the old version with the new version in the file
           sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
