@@ -129,11 +129,16 @@ jobs:
           # Construct the new version
           NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$NEW_PATCH_VERSION"
           
+          echo "New Version: $NEW_VERSION"
 
   
           
           # Replace the old version with the new version in the file
-          sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+          #sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+          
+          sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+
+
         
       - name: Echo config.ts contents
         working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
