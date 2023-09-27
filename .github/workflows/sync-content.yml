@@ -106,9 +106,12 @@ jobs:
 
       - name: Increment version number
         run: |
+          # Define the path to the file
+          FILE_PATH="./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/config.ts"
+          
           # Extract the version number
-          VERSION=$(grep 'content_tag_latest:' .idems_app/deployments/${{env.PARENT_DEPLOYMENT_NAME}}/config.ts | sed 's/content_tag_latest: "\(.*\)"/\1/')
-        
+          VERSION=$(grep 'content_tag_latest:' $FILE_PATH | sed 's/content_tag_latest: "\(.*\)"/\1/')
+          
           # Split the version into major, minor, and patch components
           IFS='.' read -ra VERSION_PARTS <<< "$VERSION"
           PATCH_VERSION="${VERSION_PARTS[2]}"
@@ -119,9 +122,10 @@ jobs:
           # Construct the new version
           NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$NEW_PATCH_VERSION"
           
-          # Replace the old version with the new version in file.txt
-          sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" file.txt
-    
+          # Replace the old version with the new version in the file
+          sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+        
+
       
       - name: Commit changes
         working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
