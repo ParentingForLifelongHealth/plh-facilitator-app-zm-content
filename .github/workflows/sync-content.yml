@@ -110,8 +110,7 @@ jobs:
           FILE_PATH="./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/config.ts"
           
           # Extract the version number
-          VERSION=$(grep 'content_tag_latest:' $FILE_PATH | sed 's/content_tag_latest: "\(.*\)"/\1/')
-    
+          VERSION=$(grep 'content_tag_latest:' $FILE_PATH | sed 's/content_tag_latest: *"\(.*\)",/\1/')
           echo "Extracted Version: $VERSION"
     
           # Split the version into major, minor, and patch components
