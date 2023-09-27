@@ -1,0 +1,33 @@
+{
+  "flow_name": "media_media_1",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "type": "template",
+      "name": "media",
+      "value": "media",
+      "rows": [
+        {
+          "name": "data",
+          "value": "media",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "media.data"
+        },
+        {
+          "name": "media_id",
+          "value": "media_1",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "media.media_id"
+        }
+      ],
+      "_nested_name": "media"
+    }
+  ]
+}
