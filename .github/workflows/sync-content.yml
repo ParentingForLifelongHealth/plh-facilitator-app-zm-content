@@ -100,8 +100,8 @@ jobs:
         env:
           GDRIVE_TOKEN: ${{ env.GDRIVE_TOKEN }}
 
-      - name: Sync content
-        run: yarn workflow sync
+    #  - name: Sync content
+   #     run: yarn workflow sync
 
 
       - name: Increment version number
@@ -133,7 +133,8 @@ jobs:
           echo "Command: s/$VERSION/$NEW_VERSION/ $FILE_PATH"
           # $sed "s/$VERSION/$NEW_VERSION/" $FILE_PATH
 
-          sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+          #sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+          sed 's/\(content_tag_latest: "\)\([0-9]\+\.[0-9]\+\.\)\([0-9]\+\)"/\1\2'$((NEW_PATCH_VERSION))'"/' $FILE_PATH
 
           
           # Replace the old version with the new version in the file
