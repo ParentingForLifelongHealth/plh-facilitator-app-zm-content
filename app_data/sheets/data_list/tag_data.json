@@ -1,0 +1,25 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "tag_data",
+  "status": "released",
+  "data_list_name": "tag",
+  "rows": [
+    {
+      "id": "your_journey",
+      "title": "Your Journey"
+    },
+    {
+      "id": "sessions",
+      "title": "HHPP sessions"
+    },
+    {
+      "id": "solving_challenges",
+      "title": "Solving Challenges(FAQs)"
+    },
+    {
+      "id": "help",
+      "title": "Help"
+    }
+  ],
+  "_xlsxPath": "data/article_data.xlsx"
+}
