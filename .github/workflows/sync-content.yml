@@ -130,8 +130,8 @@ jobs:
           NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$NEW_PATCH_VERSION"
           
           echo "New Version: $NEW_VERSION"
-
-          $sed 's/$VERSION/$NEW_VERSION/' $FILE_PATH
+          echo "Command: s/$VERSION/$NEW_VERSION/ $FILE_PATH"
+          $sed "s/$VERSION/$NEW_VERSION/" $FILE_PATH
           
           # Replace the old version with the new version in the file
           #sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
