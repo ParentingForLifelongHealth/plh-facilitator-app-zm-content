@@ -131,14 +131,14 @@ jobs:
           
           echo "New Version: $NEW_VERSION"
 
-  
+          $sed 's/$VERSION/$NEW_VERSION/' $FILE_PATH
           
           # Replace the old version with the new version in the file
           #sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
           
-          sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
+         # sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
 
-
+          
         
       - name: Echo config.ts contents
         working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
