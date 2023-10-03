@@ -34,9 +34,173 @@
       "value": "@data.article",
       "rows": [
         {
+          "name": "tag_list",
+          "value": [
+            "@item.tag_list"
+          ],
+          "type": "set_variable",
+          "_nested_name": "items.tag_list",
+          "_dynamicFields": {
+            "value": {
+              "0": [
+                {
+                  "fullExpression": "@item.tag_list",
+                  "matchedExpression": "@item.tag_list",
+                  "type": "item",
+                  "fieldName": "tag_list"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@item.tag_list": [
+              "value.0"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "text_@item.id",
+          "value": "@local.tag_list",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "items.text_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "text_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "@local.tag_list",
+                "matchedExpression": "@local.tag_list",
+                "type": "local",
+                "fieldName": "tag_list"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.text_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ],
+            "@local.tag_list": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "value",
+          "value": "home_screen",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "items.value"
+        },
+        {
+          "name": "condition",
+          "value": "@calc(@local.tag_list.includes(@local.value))",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "items.condition",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@calc(@local.tag_list.includes(@local.value))",
+                "matchedExpression": "@local.tag_list.includes",
+                "type": "local",
+                "fieldName": "tag_list"
+              },
+              {
+                "fullExpression": "@calc(@local.tag_list.includes(@local.value))",
+                "matchedExpression": "@local.value",
+                "type": "local",
+                "fieldName": "value"
+              },
+              {
+                "fullExpression": "@calc(@local.tag_list.includes(@local.value))",
+                "matchedExpression": "@calc(@local.tag_list.includes(@local.value))",
+                "type": "calc",
+                "fieldName": "@local.tag_list.includes(@local.value)"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.tag_list.includes": [
+              "value"
+            ],
+            "@local.value": [
+              "value"
+            ],
+            "@calc(@local.tag_list.includes(@local.value))": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "show_condition_@item.id",
+          "value": "Condition is @local.condition",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "items.show_condition_@item.id",
+          "_dynamicFields": {
+            "name": [
+              {
+                "fullExpression": "show_condition_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "value": [
+              {
+                "fullExpression": "Condition is @local.condition",
+                "matchedExpression": "@local.condition",
+                "type": "local",
+                "fieldName": "condition"
+              }
+            ],
+            "_nested_name": [
+              {
+                "fullExpression": "items.show_condition_@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "name",
+              "_nested_name"
+            ],
+            "@local.condition": [
+              "value"
+            ]
+          }
+        },
+        {
           "type": "button",
           "name": "button_@item.id",
-          "value": "@item.title_button",
+          "value": "@item.title",
           "_translations": {
             "value": {}
           },
@@ -54,7 +218,7 @@
           "parameter_list": {
             "style": "card"
           },
-          "condition": "@item.group_id==\"sessions\"",
+          "condition": "@local.condition",
           "_nested_name": "items.button_@item.id",
           "_dynamicFields": {
             "name": [
@@ -67,10 +231,10 @@
             ],
             "value": [
               {
-                "fullExpression": "@item.title_button",
-                "matchedExpression": "@item.title_button",
+                "fullExpression": "@item.title",
+                "matchedExpression": "@item.title",
                 "type": "item",
-                "fieldName": "title_button"
+                "fieldName": "title"
               }
             ],
             "action_list": {
@@ -105,10 +269,10 @@
             },
             "condition": [
               {
-                "fullExpression": "@item.group_id==\"sessions\"",
-                "matchedExpression": "@item.group_id",
-                "type": "item",
-                "fieldName": "group_id"
+                "fullExpression": "@local.condition",
+                "matchedExpression": "@local.condition",
+                "type": "local",
+                "fieldName": "condition"
               }
             ],
             "_nested_name": [
@@ -128,10 +292,10 @@
               "action_list.0._cleaned",
               "_nested_name"
             ],
-            "@item.title_button": [
+            "@item.title": [
               "value"
             ],
-            "@item.group_id": [
+            "@local.condition": [
               "condition"
             ]
           }

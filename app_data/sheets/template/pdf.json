@@ -146,7 +146,7 @@
     },
     {
       "type": "pdf",
-      "name": "pdf_1",
+      "name": "pdf",
       "value": "@local.pdf_data.pdf_asset",
       "_translations": {
         "value": {}
@@ -154,7 +154,7 @@
       "parameter_list": {
         "starting_page": "1"
       },
-      "_nested_name": "pdf_1",
+      "_nested_name": "pdf",
       "_dynamicFields": {
         "value": [
           {
