@@ -19,7 +19,7 @@
           "type": "image",
           "name": "icon_asset",
           "style_list": [
-            "flex:1"
+            "flex:2"
           ],
           "_nested_name": "dg_header.icon_asset"
         }

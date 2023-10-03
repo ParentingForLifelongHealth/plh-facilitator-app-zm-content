@@ -6,160 +6,816 @@
   "rows": [
     {
       "id": "intro_goals",
-      "group_id": "sessions",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Introducing the Programme & Setting Goals",
-      "introduction": "The goals of this session is to introduce the programme to participants and to help them define relationship strengthening and behavior change goals that they would like to achieve by the end of the programme.",
-      "drop_down_title": "Session Summary",
-      "drop_down_header_1": "Core Principles",
-      "drop_down_header_2": "Materials",
+      "introduction": "The goal of this session is to introduce the program to participants and to help them define relationship strengthening and behaviour change goals that they would like to achieve by the end of the program.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Core Principles",
+      "section_text_1": "* Defining and setting goals.\n* Learning how to set goals.\n* Setting goals as a family.",
+      "section_title_2": "Materials",
+      "section_text_2": "* Flip chats, paper, pens, markers, crayons, Prestik.\n* Name tags.\n* Printed copies of session illustrations.\n* House of support.",
+      "section_title_3": "Agenda",
+      "section_text_3": "* Welcome and Session Preps (30 minutes).\n* Session Overview (30 minutes).\n* Core Lesson (60 minutes).\n* Session Close (30 minutes).",
+      "resource_header_1": "Manual",
       "resource_data_1": "pdf",
       "resource_id_1": "manual_intro_goals",
+      "resource_header_2": "Video",
       "resource_data_2": "media",
-      "resource_id_2": "media_3",
-      "resource_data_3": "pdf",
-      "resource_id_3": "home_visit_guide",
-      "resource_data_4": "article",
-      "resource_id_4": "article_0",
+      "resource_id_2": "media_7",
       "message_title_1": "Pre-Session Reminder",
-      "message_text_1": "Greetings parents! A reminder to spend one-on-one time with your teen this week.",
+      "message_text_1": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organization, and the meeting time and location).",
       "message_title_2": "Post-Session Reminder",
-      "message_text_2": "Greetings parents! Thank you for a wonderful session. A reminder this week that your home activity is to set a budget with your teen and keep praising them! You’re doing great!",
-      "faq_title": "FAQ",
-      "faq_id_1": "question_1",
-      "faq_id_2": "question_2",
-      "faq_id_3": "question_3",
+      "message_text_2": "Greetings Parents! Thank you for a wonderful session. A reminder this week that your home activity is to review your goals and share them with other family members. Also remember to do the physical exercise. You’re doing great!",
+      "related_articles_title": "Session FAQ",
+      "related_article_id_1": "late_arrival",
+      "related_article_id_2": "no_participation",
       "task_list_title": "Preparation Checklist",
-      "task_list_content": "* Prepare 2 caregivers for the role play\n* Confirm venue\n* Remind parents of the meeting time",
-      "number": 0,
-      "title_button": "Session 0: Introducing the Programme & Setting Goals",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "task_list_text": "* Confirm venue\n* Venue Preparation\n* Remind parents of the meeting time\n* Organise drinks and snacks\n* Consider bringing in a parent & their teen who have undergone the programme and can share their experience with the new families.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_0",
-      "number": 0,
-      "group_id": "sessions",
-      "title": "Safeguarding Information",
-      "introduction": "Please familiarise yourself with the following guidelines for handling disclosures of abuse, neglect, and violence from participants:\n1️⃣ **Understand abuse, neglect and exploitation.**\n❗ **Abuse** refers to a deliberate act of maltreatment that can damage a child’s security, wellbeing, dignity and development. Abuse includes all forms of physical, sexual, psychological and emotional maltreatment. (Save the Children definition)\n❗ **Violence** against children is defined as forms of physical or mental violence, damage and abuse, neglect or neglectful treatment or maltreatment or exploitation, including sexual abuse. (Office of the High Commissioner for Human Rights, 1990,Article 19)\n❗ **Child exploitation** refers to using the child for economical or sexual benefit, for gratification or profit, often resulting in unjust, cruel and harmful treatment of the child. (Save the Children definition)\n2️⃣ **Know your organisation’s child safeguarding policies and referral procedures.**\n📖 All organisations should have or develop child rights safeguarding policies and referral procedures, including details on how to respond appropriately when a parent or child discloses abuse. \n📝 You should have accurate knowledge of all protocols and response plans. These will tell you what to do within your organisation if a parent or child reports abuse (e.g. who to report to, internal resources for supporting the child), as well as how to engage outside resources (e.g. local referral pathways, when to engage with authorities). \n🔑 It is your responsibility to act regardless of whether you are responding to disclosures of past and/or present abuse. However, you are not responsible for resolving the situation on your own. It is important that you discuss the situation with your supervisor to agree on what steps to take next.\n3️⃣ **Ensure parents know that you are someone who can help.**\n🌷Parents participating in your sessions need to know that they can come to you for help, regardless of when abuse occurred. \n👂You should make sure that they know that they can trust you and that you will listen and support them without judgement or any further harm.",
-      "faq_title": "Safeguarding Guidelines",
-      "title_button": "Session 0: Safeguarding Information",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
-    },
-    {
-      "id": "article_1",
-      "number": 1,
-      "group_id": "sessions",
+      "id": "qual_time",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Family Goals & One-on-One Time",
-      "introduction": "**GOALS**\n1️⃣ Introduce the programme to the families\n2️⃣ Establish ground rules\n3️⃣ Discuss changes that occur during adolescence\n4️⃣ Share SPECIFIC, POSITIVE, and REALISTIC goals of parents and teens for the programme\n5️⃣ Discuss and practice One-on-One Time together\n\n**CORE PRINCIPLES**\n✅ Goals should be specific, positive, and realistic\n⭐ Short-term goals can lead to long-term achievement in life\n🔑 One-on-One Time with your parent/teen builds trust, communication, and positive relationships\n👂 Use Active Listening skills during One-on-One Time \n🌷 One-on-One Time shows that you value your teen\n\n**MATERIALS**\n📝Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys, refreshments for the break\n🔑House of Support poster\n\n**PREPARATION**\n1️⃣  Set up the room with chairs in a circle. \n2️⃣ Prepare materials for name tags and refreshments for break\n\n*After your session, you can follow up with your parents over WhatsApp using the message below:*",
-      "message_text_1": "😃 Hello and thanks for participating this week! I look forward to our next session together. A reminder:\nSpending quality time with your teen makes them feel secure and loved. Here are 3 things to try when you are spending One-on-One time with your teen:\n1️⃣ **DAY**: Try to spend One-on-One time with your teen every day.\n2️⃣ **PLAY**: Let them choose the activity.\n3️⃣ **STAY**: Stay totally focused on your teen. Show them you are paying attention by looking and responding to them. \n\nGood luck this week!",
-      "faq_title": "Support",
-      "title_button": "Session 1: Family Goals & One-on-One Time",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "introduction": "The goal of the session is to introduce participants to the concept of spending time together.\n\nBy spending time together parents and adolescents get to know each other and are able to relate better as they learn how to share experiences together.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Core principles",
+      "section_text_1": "* Spending time makes us get to know each other better.\n* Spending quality time provides us an opportunity to communicate to each other our needs and wants.\n* Spending time strengthens the bond between a parent and a child.\n* Spending time helps us pay attention to each other’s interests.",
+      "section_title_2": "Materials",
+      "section_text_2": "* Flip charts, paper, pens, makers, prestick.\n* Attendance register.\n* Name tag materials.\n* Printed session illustrations (“WhatsApp Quality Time”).",
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_1_on_1_time",
+      "resource_data_2": "media",
+      "resource_id_2": "media_8",
+      "message_title_1": "Pre-Session Reminder",
+      "message_text_1": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organization, and the meeting time and location).",
+      "message_guidance_1": "Don’t forget to edit this and insert the next meeting time and location!",
+      "message_title_2": "Post-Session Reminder",
+      "message_text_2": "Greetings Parents! Thank you for a wonderful session. A reminder this week that your home activity is to spend at least 15 minutes of your quality time together. Each day is about each other’s day and try to listen carefully. You’re doing great!",
+      "message_guidance_2": "Don’t forget to edit this and insert the next meeting time and location",
+      "related_articles_title": "Session FAQ",
+      "task_list_title": "Preparation Checklist",
+      "task_list_text": "* Prepare for the session with your work partner ( study the trust game).\n* Remember to introduce the concept of role-playing and the characters.\n* Prepare the venue.\n* Gather all the necessary session materials.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_2",
-      "number": 2,
-      "group_id": "sessions",
+      "id": "praise_instructions",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Keeping it Positive: Praise & Instructions",
-      "introduction": "**GOALS**\n1️⃣ Parents and teens learn how to praise and appreciate each other\n2️⃣ Parents become more effective at giving specific, positive, and realistic instructions\n3️⃣ Teens learn how to communicate their needs and wants in a clear and calm way\n\n**CORE PRINCIPLES**\n✅ Praise the behaviour you want to see in your parent/teen\n⭐ Appreciate your parent/teen for the positive things that s/he does\n📝 Be specific, immediate, and enthusiastic when you praise your parent/teen\n🔑 Your parent/teen will feel better about him/herself when you praise him/her\n👂 Praise your teen when s/he follows your instruction\n🌷 Instructions should be positive, specific, and realistic and given in a calm voice\n🌷 Explain what you want to your parent/teen in a clear and calm way\n⭐ Praise yourself!\n\n\n**MATERIALS**\n📝Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys, refreshments for the break\n🔑House of Support poster\n\n**PREPARATION**\n1️⃣  Set up the room with chairs in a circle. \n2️⃣ Prepare materials for name tags and refreshments for break\n\n*After your session, you can follow up with your parents over WhatsApp using the message below:*",
+      "introduction": "Session 3 focuses on praising each other, This session will help cultivate positive behavior that comes with praise.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Core principles",
+      "section_text_1": "* Praise helps to build positive relationships and brings out the behavior we want to see.\n* Praise boosts self-confidence in adolescents.",
+      "section_title_2": "Materials",
+      "section_text_2": "* Flip chart\n* Papers\n* Pens,\n* Markers,\n* Name tags; \n* Attendance register,\n* Printed copies of session illustrations.",
+      "section_title_3": "Venue Preparation",
+      "section_text_3": "* The venue is clean\n* Chairs are set, and participants will sit in a circle.",
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_praise_instructions",
       "message_title_1": "Optional Mid-Week Reminder to Share After the Session",
       "message_text_1": "Great work this week, everyone! Our list of home activities is growing! Don't forget about the importance of one-on-one time this week and remember to focus on these home activities: \n\n✅ Practice Praising your parent/teen at least 3 times a day. \n✅ Praise yourself when you notice you are doing something good, too. You deserve it!\n✅ Parents: Notice how you give instructions and try to make them positive, specific, and realistic.\n✅ Teens: Remember to be calm and clear when talking to your parent about things that are important to you.\n✅ Do something nice to reward yourself for your hard work in the PLH Teens programme!\n✅ Spend at least 10 minutes of One-on-One Time each day with your teen/parent.\n✅ Take a Pause whenever you are feeling stressed or upset. You can even Take a Pause to appreciate a positive emotion!\n✅ Do the Physical Exercise every morning.\n✅ Meet with or contact (call or text message) your PLH Buddy one time during the week.",
-      "message_text_2": "Why do you think spending One-on-One Time with your children could be helpful? 💡\nTell us here using text or audio message. 📝 You can respond to each other’s messages and give each other ideas too! 📱",
-      "message_text_3": "Thanks for sharing so many wonderful responses! 🎉 \nYour child will be really happy if you get to spend at least 5 minutes of one-on-one time each day. 😃",
-      "faq_title": "Responding to Parents",
-      "title_button": "Session 2: Keeping it Positive: Praise & Instructions",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "message_text_2": "Thanks for sharing so many wonderful responses! 🎉 \nYour child will be really happy if you get to spend at least 5 minutes of one-on-one time each day. 😃",
+      "related_articles_title": "Session FAQ",
+      "task_list_title": "How to use strictured praise",
+      "task_list_text": "* It's important to notice the behavior\n* Call the person you are praising by name and praise should be noticed and highlighted.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_3",
-      "number": 3,
-      "group_id": "sessions",
+      "id": "managing_anger_stress",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Keeping it Cool: Managing Anger and Stress",
-      "faq_title": "Key Issues to Be Aware Of",
-      "title_button": "Session 3: Keeping it Cool: Managing Anger and Stress",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "introduction": "Session 4 focuses on talking about emotions, how to be aware and deal with them. Also how it helps in building stronger family relationships.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Core principles",
+      "section_text_1": "* Talking about our emotions helps us control how we react or respond in difficult situations.\n* Talking about our emotions helps develop awareness of our feelings and thoughts. \n* Talking about emotions helps us to move past difficult them and resolve conflicts better.",
+      "section_title_2": "Materials",
+      "section_text_2": "* Flip chart, paper, pens, markers, Prestik\n* Attendance register \n* Name tag materials",
+      "section_title_3": "Venue Preparation",
+      "section_text_3": "* Make sure that the workshop venue is clean.\n* Set up chairs where the participants will sit in a circle\n* Prepare all the materials that you will use during the group session",
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_managing_anger_stress",
+      "resource_data_2": "media",
+      "resource_id_2": "media_11",
+      "message_text_2": "Next week we will learn how to praise each other.",
+      "related_articles_title": "Key Issues to Be Aware Of",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_4",
-      "number": 4,
-      "group_id": "sessions",
+      "id": "establishing_rules",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Establishing Rules to Keep Healthy and Safe",
-      "introduction": "Parents will focus on their child's healthy eating habits this week. This session will allow parents to discuss the importance of training children to practise healthy eating habits from a young age. \nThe three tips that parents can follow to support their child's healthy eating habits are:  \n1️⃣ **FIND A HEALTHY BALANCE**:  Let the child enjoy a variety of food based on the recommended daily intakes.\n2️⃣ **MANAGE EMOTIONS**: Redirect or ignore the child's demanding behaviour for unhealthy food.\n3️⃣ **KEEP IT CLEAN**: Wash your hands and fresh food items before cooking. Maintain freshness of food by storing them in the fridge.",
-      "faq_title": "Food Choices & Decisions at Home",
-      "title_button": "Session 4: Establishing Rules to Keep Healthy and Safe",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "introduction": "This session looks at how to manage our anger and stress when we find ourselves in difficult situations and to learn why it is important to communicate how we feel with the people around us.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Goals",
+      "section_text_1": "* The goal of the session is for parents and adolescents to learn about how to manage anger in an effective way. Especially for parents, sometimes it can be difficult and frustrating when dealing with difficult adolescent behaviors.\n* It is important that both parents and adolescents develop strategies that will help them respond to situations that make them angry in a more effective and non-aggressive way.",
+      "section_title_2": "Core principles",
+      "section_text_2": "* Managing our anger helps us to control aggressive reactions towards a situation.\n* Learning to manage our stress and anger can improve our situation and help us feel better.",
+      "section_title_3": "Core Lessons",
+      "section_text_3": "Parents Session\n1.Negative Role play: Amai is sick (add a button to the library on Amai is sick)\nDiscussion about negative role play\n\n2. Positive role play: Amai is sick (add a button to the library)\nDiscussion about positive role play\n\n* Energizer: “Pizza Hut”\n* Taking a pause\n\n\nAdolescents session\n1. Negative Role play: The Test (add link to the library)\n Discussion about negative role play\n2.Positive role play: The Test(add link to the library on \nDiscussion about positive role play",
+      "section_title_4": "Materials",
+      "section_text_4": "* Flip chart, paper, pens, markers, prestik\n* Attendance register \n* Name tag materials\n* Printed copies of Session Illustration “Amai is sick positive”\n* House of Support Poster",
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_establing_rules",
+      "related_articles_title": "Food Choices & Decisions at Home",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_5",
-      "number": 5,
-      "group_id": "sessions",
+      "id": "family_budgeting",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Family Budgeting and Ways to Save",
-      "title_button": "Session 5: Family Budgeting and Ways to Save",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_family_budgeting",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_6",
-      "number": 6,
-      "group_id": "sessions",
+      "id": "accepting_responsibilities",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Accepting Responsibility for Our Actions",
-      "faq_title": "Issues shared by parents",
-      "title_button": "Session 6: Accepting Responsibility for Our Actions",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_accepting_responsibilities",
+      "related_articles_title": "Issues shared by parents",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_7",
-      "number": 7,
-      "group_id": "sessions",
+      "id": "family_problemsolving",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Solving Problems Together as a Family",
-      "title_button": "Session 7: Solving Problems Together as a Family",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "introduction": "This session is about developing and practicing problem-solving skills that will help us to face challenges.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Core principles",
+      "section_text_1": "Learning and practising problem-solving skills helps us to face challenges and to find new solutions to difficult situations.",
+      "section_title_2": "Core Lessons",
+      "section_text_2": "* Negative Role play: The new fancy phone\n* Discussion about negative role play\n* Positive role play: The new fancy phone\n* Discussion about positive role play\n* Freeze-and-play role play: Staying out late (negative)\n* Energizer: “Count Down from 5”",
+      "section_title_3": "Materials",
+      "section_text_3": "* Flip chart, paper, pens, markers, Prestik\n* Attendance register \n* Name tag materials\n* Printed copies of the Session Illustration “Putting out a fire” Make sure that the workshop venue is clean.\n* Venue Preparation\n* Set up chairs where the participants will sit in a circle\n* Prepare all the materials that you will use during the group session",
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_family_problemsolving",
+      "resource_data_2": "media",
+      "resource_id_2": "problem_solving",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_8",
-      "number": 8,
-      "group_id": "sessions",
+      "id": "keeping_safe",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Keeping Safe in the Community & Responding to Crises",
-      "introduction": "This week our main focus is helping parents build positive family relationships by being a supportive spouse and parent. \nThe key building blocks for being a supportive spouse and parent are SHOW APPRECIATION, WORK TOGETHER, LEND A HAND, and ASK FOR HELP. \n1️⃣ **SHOW APPRECIATION** ⚽ Show your spouse that you appreciate it when they spend quality time with your children. \n2️⃣ **WORK TOGETHER**😃 Unsure how to work together with your spouse? Ask them! ✅ By asking, you show that you care and want to be involved! \n3️⃣ **LEND A HAND**👋It can sometimes be difficult to remember to ask your spouse if they need help. 💡 Once you start asking, they may realise you want to be more involved and begin asking for your help on their own.   \n4️⃣ **ASK FOR HELP**😒 It can be hard to ask for help. Sometimes we expect our spouses to know we need help even if we don’t ask them. ⭐Once you start asking, they will likely start offering to help more in the future! 💚 Thank your spouse!",
-      "title_button": "Session 8: Keeping Safe in the Community & Responding to Crises",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_keeping_safe",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "article_9",
-      "number": 9,
-      "group_id": "sessions",
+      "id": "widening_support",
+      "tag_list": [
+        "sessions"
+      ],
       "title": "Widening Circles of Support",
-      "title_button": "Session 9: Widening Circles of Support",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "message_title_1": "@global.message_title",
-      "media_title": "This is media",
-      "media_icon": "images/icons/recording_blue.svg"
+      "resource_header_1": "Manual",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_widening_support",
+      "task_list_title": "Preparation Checklist",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "home_visits",
+      "tag_list": [
+        "your_journey"
+      ],
+      "title": "Home visits & phone calls",
+      "introduction": "<span>Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.<br/>Building the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available.</span><span><b><br/></b></span>",
+      "sections_title": "How to make follow-ups a success:",
+      "section_title_1": "Ask participants for suggestions",
+      "section_text_1": "Brainstorm ideas with your participants by asking ‘Some of our group have missed this session, what can we do to get everyone updated?’. When ideas and suggested dates/times come from participants it is more likely that the solution will work well for them and that they will follow through.",
+      "section_title_2": "Use the buddy system",
+      "section_text_2": "In HHPP, each participant is paired with a ‘buddy’. \nA buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\nTo prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session.",
+      "section_title_3": "Do a joint home visit catch-up",
+      "section_text_3": "When multiple participants have missed a session, you can invite them to come for a joint catch-up session at one of their homes. This is particularly helpful when participants stay closer together.",
+      "section_title_4": "Do a phone call or WhatsApp call",
+      "section_text_4": "When participants have phones, you can give them a call to catch them up on a session missed.\nIf they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up).",
+      "section_title_5": "Meet participants at school/work",
+      "section_text_5": "It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.).",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "pregroup_homevisits",
+      "tag_list": [
+        "your_journey"
+      ],
+      "title": "Pre-group home visits",
+      "sections_title": "Setting goals",
+      "section_title_1": "Steps of setting goals",
+      "section_text_1": "* Ask participants what goal they would like to achieve during the programme\n* Make the goals positive\n* Make the goals realisable within 14 weeks\n* “Your goal is to see your child go to university. Our programme is 14 weeks. Will your child be able to go to university in 14 weeks from now? Is there a quicker goal that can help your child go to university? [participant response] Yes, you can help your child so they improve their marks in school this semester.”\n* Make the goals focused on the person sharing (instead of their parent/teen):\n* “What can you do to help realise that goal?” (e.g. your goals is for your child to listen – what can you do as parent?).",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "group_participation",
+      "tag_list": [
+        "solving_challenges"
+      ],
+      "title": "Group Participation",
+      "introduction": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals.",
+      "sections_title": "I have a challenge related to:",
+      "section_title_1": "Sharing traumatic experiences",
+      "section_text_1": "💡 **A participants shares a painful experience and breaks down**\nParticipants may share difficult personal situations or past traumas at any point during the programme. Especially when you do the session on ‘Emotions’, participants may open up.\nAs painful as it is to see a participant break down, you can also acknowledge yourself: You have managed to create a safe space and a place of healing for them. They may have been carrying this pain by themselves for a long time.\nHold the space for the participant to share, and give participants a choice: “Are you okay to continue in the session or would you like to go outside to recompose yourself?” If they want to stay in the space, that is a beautiful sign that they trust the group.\nOne person sharing will help others to open up as well. This will help participants see that they are not the only one facing these challenges, which is very empowering. \nEven if you cannot ‘solve’ an issue during the session or after the session, there is still a lot of power in giving participants the space to share, as the group will bear witness to the pain experienced. This is very empowering.\nYou can find more practical tips for handling these kinds of situations here: [Link to disclosure of abuse content and referral content]",
+      "section_title_2": "Late comers",
+      "section_text_2": "💡 **Participants come late to sessions**\nEnsure that being on time is included in the ground rules. Before closing the session, revisit the ground rules on punctuality.\nExplore with the group possible consequences for being on time or coming late, to emphasize why coming on time is important. \nAsk your group if the day and time of the group session still works best or should change. \nUse the buddy system: Buddies can remind each other of the session start time or even come together. This way, coming on time becomes a shared responsibility.",
+      "section_title_3": "Low participation",
+      "section_text_3": "💡 **Participants do not participate actively**\nRemind the group of your ground rule that everyone’s opinion is welcome in the group (or use the opportunity to add a ground rule like this around participation). \nExplore with your group why it is important that everyone contributes. Keep reminding the group that teens’ input and experiences add value to the group. \nAsk what can help everyone to share. For example, split into pairs or smaller groups and share findings with the big group afterwards (this is easier than sharing only own experiences). Also, emphasize the importance of respecting each other’s opinions. \nPraise makes a difference! Remember to praise every time a participant shares. \nIf specific participants are not actively engaged, ask them questions directly. You can use the “catch the ball and answer” strategy: Throw an imaginary ball at any participant and ask them to respond to the question asked. \nLow participation may also be caused by participants being tired. Do a quick energiser to bring back energy to the group and get people active again.",
+      "section_title_4": "Silences",
+      "section_text_4": "💡 **There is a long silence**\nTry to identify why the silence is happening:\nIt might be that participants do not understand the question - simplify your question or break down your instructions into smaller steps to ensure that the group can follow well. \nParticipants may be tired, especially if the session has been going on for a while. Do a quick energiser to bring back energy to the group and get people active again. \nIf the silence is caused by people being reluctant to share, try out the tips for the challenge ‘Participants do not participate actively’.",
+      "section_title_5": "Long responses",
+      "section_text_5": "💡 **Particular participants talk too much**\nRemind the group of your ground rule that everyone’s opinion is welcome in the group (or use the opportunity to add a ground rule like this around participation).\nThank the person who wants to contribute and say: “Let's give others a chance to share as well”.\nIf someone generally gives long responses, you can say: “I always appreciate your contributions. Could you please share a shorter response so I can summarize your point before moving on to the next point?”. Then paraphrase their point, thank them, and say “Now let’s hear what others think. Bibi, I have not heard from you in a while - what do you think?”. \nYou can limit the length of responses as well by saying: “For this question, everyone can share one idea, so others also get a chance to share.”",
+      "section_title_6": "Same person volunteering",
+      "section_text_6": "💡 **Particular participants volunteer to do activities all the time**\nExplain that you would like to give everyone a chance to try out the activities: “Thank you for volunteering. It would be great if others get a chance to try this as well.”, and select another participant.",
+      "section_title_7": "No time for all to share",
+      "section_text_7": "💡 **Some participants who wanted to share did not get a chance**\nThank participants, explain your time constraints, and invite others to share in the next activity or session. For example:: \n“Thank you for sharing, I see this discussion is really interesting for you! For the sake of time we have to move on now. You will get another opportunity to share in the next discussion/session”.",
+      "section_title_8": "Participants not sharing in front of parent/teen",
+      "section_text_8": "💡 **Parents do not feel comfortable to talk about certain issues in front of their teen**\nExplore the benefits of spending one-on-one time together. Emphasize that that is how parents and teens build trust and confidence to talk about more challenging topics and deal with difficult situations together.\nHelp parents think about their own past and about what information they would have loved to discuss with their own parents.\nExplore the realities and risks that teens need to navigate, and ask what role parents should take: “In our society, do these things happen? How much knowledge do our teens have and what risks do they run? How can we help them?” \nExplore the consequences of parents and teens not talking about difficult topics: \n“If parents and teens do not talk about these topics, where will teens get this information?”. Answers may include school, friends, social media. Explore how these sources may give inaccurate or incomplete information and what the consequences are. \n💡 **Teens do not feel comfortable to share in front of their parents**\nCONTENT TO BE AUTHORED",
+      "section_title_9": "Participants with special needs",
+      "section_text_9": "💡 **Participants cannot read or write*\nKnow your participants before your group sessions. Be observant during recruitment to pick up on any specific needs your participants may have\nBe creative during sessions! Use pictures, drawings, and role-plays to show what you are trying to bring across. For example, when creating ground rules, you can draw a clock for time-keeping. When writing on the flipchart, use simple language and recap what was said.\nTeens are more likely to be able to read and write, so they can assist their caregivers during activities like the budgeting exercise.\nIt can feel embarrassing for participants to not be able to write. If you see participants are reluctant to for example sign the attendance register, agree on a good solution with your supervisor (e.g. you can tick attendance). \n\n💡 **Participants cannot participate in an activity because of their disability**\nMake every activity accessible for all! Be observant of any challenges participants may experience and find creative solutions. Encourage participants to participate to the best of their ability. \nIf a participant struggles to stand during an activity, let them sit down and give verbal input. \nInvolve the group as needed (for example, if someone is struggling to hear, other participants can speak louder or sit next to them to recap what is being said).",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "facilitation_skills",
+      "tag_list": [
+        "solving_challenges"
+      ],
+      "title": "Facilitation Skills",
+      "introduction": "Good news! Almost every challenge you encounter as a facilitator can be resolved using the facilitation skills you learned during your training. \n\nWhatever the challenge is, be positive and encouraging to make everyone feel welcome, valued and supported as equal members of the group. \n\nRemind participants of the ground rules you created together, whenever needed. As a group, you set the boundaries to make your group work well! \n\nInvite participants to identify their own solutions. You can guide them by asking how a situation makes them feel and by exploring the (possible) consequences of a behaviour or proposed solution. \n\nSpeak from your heart and in your own words (based on your great HHPP knowledge). This creates the safe space that is needed for everyone to work together well.\n\nYou are the expert that is in the best position to solve any challenge that may come!",
+      "sections_title": "I have a challenge related to:",
+      "section_title_1": "Time management",
+      "section_text_1": "💡  **Activities take more time than anticipated**\n\nAfter (small) group discussions, select only a few participants (not all) to share their experiences - until you have gotten the learning points you are looking for.\nAs soon as participants have shared those answers, summarize the key learnings and move to the next question.\n\nIf participants struggle to get to the required learning points, do the following: \n1) Simplify the question so everyone understands the question (this can include translating)\n2) Link the question to participants’ personal experience (e.g. “If this happened to you, how would you/your teen feel?”). \n\nMake sure you prepare your session well: Simplify and/or translate words that may be difficult to understand. \n\nKnow your group: If your group loves to engage in specific discussions, frame the discussion in advance (e.g. “I know this discussion will be so exciting. If you don’t get a chance to share now, there will be more opportunities”). \n\nWork together as co-facilitators. Plan together and help your co-facilitator to keep track of time - if they go over time, signal to them discreetly that it is time to move to the next activity.\n\n💡 **Introducing the session takes too much time**\n\nKnow the goal of your session: What do you want participants to learn? \nRead and understand the facilitator notes at the start of the session. Pick out the key points of the session that will help participants master important new skills.\nWrite out a short summary of the key points that you identified. This can be as short as 3 sentences! \nAdd one sentence to link the current session to the previous session (not all previous sessions).",
+      "section_title_2": "Resistance to facilitator",
+      "section_text_2": "💡 **Participants question my abilities as a facilitator (saying I am too young, inexperienced, or do not  have children)**\n\nYou can try to prevent these challenges by putting yourself in the parents’ shoes and speaking of ‘us parents’ from the start of the programme so participants can identify with you. Remember, you can have experience with children without having your own children!\n\nEmphasize that participants and facilitators are all equal and have valuable contributions to make (emphasize this from the start during recruitment).\n\nPlan and prepare well for your session so you can positively impact your participants through the programme. That will build trust and confidence over time.",
+      "section_title_3": "Disagreement among participants",
+      "section_text_3": "💡 **Participants have a disagreement with each other**\n\nThe key is to make sure to stay neutral and not take sides in the discussion: \n\n1. Remind participants of the ground rules they agreed on (everyone’s opinion and experience is welcome, it is okay for people to have different views, raise your hand before sharing).\n\n2. Then ask the group for other thoughts, to divert from the disagreement between the participants. \n\n3. After the session, have a one-on-one check-in with both participants to check if they feel they were heard or if they still want to explain themselves more. This can prevent participants from dropping out of the programme.",
+      "section_title_4": "Confidentiality",
+      "section_text_4": "💡**Participants share personal information outside of the group**\n\nIf a participant shared confidential information, lead a group discussion on confidentiality:\nRemind of ground rules (e.g. ‘Remember that we have a ground rule that says ‘if someone shares a personal story, we keep it within the group’? \nIdentify the issue and explore emotions: ‘’It has come to my attention that some information was shared, so I would just like to find out from all of you ‘how would you feel if you trust someone and they share your private information? ’ (sad, betrayed etc.) ‘Do you think the person whose information was shared felt those emotions?’ (they will probably agree) \nIdentify possible solutions:\n‘What do you think is the right thing to do for the person who shared the information?’ (e.g., apologize):\nAccept the answer:\n‘’Thank you very much. So if you shared information of someone who trusted you, please take the time to apologize to that person.” \nThank participants for sharing and emphasize also what CAN be shared:\n‘Thank you everyone for your contributions, and just remember, you can share all the skills and songs that we learn, but let’s keep personal information in this safe space’.\nEnd discussion with an energiser to bring back positive energy to the space, before continuing with your session.     \nIf the situation persists, have a separate one-on-one conversation with the participants involved.",
+      "section_title_5": "Emotional check-in",
+      "section_text_5": "💡**Participants only share positive emotions during check-in**\n\nDuring the first group sessions, you are still building a relationship and trust in the group, so people may not share how they really feel (especially if people are not used to sharing their emotions).\n\nIf you see by session 3 that people only share positive emotions. In the next session, you can model how negative emotions can be shared by sharing your own challenging emotion.  \n\nRemember to remind participants that all emotions are normal and welcome in the space.\n\nWhen practising using the “I feel” statement, participants may learn to share challenging emotions.",
+      "section_title_6": "Unhelpful suggestions",
+      "section_text_6": "💡 **Participants suggest a solution that is not helpful**\n\n1. Stay friendly and accept what was shared.\n(audio 1)\n \n2. Explore what the consequences are (or would be) of the suggested action. Make sure to explore what impact the solution has on 1)  feelings/emotions and 2) the relationship with the teen/parent. This will help the participant to identify the negative outcome of the solution for themselves. \n(Audio 2)\n\n3. Help the participant to come up with an alternative solution, by asking “what else could you try to solve this situation?”.\n(Audio 3)\n\n4. Connect the suggested positive solution to building blocks of the sessions, to emphasize how this solution will work better.\n(Audio 4)\n\nButton - testimonial, FAQ2 audio\nButton - example - FAQ3 audio",
+      "section_title_7": "Skipped activity",
+      "section_text_7": "💡 \n**I forgot to do an activity or draw out a building block**\nEach session has a lot of activities and building blocks, so it can happen that you forget to cover one - that is okay! Our co-facilitator is our back-up plan. The co-facilitator can respectfully come in to remind the group of an important activity or building block. \nIf you only realize after the session that you skipped something, you can discuss together with your co-facilitator if you can recap the activity or building block during the next session. Write a reminder on your notebook or manual so you remember to cover it.",
+      "section_title_8": "Co-facilitation",
+      "section_text_8": "💡\n **My co-facilitator disrespects me**\nWorking together can be challenging at times. It is important to work as a team, which means there is an equal division of tasks and you support each other in any situation that comes up. \nAfter each session, do a reflection together with your co-facilitator to see how you worked together and address any issues you may have experienced. Be open, honest and respectful towards each other. If you are both not sure how to resolve an issue, you can ask your coach or trainer for guidance. \nAs facilitators we model the behaviour we want to see among the families in our group. Therefore, it is important to show how to communicate in a positive way and support each other well.",
+      "section_title_9": "Managing expectations",
+      "section_text_9": "💡 **Participants expect things that go beyond the programme (for example financial support)**\nBefore you start the programme, check with your coordinator what is and what is not included in the programme (for example, will the participants get food/snacks during sessions, will they get certificates at the end, etc.). \nDuring recruitment and session 1, you can manage expectations by reminding participants of the goal of the programme and the incentives they will receive (if any). Do the same throughout the programme whenever requests come up that you cannot meet. \nConfirm which referral services may be available in your area to provide support beyond the positive parenting skills you will build during the programme.",
+      "section_title_10": "Managing group size",
+      "section_text_10": "💡\n **Parents want to bring more than one teen to group sessions**\nBefore starting the programme, confirm with your coordinator how many parents and teens should be in your group. Be clear during recruitment how many teens can join their parents in the group sessions. Encourage families to choose together which teen will participate in the group sessions (to prevent conflict) and how they will share their learnings at home.  \nExplain to participants that they can practise the new skills they learn with all the teens at home so everyone can benefit. \nWhen doing phone call follow-ups, participants can put their phone on speaker so everyone in the house can participate.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "trauma_abuse",
+      "tag_list": [
+        "solving_challenges"
+      ],
+      "title": "Trauma & Abuse",
+      "sections_title": "I have a challenge related to:",
+      "section_title_1": "Participants say things that trigger issues from my past",
+      "section_text_1": "Sensitive issues may arise in any of the sessions (not only the sessions where you may expect them), as participants share their experiences during discussions.  \n\nAs co-facilitators, you should keep an eye on each other whenever sensitive issues come up. Be ready to take over leading an activity to give your co-facilitator space if needed.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "referrals",
+      "tag_list": [
+        "solving_challenges"
+      ],
+      "title": "Referrals",
+      "sections_title": "I have a challenge related to:",
+      "section_title_1": "Participant sees referral as exposing them",
+      "section_text_1": "When you involve a third party, participants may perceive that as you exposing them. Handle referrals very carefully, and take your time to discuss with the participant(s) involved which services are available to them and how you can support them in accessing those services.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "recruitment",
+      "tag_list": [
+        "facilitator_journey"
+      ],
+      "title": "Mobilisation and pre-group home visits",
+      "introduction": "Mobilisation is a process of identifying parents/caregivers and adolescents for enrollment into HHPP.\nPre-group session visits give parents and adolescents the opportunity to learn more about the program and ask any questions about their involvement.",
+      "sections_title": "Recruitment Strategies",
+      "section_title_1": "Community Engagement",
+      "section_text_1": "* Identify community focal persons (e.g. clergy, school heads, health facility in-charge, neighborhood watch, market chairpersons, etc.).\n* Identify and secure a venue for the meetings.",
+      "section_title_2": "DREAMS Database and Contacts",
+      "section_text_2": "* Use the DREAMS local resource and community map. This is helpful in acquiring training venues and knowing your work community.\n* Call or text participants in the DREAMS database made available.",
+      "resource_data_1": "pdf",
+      "resource_id_1": "home_visit_guide_3",
+      "message_title_1": "Invitation Message",
+      "message_text_1": "We are excited to invite you to our upcoming DREAMS HHPP parenting meeting, where we will be discussing valuable strategies for raising happy and healthy children.",
+      "message_guidance_1": "Remember to include the venue, date and time.",
+      "message_title_2": "Session Reminder",
+      "message_text_2": "Greetings Parents! Thank you for a wonderful session. A reminder this week that your home activity is to review your goals and share them with other family members. Also remember to do the physical exercise. You’re doing great!",
+      "message_guidance_2": "Remember to include the venue, date and time.",
+      "message_title_3": "Follow-up Message",
+      "message_text_3": "We are sad not to have seen you during our first session. However, we would like to meet you at a place and time that is convenient for you. Thank you.",
+      "message_guidance_3": "Remember to mention that this message is from DREAMS HHPP.",
+      "related_articles_title": "Mobilisation FAQ",
+      "task_list_title": "Preparation Checklist",
+      "task_list_text": "* Set up the venue.\n* Phone call or text reminders to participants.\n* Prepare for the session.\n* Carry the Home of Support poster.\n* Arrive an hour before the session start time.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "time_management",
+      "tag_list": [
+        "facilitator_journey"
+      ],
+      "title": "Managing time in a session",
+      "introduction": "As facilitators it is very important to ensure that we keep to the time of the session.",
+      "sections_title": "Time Keeping of sessio\nns",
+      "section_title_1": "Before The Session",
+      "section_text_1": "* Send reminders to participants a day before the session.\n* Prepare materials.\n* Arrive at least 30 minutes-1 hour before the session starting time.\n* Set Planning time before the session.\n*Venue preparation.",
+      "section_title_2": "During The Session",
+      "section_text_2": "* Welcome (15 Minutes)\n* Overview (40 Minutes)\n* Physical Exercise (5-10 Minutes)\n* Game and Activity (15-25 Minutes)\n* Core Lesson (50-60 Minutes)\n* Energiser (5-10 Minutes)\n* Home Activity (10-15 Minutes)\n* Closing (10 Minutes)",
+      "section_title_3": "After the session",
+      "section_text_3": "Session reflection with your partner.",
+      "resource_data_1": "pdf",
+      "resource_id_1": "managing_time",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "leading_roleplay",
+      "tag_list": [
+        "facilitator_journey"
+      ],
+      "title": "Leading a Role Play",
+      "introduction": "Role plays are an educational technique that are used in the HHPP to convey specific information using real life situations.\nFacilitators act out both negative and positive role plays.",
+      "sections_title": "Role play summary",
+      "section_title_1": "Steps of leading a role play",
+      "section_text_1": "* Introduce the activity.\n* Read the heading and summary of the role-play.\n* Act out the role-play.\n* Ask questions in the manual.\n*Praise participants.",
+      "section_title_2": "Tips of leading a role play",
+      "section_text_2": "* The facilitator always acts out the role-play.\n* Always act out the role plays in a circle.\n* Clearly show emotions that are indicated in the role-play.\n* Do the role play exactly as described in the manual.\n* Some role plays require 3-4 characters. Ask and prepare specific participants before the session.",
+      "section_title_3": "Types of role plays",
+      "section_text_3": "* Negative role plays\n* Positive role plays\n* Open role plays",
+      "resource_data_1": "pdf",
+      "resource_id_1": "manual_roleplay",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "accept",
+      "tag_list": [
+        "aecp"
+      ],
+      "title": "Accept",
+      "introduction": "Acceptance is one of the main communication skills used in the Healthy Homes Parenting Program (HHPP).It is one way to show that the views and emotions of participants are welcome.",
+      "sections_title": "Key Notes",
+      "section_title_1": "Importance of Acceptance",
+      "section_text_1": "* Participants feel empowered to share when facilitators accept whatever is said during a discussion. There is no wrong answer. \n* Facilitators can show that they have really heard the participant by repeating what the participant says to the entire group. \n* This also makes sure that the facilitators understand what is being said.",
+      "section_title_2": "How To Accept",
+      "section_text_2": "* Accept by showing that you are listening and acknowledging how brave it can be to speak about issues relating to HIV and AIDs that may be affecting families in the homes and communities they live in.\n* Accept by showing that you understand and respect whatever feelings participants express. Remember to praise participants for being brave when they share feelings.\n* Accept by reminding participants that it is important that they know they are in charge of telling or talking about their experience. The workshop is a safe for exploring different ways of talking about HIV and AIDS experience.\n* Accept by reminding participants that they can say as little or as much as they want. They don’t have to answer questions that may be seemingly sensitive if they don’t want to.",
+      "section_title_3": "Ways of Accepting",
+      "section_text_3": "* Nodding \n* Eye Contact \n* Paraphrasing \n* Body Posture \n* Praising participants",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "explore",
+      "tag_list": [
+        "aecp"
+      ],
+      "title": "Explore",
+      "introduction": "Explore is one of the main communication skills used in the Healthy Homes Parenting Program (HHPP). Exploration is one of the techniques used in HHPP to enquire more information.",
+      "sections_title": "Key Notes",
+      "section_title_1": "Importance of Exploring",
+      "section_text_1": "* Exploring in the Home of Support can create a sense of belonging.\n* It enables participants to share knowledge skills and perspectives,l eading to better decision-making. \n* It also enhances problem-solving and provides emotional support.",
+      "section_title_2": "How to Explore",
+      "section_text_2": "* We explore by asking participants open-ended questions guided by words such as What, Why, Where, When, and Who.\n* Note: Always remind participants that there is no right or wrong response to what they share in the group.\n * Sometimes we need to ask questions that explore the details about something to understand it properly.\n * When participants share an experience, facilitators can ask questions like: Where? What? Who? and How? \n * Often participants have difficulty exploring – or asking themselves more questions about – an experience. \n * Example follow-up questions (from previous discussion): “Where else do you think you could spend quality time together? Why do you think this worked well?”",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "connect",
+      "tag_list": [
+        "aecp"
+      ],
+      "title": "Connect",
+      "introduction": "Connecting is a facilitation skill used to link to positive experiences that participants share, expected scenarios and core principles of the program.",
+      "sections_title": "Key Notes",
+      "section_title_1": "Importance of connection.",
+      "section_text_1": "* Facilitators connect experiences that participants share to the session’s core principles. \n* In discussion with participants, the group may also make their own connections on how a certain experience might relate to the session.",
+      "section_title_2": "How to Connect.",
+      "section_text_2": "* We connect in sessions where participants discuss sharing emotions, collaborative problem solving and making long-term goals. This is particularly helpful in talking about HIV material.\n* Connect to “Taking a Pause” when discussions feel stressful or difficult.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "late_arrival",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Participants come late to sessions",
+      "introduction": "Ensure that being on time is included in the ground rules. Before closing the session, revisit the ground rules on punctuality. Explore with the group possible consequences for being on time or coming late, to emphasize why coming on time is important. Ask your group if the day and time of the group session still works best or should change. Use the buddy system: Buddies can remind each other of the session start time or even come together. This way, Coming on time becomes a shared responsibility.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "late_arrival_2",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "How should I deal with a participant who arrives late?",
+      "introduction": "Response goes here.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "no_participation",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Participants do not participate actively",
+      "introduction": "Remind the group of your ground rule that everyone’s opinion is welcome in the group (or use the opportunity to add a ground rule like this around participation). Explore with your group why it is important that everyone contributes. Keep reminding the group that teens’ input and experiences add value to the group. Raise the inactivity issue, and Aask the group what can help everyone to share. For example, split into pairs or smaller groups and share findings with the big group afterwards (this is easier than sharing only own experiences). Also, emphasize the importance of respecting each other’s opinions. Praise makes a difference! Remember to praise every time a participant shares. If specific participants are not actively engaged, ask them questions directly. You can use the “catch the ball and answer” strategy: Throw an imaginary ball at any participant and ask them to respond to the question asked. Low participation may also be caused by participants being tired. Do a quick energiser to bring back energy to the group and get people active again.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "long_silence",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "There is a long silence",
+      "introduction": "Try to identify why the silence is happening: It might be that the group do not understand the question - Simplify your question or break down your instructions into smaller steps to ensure that the group can follow well. Participants may be tired, especially if the session has been going on for a while. Do a quick energiser to bring back energy to the group and get people active again. If the silence is caused by people being reluctant to share, try out the tips for the challenge ‘Participants do not participate actively’.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "overeager_participant_talk",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Particular participants talk too much",
+      "introduction": "Remind the group of your ground rule that everyone’s opinion is welcome in the group (or use the opportunity to add a ground rule like this around participation). Thank the person who wants to contribute and say: “Let's give others a chance to share as well”. If someone generally gives long responses, you can say: “I always appreciate your contributions. Could you please share a shorter response so I can summarize your point before moving on to the next point?”. Then Paraphrase their point, thank them, and say “Now let’s hear what others think. Bibi, I have not heard from you in a while - what do you think?”. You can limit the length of responses as well by saying: “For this question, everyone can share one idea, so others also get a chance to share.” too much",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "overeager_participant_do",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Particular participants volunteer to do activities all the time",
+      "introduction": "Explain that you would like to give everyone a chance to try out the activities: “Thank you for volunteering. It would be great if others get a chance to try this as well.”, and select another participant.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "chance_to_share",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Some participants who wanted to share did not get a chance",
+      "introduction": "Thank participants, explain your time constraints, and invite others to share in the next activity or session, for example: “Thank you for sharing, I see this discussion is really interesting for you! For the sake of time we have to move on now. You will get another opportunity to share in the next discussion/session”.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "share_in_front_of_teen",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Parents do not feel comfortable to talk about certain issues in front of their teen",
+      "introduction": "Explore the benefits of spending one-on-one time together. Emphasize that that is how parents and teens build trust and confidence to talk about more challenging topics and deal with difficult situations together. Help parents think about their own past and about what information they would have loved to discuss with their own parents. Explore the realities and risks that teens need to navigate, and ask what role parents should take: “In our society, do these things happen? How much knowledge do our teens have and what risks do they run? How can we help them?” Explore the consequences of parents and teens not talking about difficult topics: “If parents and teens do not talk about these topics, where will teens get this information?”. Answers may include school, friends, social media. Explore how these sources may give inaccurate or incomplete information and what the consequences are.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "participant_not_reachable",
+      "tag_list": [
+        "faq",
+        "participation"
+      ],
+      "title": "Participants cannot be reached for follow-up (phone call or home visit)",
+      "introduction": "Ask the participant’s buddy to update the participant on the session they missed. Find out from the buddy what a good time is to visit or call (or give a ‘missed call’ when the participant is available so you can call them back). Ask the participant to come early to the next session so you can update them on the previous content. Agree with your coordinator how many follow-up phone calls, messages, or visits you should do before the participant is considered a dropout.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "activities_take_too_much_time",
+      "tag_list": [
+        "faq",
+        "time_management"
+      ],
+      "title": "Activities take more time than anticipated",
+      "introduction": "After (small) group discussions, select only a few participants (not all) to share their experiences - until you have gotten the learning points you are looking for. As soon as participants have shared those answers, summarize the key learnings and move to the next question. If participants struggle to get to the required learning points, do the following: \n1. Simplify the question so everyone understands the question (this can include translating)\n2. Link the question to participants’ personal experience (e.g. “If this happened to you, how would you/your teen feel?”). Make sure you prepare your session well: Simplify and/or translate words that may be difficult to understand. Know your group: If your group loves to engage in specific discussions, frame the discussion in advance (e.g. “I know this discussion will be so exciting. If you don’t get a chance to share now, there will be more opportunities”). Work together as co-facilitators. Help your co-facilitator to keep track of time - if they go over time, signal to them discreetly that it is time to move to the next activity.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "intro_takes_too_much_time",
+      "tag_list": [
+        "faq",
+        "time_management"
+      ],
+      "title": "Introducing the session takes too much time",
+      "introduction": "Know the goal of your session: What do you want participants to learn? Read and understand the facilitator notes at the start of the session. Pick out the key points of the session that will help participants master important new skills. Write out a short summary of the key points that you identified. This can be as short as 3 sentences! Add one sentence to link the current session to the previous session (not all previous sessions).",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "participants_question_abilities",
+      "tag_list": [
+        "faq",
+        "aecp"
+      ],
+      "title": "Participants question my abilities as a facilitator (saying I am too young, inexperienced, or do not have children)",
+      "introduction": "You can try to prevent these challenges by putting yourself in the parents’ shoes and speaking of ‘us parents’ from the start of the programme so participants can identify with you. Remember - Yyou can have experience with children without having your own children! Emphasize that participants and facilitators are all equal and have valuable contributions to make (emphasize this from the start during recruitment). Plan and prepare well for your session so you can positively impact your participants through the programme. That will build trust and confidence over time.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "participants_question_abilities_2",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "Participants question my ability as a facilitator. How should I respond?",
+      "introduction": "Response goes here.",
+      "message_title_1": "Group Message",
+      "message_text_1": "Hi!😃Thank you for your message. \nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n🔑 If you are comfortable posting your questions in the group, please feel free to do so! Other parents may be able to support you with helpful suggestions. 💡",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "inappropriate_suggestion",
+      "tag_list": [
+        "faq",
+        "aecp"
+      ],
+      "title": "Participants suggest a solution that is not helpful",
+      "introduction": "If a participant shared confidential information, lead a group discussion on confidentiality:\n1. Remind of ground rules, e.g. \"remember that we have a ground rule that says 'if someone shares a personal story, we keep it within the group'\".\n2. Identify the issue and explore emotions: \"It has come to my attention that some information was shared, so I would just like to find out from all of you 'how would you feel if you trust someone and they share your private information?' (sad, betrayed etc). Do you think the person whose information was shared, felt those emotions? (they will probably agree).\" \n3. Identify possible solutions, e.g. \"What do you think is the right thing to do for the person who shared the information?\" (apologize).\n4. Accept the answer: \"Thank you very much. So if you shared information of someone who trusted you, please take the time to apologize to that person.\"\n5. Thank participants for sharing and emphasize also what CAN be shared: \"Thank you everyone for your contributions, and just remember, you can share all the skills and songs that we learn, but let’s keep personal information in this safe space\".\n6. End discussion with an energiser to bring back positive energy to the space, before continuing with your session. If the situation persists, have a separate one-to-one conversation with the participants involved.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "inappropriate_suggestion_2",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "How should I address parents who suggest inappropriate solutions?",
+      "introduction": "Response goes here.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "participants_disagree",
+      "tag_list": [
+        "faq",
+        "aecp"
+      ],
+      "title": "Participants have a disagreement with each other",
+      "introduction": "The key is to make sure to stay neutral and not take sides in the discussion:\n1. Remind participants of the ground rules they agreed on (everyone’s opinion and experience is welcome, it is okay for people to have different views, raise your hand before sharing).\n2. Then ask the group for other thoughts, to divert from the disagreement between the participants.\n3. After the session, have a one-on-one check-in with both participants to check if they feel they were heard or if they still want to explain themselves more. This can prevent participants from dropping out of the programme.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "participant_shares_personal_info",
+      "tag_list": [
+        "faq",
+        "aecp"
+      ],
+      "title": "Participants share personal information outside of the group",
+      "introduction": "If a participant shared confidential information, lead a group discussion on confidentiality:\n1. Remind of ground rules (e.g. ‘Remember that we have a ground rule that says ‘if someone shares a personal story, we keep it within the group’?\n2. Identify the issue and explore emotions: ‘’It has come to my attention that some information was shared, so I would just like to find out from all of you ‘how would you feel if you trust someone and they share your private information? ’ (sad, betrayed etc.) ‘Do you think the person whose information was shared, felt those emotions?’ (they will probably agree)\n3. Identify possible solutions: (e.g. ‘What do you think is the right thing to do for the person who shared the information?’ (apologize):\n4. Accept the answer: ‘’Thank you very much. So if you shared information of someone who trusted you, please take the time to apologize to that person.\n5. Thank participants for sharing and emphasize also what CAN be shared: ‘Thank you everyone for your contributions, and just remember, you can share all the skills and songs that we learn, but let’s keep personal information in this safe space’’).\n6. End discussion with an energiser to bring back positive energy to the space, before continuing with your session. If the situation persists, have a separate one-on-one conversation with the participants involved.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "only_positive_check_in",
+      "tag_list": [
+        "faq",
+        "aecp"
+      ],
+      "title": "Participants only share positive emotions during check-in",
+      "introduction": "During the first group sessions, you are still building a relationship and trust in the group, so people may not share how they really feel (especially if people are not used to sharing their emotions). If you see by session 3 that people only share positive emotions. In the next session I model how negative emotions can be shared by sharing your own challenging emotion. Remember to remind participants that all emotions are normal and welcome in the space. When practicing using the I feel statement, participants may learn to share challenging emotions.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "during_abuse_disclosure",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A participant is disclosing abuse, neglect or exploitation. What do I do?",
+      "introduction": "**During disclosure:**\n💚 Provide a safe environment in which the participant can share their story.\n👂 Listen carefully to the participant and take notes: what/when/where/who.\n❗ Determine if the participant is in immediate danger and what help is available.\n💙 Make sure that the participant feels that you believe him/her.\n🌷 Let them know they have done the right thing by sharing their story with you.\n✨ Be supportive and free of judgement in your responses – avoid blaming at all times!\n➡️ Let the participant know that you will share what he/she told you with your supervisor to find a way to support and protect him/her.\n📝 Explain what you are going to do next.\n ✅ Notify @global.supervisor_name at @global.supervisor_contact.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "during_abuse_disclosure_2",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent reports having a violent spouse.",
+      "introduction": "1. Go back to the Safeguarding Information on the @global.app_name and following guidelines for handling disclosures of abuse, neglect, and violence from participants.\n2. Notify @global.supervisor_name at @global.supervisor_contact.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "after_abuse disclosure",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "What can I do **after** a participant discloses abuse, neglect or exploitation?",
+      "introduction": "**After disclosure:**\n❌ Avoid engaging with alleged abuser – that may make things worse and make next steps difficult. It could also jeopardise future legal proceedings.\n🌷 You are not alone. Get help from your supervisor to agree on next steps.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "facilitator_report_abuse",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "How can I report abuse?",
+      "introduction": "✅ Follow your organisation’s protocol.\n📝 If your organisation needs assistance in developing or improving their policies and procedures, please reference the following resources:\n\n**Malaysian resources**\n1️⃣ Ministry of Women, Family and Community Development: https://www.kpwkm.gov.my/kpwkm/index.php?r=portal/about&id=b0J5ZFBERFhsalo2U05TWk1nSzVDQT09 \n2️⃣ Women’s Aid Organisation: https://wao.org.my/\n3️⃣ Protect and Save the Children: https://www.psthechildren.org.my/resources.html \n\n**International resources**\n1️⃣ World Health Organization Guidelines Responding to Children and Adolescents who have Been Sexually Abused:https://www.who.int/reproductivehealth/publications/violence/clinical-response-csa/en/ \n2️⃣ Keeping Children Safe: https://www.keepingchildrensafe.global/ \n3️⃣ Caring for Child Survivors of Sexual Abuse:http://www.unicef.org/protection/files/IRC_CCSGuide_FullGuide_lowres.pdf \n4️⃣ Strengthening Linkages between Clinical and Social Services for Children and Adolescents who have Experienced Sexual Violence: A Companion Guide:https://aidsfree.usaid.gov/resources/strengthening-linkages-between-clinical-and-social-services-children-and-adolescents-who \n5️⃣ Together for Girls: Every Hour Matters: https://www.togetherforgirls.org/announcing-new-resource-every-hour-matters-youth-engagement-toolkits/",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "participant_report_abuse",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "If a participant wants to know how to report abuse, neglect or violence, what contact information should I give them?",
+      "introduction": "You can share the following information with the participant:\nMinistry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6019-261-5999",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "crisis_contacts",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "If a participant wants to know free and confidential services to discuss their crisis, what hotlines can I share with them?",
+      "introduction": "You can share any of the following contact numbers with the participant:\n1️⃣ Abuse, neglect, violence, poverty, and juvenile delinquency:Talian Kasih by Ministry Women, Family and Community Developmenthttps://www.kpwkm.gov.my/kpwkm/index.php?r=portal/full&id=NGtVYXZIMjRqM3diWmV2K005Mm9Hdz09 15999 (Call)+6019-261-5999 (SMS or WhatsApp)\n2️⃣ Abuse of women and children: \nWomen’s Aid Organisation (WAO) \nhttps://wao.org.my/+603-7956-3488 (Call)+6018-988-8058 (SMS or WhatsApp TINA)\n3️⃣ Emotional distress and suicidal thoughts:Befrienders Kuala Lumpur\nhttps://www.befrienders.org.my/ +603-7627-2929 (Call)sam@befrienders.org.my (Email)\n4️⃣ Cybersecurity incident  \nCyber999 by CyberSecurity Malaysia, Ministry of Communications and Multimedia (or K-KOMM)https://www.mycert.org.my/portal/online-form?id=7a911418-9e84-4e48-84d3-aa8a4fe55f16",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "article_question_9",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "I forgot to do an activity or a building block. What should I do?",
+      "introduction": "If your chat goes silent after the prompt, consider sharing these ideas or suggestions:",
+      "message_title_1": "Group Message",
+      "message_text_1": "One-on-One Time with children is helpful because: \n💙 It improves the relationship between parents/caregivers and children.\n🌷 Children feel that they are valuable and loved.\n⚽ It shows children that what they are doing is important.\n⭐ It builds self-esteem of children and makes them feel important.\n👂 It increases trust and improves communication between parents/caregivers and children.\n🚲 It helps children develop and explore the world.\n🎨 It gives parents/caregivers a chance to learn about children's interests and abilities.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "no_time_for_1on1_time",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent cannot complete one-on-one time with their child daily.",
+      "introduction": "That's okay! Parenting can be challenging and many obstacles can get in the way. Remember, your job isn't to solve their problems, but enable a conversation between parents to support one another. 🔄\nYou can share the following message if other parents don't offer support:",
+      "message_title_1": "Group Message",
+      "message_text_1": "It can be hard to find time, especially when you have work, chores, and other responsibilities to do. 😔 You could try the following suggestions to spend one-on-one time with your child:\n🌱 Find a chore to do together!\n🎨 Try doing something that is fun for both of you.\n📱 Ask your child to show something on the gadget if they are always looking at their gadgets.\n🌷 You can ask another adult to help if all your children want one-on-one time.\n💛 You can also tell each child when you are spending one-on-one time and with who. \n🔄 You can change the order the next time you want to spend one-on-one time!\n⏰ It helps to be clear about how much time you have and warn your child when time is coming to an end.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "discussing_emotions",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "Talking about emotions can be new to many parents.",
+      "introduction": "It is completely normal for parents to have difficulty talking about their emotions and expressing their feelings. You can share the following message to encourage parents who having trouble talking about their emotions and feelings:",
+      "message_title_1": "Group Message",
+      "message_text_1": "I understand that showing emotions with your spouse or children can be hard. 😔 Many of us were told not to cry or show our feelings to others, especially to our children. 💛 \n\n🔑This group is a safe space for you to practise! If you are comfortable, you can try to recognise your own emotions and communicate about them in this group. 😃 \n💡 Talking about feelings is not just for negative emotions. 😒😔😣 \n✅ You may realise that you feel different emotions, and some of them could be positive. When you try to name the feelings you have, you may realise that you also feel a lot of happiness, calmness, and gratitude about some things. ⭐💚\n✨ When I try to recognise my emotions, I realise I am nervous and excited about being responsible for your learning. But at the same time, I am very happy that you have a safe space to share and support each other. 🌷",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "gender_emotions",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent may be confused about how to navigate emotions with different genders.",
+      "introduction": "While girls and women are typically seen as more emotional compared to boys and men, that is not true because emotions are the same for humans. You can share the following message to assure parents that emotions are the same for both genders:",
+      "message_title_1": "Group Message",
+      "message_text_1": "💡 Boys and men have the same feelings as girls and women.\n😣 Many people are taught not to cry when they are sad. This might be especially true for boys and men.\n⭐ Boys and men can show emotions without feeling less manly. When boys and men share their emotions, it does not reduce their sense of masculinity. \n🔑 In fact, sharing emotions is a sign of courage and strength.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "accept_child_negative_emotions",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent may not know how to accept negative emotions from their children.",
+      "introduction": "This is especially hard when children are told to be polite to their elders all the time. You can share the following message with parents to tell them that they are doing a good job and that negative emotions are not necessarily a bad thing:",
+      "message_title_1": "Group Message",
+      "message_text_1": "🌷 You may feel upset 😔 when your child shows negative emotions, but I am sure you are doing everything you can to be an amazing parent! ⭐\n💡 It’s alright, take a deep breathe. Negative 😣 emotions are just as normal as positive 😃 emotions. \n✨ As a caregiver, you can help your children to be aware of their emotions by helping them to name their emotions. 📝\n🔑 When parents and children are aware of what exactly they are feeling and why they are feeling that way, everyone can learn to manage their emotions in a healthy manner. 💙",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "tuition_advice",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent is advising other parents in the group to send their children to tuition classes",
+      "introduction": "It’s good that parents are motivated for help their children learn, but at a young age it’s important to keep learning fun, so you can share this message:",
+      "message_title_1": "Group Message",
+      "message_text_1": "It’s great that you’re motivated to help your child learn and be successful in school, but it’s also important that your child enjoys learning, especially while they are little! 😃\nIf learning is too serious and pressured, your child won’t enjoy it, and might be discouraged from learning ❌The best way to prepare your child for success in school is to introduce them to reading and maths in a fun way. ✅\nChildren will enjoy reading books with you, will learn new words, and can start learning letters and how to read. 📖 Counting games, and sorting and ordering objects will help them learn early maths skills too! 🔟",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "no_childrens_books",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent says that they don’t have children’s books in their home",
+      "introduction": "Not all families have access to children’s books. You can share this message about accessing e-books, and using other materials that parents will probably have access to:",
+      "message_title_1": "Group Message",
+      "message_text_1": "😃 It’s okay if you don’t have children’s books in your home! You can still help your child learn to read by using anything with pictures or words on it! 🍞⭐🚗 Magazines and newspapers are great! You can point at the pictures and describe them, and show children the letters on the page. You can help children learn letters by pointing at them on labels, signs, and anywhere else you see them! 👀\n💡If you want, you can download some children’s ebooks using this link, and you can read them with your child on any electronic device in the same way as you would with a book!",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "question_own_abilities",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent is concerned that they don’t have anything useful to teach their children, or that they don’t know how",
+      "introduction": "Parents might think that they have to teach their child complicated things, but actually they can keep things very simple. Share this message to reassure them:",
+      "message_title_1": "Group Message",
+      "message_text_1": "🌷 It’s great that you care about your child learning in the best way possible. But it’s important to remember to keep things simple. \n💚The important thing is to talk to your child and to play with them. ✨ Describing things, asking questions, and exploring what your child says will help your child learn language skills, which are one of the most important things for learning in school. 🎓\nPlaying with children should be light and fun, and can be something as simple as counting ingredients in cooking, the number of socks when sorting clean clothes, or grouping things by colour, shape or size. 🔵 🔴 🔶 🔷",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "no_time_to_help_child_learn",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parents says they have difficulty finding time to help their child to learn",
+      "introduction": "Parents are often very busy, especially if they work. Share this message with them to give them advice on how to help their child learn when they don’t have much time:",
+      "message_title_1": "Group Message",
+      "message_text_1": "It can be difficult to find time to help your child learn, but there are two important things to remember:\n1️⃣ Your child can learn a lot just by joining in activities you do in your normal routine. Going shopping for food, sorting clothes, and cooking are great opportunities to talk to your child and for them to learn. 🍅 Describe what you are doing and ask questions. If you can, play counting games, and point out numbers, shapes and letters that you see. For example, square signs and round signs, and numbers and letters on labels. 🔷 🔵\n2️⃣ You can help your child learn by spending just a short amount of time specifically on a learning activity. For example, can you find 5 minutes in the evening to look at pictures together or read a children’s book? 📖",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "diet_recommendation",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent asks for the recommended daily intake of food categories.",
+      "introduction": "It’s great that parents want to learn about the type and quantity of food that their children should consume. If no one else responds, you can share the following message:",
+      "message_title_1": "Group Message",
+      "message_text_1": "🍞 It's great to hear that you are interested to learn about the recommended daily intake for your children! ☀️ Every day, make sure each child has:\n🍚 2-3 servings of carbohydrates. 1 serving could be: 2 spoons of rice, 2 slices of bread, 1 sweet potato, 1 cup of noodles with soup, or 6 cream crackers.\n🍅 3-4 servings of fruits and vegetables. 1 serving could be: 4 tablespoons of cooked leafy vegetables, ½ cup of other vegetables, 1 medium-sized fruit, 8 grapes, or 4 prunes.\n💚 1-2 servings of dairy products and protein. 1 serving could be: 1 kembong fish, 1 slice of tenggiri fish, 1 chicken thigh, ⅔ cup of anchovies, 2 eggs, 1 cup of lentils, 2 pieces of tempeh/tofu, 1 glass of milk, 1 cup of yoghurt, or 1 slice of cheese.\n🚩 Just a little bit of oil, fat, processed sugar, and salt.",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "healthy_food_habits",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent wants to know more about healthy food habits to practise at home so their children learn the same habits.",
+      "introduction": "Adults in the house can set a good example for their children on healthy eating habits. You can share the following message to give parents ideas on how to cultivate good habits at home:",
+      "message_title_1": "Group Message",
+      "message_text_1": "⭐ Making healthy food choices as a family is a good way to teach your children to do the same! \n👀 Your children will observe and learn from the eating habits of people around them. \n✅ Healthy food habits include eating more vegetables and fruits. \n❌ Unhealthy food choices include oil, fat, salt, and processed sugar. \n❗On the whole, your family should consume more fresh food items 🌱 instead of highly processed items 🎂 or fast food. \n⏰ Have consistent eating times so that your children don’t overeat or develop stomach issues from snacking all the time. \n🔶 Remember to enjoy a variety of food in moderation!",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "personal_message_parenting",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours.",
+      "introduction": "1. Notify @global.supervisor_name at @global.supervisor_contact.\n2. Send the parent this message personally:",
+      "message_title_1": "Group Message",
+      "message_text_1": "Hi!😃Thank you for your message. \nMy role in this activity is limited to sharing messages in the group only. I unfortunately do not have the capacity to respond to each individual message.😔\n🔑 If you are comfortable posting your questions in the group, please feel free to do so! Other parents may be able to support you with helpful suggestions. 💡",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "not_sharing_childcare",
+      "tag_list": [
+        "faq",
+        "sessions"
+      ],
+      "title": "A parent/spouse may have difficulty asking for help in sharing household or childcare responsibilities.",
+      "introduction": "It is completely normal for parents to have difficulty asking for help. You can share the following message to encourage parents with some tips on sharing parenting responsibilities:",
+      "message_title_1": "Group Message",
+      "message_text_1": "It is okay to struggle asking for help from your spouse. Here are some tips that you might find helpful for sharing responsibilities: \n🌱Make sure your partner is calm and in a good mood.\n🔑Explain in a calm voice why you would like to share some responsibilities (or more support)\n💛Use “I” statements and share how you feel\n👂Allow your spouse to express how s/he feels\n🍚Allow your spouse to choose what responsibilities s/he could take on\n🌙Make a Specific, Positive, and Realistic plan. For example, “I will help out with bedtime routines on every other day”\n⭐Thank your spouse for the conversation\n🏆Praise your spouse whenever s/he helps out with responsibilities!",
+      "icon_asset": "images/icons/women and girl with phone.svg"
     }
   ],
   "_xlsxPath": "data/article_data.xlsx"
