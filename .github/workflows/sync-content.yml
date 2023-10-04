@@ -1,4 +1,11 @@
 ##################################################################################
+#         About
+##################################################################################
+#Syncs content from Google Drive and creates a pull request. Can be run 
+#manually by users with access to actions without the need to use git or vscode.
+#Needs gdrive credentails set up on repository and a PAT for the pull request
+
+##################################################################################
 #         Configuration
 ##################################################################################
 env:
@@ -11,9 +18,6 @@ env:
   FIREBASE_CONFIG: ${{secrets.FIREBASE_CONFIG}}  
   GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }} 
   GDRIVE_TOKEN:  ${{ secrets.GDRIVE_TOKEN }}
-
-
-  #GDRIVE_KEY: ${{ secrets.GDRIVE_PRIVATE }} 
 
 ##################################################################################
 #         Main Code
@@ -131,22 +135,8 @@ jobs:
           
           echo "New Version: $NEW_VERSION"
           echo "Command: s/$VERSION/$NEW_VERSION/ $FILE_PATH"
-          # $sed "s/$VERSION/$NEW_VERSION/" $FILE_PATH
 
-          #sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
           sed -i 's/\(content_tag_latest: "\)\([0-9]\+\.[0-9]\+\.\)\([0-9]\+\)"/\1\2'$((NEW_PATCH_VERSION))'"/' $FILE_PATH
-
-          
-          # Replace the old version with the new version in the file
-          #sed -i "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
-          
-         # sed "s/content_tag_latest: \"$VERSION\"/content_tag_latest: \"$NEW_VERSION\"/g" $FILE_PATH
-
-          
-        
-      - name: Echo config.ts contents
-        working-directory: .idems_app/deployments/${{env.DEPLOYMENT_NAME}}
-        run: cat config.ts
 
       
       - name: Commit changes

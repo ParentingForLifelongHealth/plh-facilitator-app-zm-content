@@ -1,6 +1,9 @@
-# IDEMS Template Metadata
-%TAG !idems_meta! id:app_build,version:1.0.0
----
+##################################################################################
+#         About
+##################################################################################
+#Builds app within content repo. Allows for parent repo. 
+#Must specify all below secrets and variables - see documentation for details
+
 ##################################################################################
 #         Configuration
 ##################################################################################
