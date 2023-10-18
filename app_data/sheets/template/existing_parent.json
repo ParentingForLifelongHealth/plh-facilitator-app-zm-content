@@ -1,0 +1,61 @@
+{
+  "flow_type": "template",
+  "flow_name": "existing_parent",
+  "status": "released",
+  "rows": [
+    {
+      "name": "parent_id",
+      "type": "set_variable",
+      "_nested_name": "parent_id"
+    },
+    {
+      "type": "display_group",
+      "rows": [
+        {
+          "type": "text",
+          "name": "text",
+          "value": "Parent name",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "flex: 1"
+          ],
+          "_nested_name": "display_group.text"
+        },
+        {
+          "type": "round_button",
+          "name": "button_edit",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "existing_parent_profile"
+              ],
+              "_raw": "click | go_to: existing_parent_profile",
+              "_cleaned": "click | go_to: existing_parent_profile"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "pencil",
+            "style": "orange"
+          },
+          "_nested_name": "display_group.button_edit"
+        },
+        {
+          "type": "round_button",
+          "name": "button_delete",
+          "parameter_list": {
+            "icon_src": "trash",
+            "style": "orange"
+          },
+          "_nested_name": "display_group.button_delete"
+        }
+      ],
+      "name": "display_group",
+      "_nested_name": "display_group"
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}

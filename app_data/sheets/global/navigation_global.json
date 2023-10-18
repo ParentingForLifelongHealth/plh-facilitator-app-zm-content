@@ -1,40 +1,45 @@
 {
   "flow_type": "global",
-  "flow_name": "article_global",
+  "flow_name": "navigation_global",
   "status": "released",
   "rows": [
     {
       "type": "declare_global_constant",
-      "name": "message_disclaimer",
-      "value": "This is a question for parents to discuss among yourselves. I am here to observe and will only intervene if necessary.",
+      "name": "language",
+      "value": "Language",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "share_button_text",
-      "value": "Share",
+      "name": "share_groups",
+      "value": "parent groups",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "supervisor_name",
-      "value": "your KEMAS Supervisor",
+      "name": "type_prompt",
+      "value": "Tap and type",
       "_translations": {
         "value": {}
       }
     },
     {
       "type": "declare_global_constant",
-      "name": "supervisor_contact",
-      "value": "[PHONE NUMBER]",
+      "name": "select_prompt",
+      "value": "Tap and select",
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "no_of_parent_groups",
+      "value": 1
     }
   ],
-  "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
+  "_xlsxPath": "data/navigation_data.xlsx"
 }

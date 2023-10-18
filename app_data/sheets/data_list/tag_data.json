@@ -5,21 +5,18 @@
   "data_list_name": "tag",
   "rows": [
     {
-      "id": "your_journey",
-      "title": "Your Journey"
+      "id": "session",
+      "title": "Weekly Sessions",
+      "attached_single_doc": "https://docs.google.com/document/d/11Rma8qwOrYgqz6a0W94V1SpOxPiLO88giXiBeRSu6I0"
     },
     {
-      "id": "sessions",
-      "title": "HHPP sessions"
+      "id": "faq",
+      "title": "Frequently Asked Questions"
     },
     {
-      "id": "solving_challenges",
-      "title": "Solving Challenges(FAQs)"
-    },
-    {
-      "id": "help",
-      "title": "Help"
+      "id": "safeguarding",
+      "title": "Safeguarding"
     }
   ],
-  "_xlsxPath": "data/article_data.xlsx"
+  "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
 }

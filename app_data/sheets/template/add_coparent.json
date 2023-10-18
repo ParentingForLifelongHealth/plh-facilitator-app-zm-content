@@ -1,0 +1,42 @@
+{
+  "flow_type": "template",
+  "flow_name": "add_coparent",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Select co-parent from existing parents",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title"
+    },
+    {
+      "type": "combo_box",
+      "name": "combo_box",
+      "parameter_list": {
+        "placeholder": "@local.placeholder"
+      },
+      "_nested_name": "combo_box",
+      "_dynamicFields": {
+        "parameter_list": {
+          "placeholder": [
+            {
+              "fullExpression": "@local.placeholder",
+              "matchedExpression": "@local.placeholder",
+              "type": "local",
+              "fieldName": "placeholder"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.placeholder": [
+          "parameter_list.placeholder"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "templates/profile.xlsx"
+}

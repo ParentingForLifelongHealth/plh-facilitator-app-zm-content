@@ -18,6 +18,9 @@
         {
           "type": "image",
           "name": "icon_asset",
+          "parameter_list": {
+            "style": "rounded_corners"
+          },
           "style_list": [
             "flex:2"
           ],
