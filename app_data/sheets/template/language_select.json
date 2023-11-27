@@ -52,7 +52,7 @@
       }
     },
     {
-      "type": "radio_group",
+      "type": "radio_button_grid",
       "name": "language_select",
       "value": "@fields._app_language",
       "_translations": {
@@ -80,7 +80,8 @@
         }
       ],
       "parameter_list": {
-        "answer_list": "@local.language_select_options"
+        "answer_list": "@local.language_select_options",
+        "item_width": "50px"
       },
       "_nested_name": "language_select",
       "_dynamicFields": {
@@ -135,7 +136,40 @@
           "parameter_list.answer_list"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "click | emit: completed",
+          "_cleaned": "click | emit: completed"
+        },
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "language_selected",
+            true
+          ],
+          "_raw": "click | set_field: language_selected: TRUE",
+          "_cleaned": "click | set_field: language_selected: TRUE"
+        }
+      ],
+      "parameter_list": {
+        "style": "navigation"
+      },
+      "_nested_name": "button_completed"
     }
   ],
-  "_xlsxPath": "templates/settings.xlsx"
+  "_xlsxPath": "templates/app_launch.xlsx"
 }
