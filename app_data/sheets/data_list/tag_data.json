@@ -6,20 +6,17 @@
   "rows": [
     {
       "id": "your_journey",
-      "title": "Your Journey"
+      "title": "Your Journey",
+      "attached_single_doc": "https://docs.google.com/document/d/11Rma8qwOrYgqz6a0W94V1SpOxPiLO88giXiBeRSu6I0"
     },
     {
-      "id": "sessions",
+      "id": "hhpp_sessions",
       "title": "HHPP sessions"
     },
     {
-      "id": "solving_challenges",
-      "title": "Solving Challenges(FAQs)"
-    },
-    {
-      "id": "help",
-      "title": "Help"
+      "id": "faq",
+      "title": "Solving challenges (FAQs)"
     }
   ],
-  "_xlsxPath": "data/article_data.xlsx"
+  "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
 }
