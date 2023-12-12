@@ -7,13 +7,13 @@ const config = generateDeploymentConfig("plh_facilitator_zm");
  */
 
 config.google_drive = {
-  sheets_folder_id: "1bdyRi0SsfuuMuh5vpRr5ixGh6xrBOYEn",
-  assets_folder_id: "1vP339DiDR4R-3q_goOYBl2wpVYP5yBoo",
+  sheets_folder_ids: ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R", "1bdyRi0SsfuuMuh5vpRr5ixGh6xrBOYEn"],
+  assets_folder_ids: ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1vP339DiDR4R-3q_goOYBl2wpVYP5yBoo"],
 };
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.17",
+  content_tag_latest: "1.1.18",
 };
 
 config.app_data.output_path = "./app_data";

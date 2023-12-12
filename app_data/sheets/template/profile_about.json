@@ -14,6 +14,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "header.section_id"
         },
@@ -215,7 +216,7 @@
       },
       "condition": "changed | set_field: user_state: @local.user_state",
       "parameter_list": {
-        "answer_list": "@data.state_data_my",
+        "answer_list": "@data.state_data",
         "placeholder": "@global.select_prompt"
       },
       "_nested_name": "user_state",
@@ -239,10 +240,10 @@
         "parameter_list": {
           "answer_list": [
             {
-              "fullExpression": "@data.state_data_my",
-              "matchedExpression": "@data.state_data_my",
+              "fullExpression": "@data.state_data",
+              "matchedExpression": "@data.state_data",
               "type": "data",
-              "fieldName": "state_data_my"
+              "fieldName": "state_data"
             }
           ],
           "placeholder": [
@@ -262,7 +263,7 @@
         "@local.user_state": [
           "condition"
         ],
-        "@data.state_data_my": [
+        "@data.state_data": [
           "parameter_list.answer_list"
         ],
         "@global.select_prompt": [
