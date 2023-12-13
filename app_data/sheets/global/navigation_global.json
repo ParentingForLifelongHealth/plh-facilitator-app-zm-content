@@ -13,6 +13,14 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "your_package",
+      "value": "Your Content Package",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
       "name": "share_groups",
       "value": "parent groups",
       "_translations": {
@@ -39,6 +47,14 @@
       "type": "declare_field_default",
       "name": "no_of_parent_groups",
       "value": 1
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "about_this_app",
+      "value": "About @global.app_name",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_id_recruitment_duplicate",
+  "flow_name": "article_id_mytime_choose",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "id_recruitment_duplicate",
+          "value": "id_mytime_choose",
           "_translations": {
             "value": {}
           },

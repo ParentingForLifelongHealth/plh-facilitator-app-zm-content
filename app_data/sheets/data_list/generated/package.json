@@ -1,0 +1,26 @@
+{
+  "flow_name": "package",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "your_journey",
+      "title": "Your Journey",
+      "attached_single_doc": "https://docs.google.com/document/d/11Rma8qwOrYgqz6a0W94V1SpOxPiLO88giXiBeRSu6I0",
+      "name": "your_journey",
+      "text": "Your Journey"
+    },
+    {
+      "id": "hhpp_sessions",
+      "title": "HHPP sessions",
+      "name": "hhpp_sessions",
+      "text": "HHPP sessions"
+    },
+    {
+      "id": "faq",
+      "title": "Solving challenges (FAQs)",
+      "name": "faq",
+      "text": "Solving challenges (FAQs)"
+    }
+  ]
+}

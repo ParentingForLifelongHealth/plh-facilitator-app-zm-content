@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_id_coaching_duplicate",
+  "flow_name": "article_id_session2_faq1",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "id_coaching_duplicate",
+          "value": "id_session2_faq1",
           "_translations": {
             "value": {}
           },
