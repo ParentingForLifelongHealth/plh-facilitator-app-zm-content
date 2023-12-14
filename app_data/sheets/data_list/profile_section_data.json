@@ -60,6 +60,14 @@
         }
       },
       "description": "See and edit the list of parents attending your groups."
+<<<<<<< HEAD
+    },
+    {
+      "id": "groups",
+      "template": "groups",
+      "show": "@fields.allow_multiple_parent_groups",
+      "title": "Your Parent Groups",
+=======
     },
     {
       "id": "groups",
@@ -79,6 +87,36 @@
         }
       },
       "description": "See and edit the lists of parents attending your groups."
+    },
+    {
+      "id": "package",
+      "template": "package",
+      "show": "@fields.has_multiple_content_packages",
+      "title": "Your Content Package",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+      "_translations": {
+        "title": {},
+        "description": {}
+      },
+      "_translatedFields": {
+        "title": {
+<<<<<<< HEAD
+          "eng": "Your Parent Groups"
+        },
+        "description": {
+          "eng": "See and edit the lists of parents attending your groups."
+        }
+      },
+      "description": "See and edit the lists of parents attending your groups."
+=======
+          "eng": "Your Content Package"
+        },
+        "description": {
+          "eng": "Choose which content you want to see."
+        }
+      },
+      "description": "Choose which content you want to see."
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
     }
   ],
   "_xlsxPath": "data/profile_data.xlsx"

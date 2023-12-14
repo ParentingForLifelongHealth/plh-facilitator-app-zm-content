@@ -7,6 +7,7 @@
       "type": "declare_global_constant",
       "name": "language",
       "value": "Language",
+<<<<<<< HEAD:app_data/sheets/global/navigation_global.json
       "_translations": {
         "value": {}
       }
@@ -15,6 +16,8 @@
       "type": "declare_global_constant",
       "name": "your_package",
       "value": "Your Content Package",
+=======
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52:app_data/sheets/global/app_menu_global.json
       "_translations": {
         "value": {}
       }
@@ -34,6 +37,7 @@
       "_translations": {
         "value": {}
       }
+<<<<<<< HEAD:app_data/sheets/global/navigation_global.json
     },
     {
       "type": "declare_global_constant",
@@ -47,6 +51,8 @@
       "type": "declare_field_default",
       "name": "no_of_parent_groups",
       "value": 1
+=======
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52:app_data/sheets/global/app_menu_global.json
     },
     {
       "type": "declare_global_constant",
@@ -55,6 +61,11 @@
       "_translations": {
         "value": {}
       }
+    },
+    {
+      "type": "declare_field_default",
+      "name": "no_of_parent_groups",
+      "value": 1
     }
   ],
   "_xlsxPath": "data/navigation_data.xlsx"

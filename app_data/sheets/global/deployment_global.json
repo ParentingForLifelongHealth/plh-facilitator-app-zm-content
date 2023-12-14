@@ -39,7 +39,20 @@
     {
       "type": "declare_global_constant",
       "name": "has_multiple_content_packages",
+<<<<<<< HEAD
       "value": false,
+=======
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_field_default",
+      "name": "current_package",
+      "value": "facilitator",
+      "_translations": {
+        "value": {}
+      },
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "exclude_from_translation": true
     },
     {

@@ -5,6 +5,7 @@
   "data_list_name": "article",
   "rows": [
     {
+<<<<<<< HEAD
       "id": "id_wellbeing",
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
@@ -24,10 +25,23 @@
       "_translations": {
         "title": {},
         "introduction": {},
+=======
+      "id": "id_pre_homevisit",
+      "tag_1": "your_journey",
+      "resource_data_1": "Pre_home_visit_MANUAL.pdf",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Initial home visit",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+<<<<<<< HEAD
         "resource_title_2": {},
         "related_articles_title": {}
       },
@@ -78,10 +92,80 @@
         "title": {},
         "introduction": {},
         "sections_title": {},
+=======
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Initial home visit"
+        },
+        "introduction": {
+          "eng": "The initial home visit will allow you to explore the family needs, and set realistic expectation. It will also enable families to learn more about the programme, ask questions and raise concerns. This will ensure the programme will be an entire family journey."
+        },
+        "sections_title": {
+          "eng": "What to do during home visit?"
+        },
+        "section_title_1": {
+          "eng": "Get to know the family"
+        },
+        "section_text_1": {
+          "eng": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\nWho is the main caregiver?\nHow many children and teens are there?\nWho are the main caregivers?\nWhat is the profession of the caregivers\nWhich challenges they are facing as a family?\nWhich support or other programmes are available to them? Which challenges can prevent them from attending the sessions on a weekly basis?"
+        },
+        "section_title_2": {
+          "eng": "Setting realistic goals – the basics"
+        },
+        "section_text_2": {
+          "eng": "It is important that every family set one goal they want to achieve as part of the programme. Help them to set a goal which will be  (1) realistic, (2) positive and (3) actionable\n\r Realistic – Based on your experience, think if this can be achieved within 9 weeks? If not – help the parent to think about a more modest goal.\n \nPositive – Help them to rephrase the goal to reflect positiveness (‘’I want to get more help with house chores’’) rather than negative (‘I want my teen to stop being selfish’’’’)\n \nParent-focused - Explore how the parent can contribute to achieving this goal"
+        },
+        "section_title_3": {
+          "eng": "Setting realistic goals - stages"
+        },
+        "section_text_3": {
+          "eng": "Ask participants what goal they would like to achieve during the programme\nIf the goal is negative - make it positive\nMake the goals realisable within 14 weeks\r and rephrase if necessary:\n\r Parent: I want to see my child go to the University\r Facilitator: ‘’Your goal is to see your child go to university. Our programme is 9 weeks. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r Parent: Yes, I can help my child so they improve their marks in school this semester.”\r Facilitator: Great! So your goal can be ‘’getting ideas on how to help my child to improve his marks in school this semester’’\n \nMake the goals focused on the person sharing (instead of their parent/teen):\r “What can you do to help realise that goal?” (e.g. your goals is for your child to listen – what can you do as parent?)."
+        },
+        "section_title_4": {
+          "eng": "Things to remember"
+        },
+        "section_text_4": {
+          "eng": "1.     Try to ensure all household members will attend to increase the chances of collaboration through the programme.\n2.     Try your best that it will be a conversation and not an interview of questions and answers.\n3.     Use facilitation skills like acknowledge, connect and explore to strengthen the bond between you"
+        },
+        "resource_title_1": {
+          "eng": "Home visit manual"
+        }
+      },
+      "introduction": "The initial home visit will allow you to explore the family needs, and set realistic expectation. It will also enable families to learn more about the programme, ask questions and raise concerns. This will ensure the programme will be an entire family journey.",
+      "sections_title": "What to do during home visit?",
+      "section_title_1": "Get to know the family",
+      "section_text_1": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\nWho is the main caregiver?\nHow many children and teens are there?\nWho are the main caregivers?\nWhat is the profession of the caregivers\nWhich challenges they are facing as a family?\nWhich support or other programmes are available to them? Which challenges can prevent them from attending the sessions on a weekly basis?",
+      "section_title_2": "Setting realistic goals – the basics",
+      "section_text_2": "It is important that every family set one goal they want to achieve as part of the programme. Help them to set a goal which will be  (1) realistic, (2) positive and (3) actionable\n\r Realistic – Based on your experience, think if this can be achieved within 9 weeks? If not – help the parent to think about a more modest goal.\n \nPositive – Help them to rephrase the goal to reflect positiveness (‘’I want to get more help with house chores’’) rather than negative (‘I want my teen to stop being selfish’’’’)\n \nParent-focused - Explore how the parent can contribute to achieving this goal",
+      "section_title_3": "Setting realistic goals - stages",
+      "section_text_3": "Ask participants what goal they would like to achieve during the programme\nIf the goal is negative - make it positive\nMake the goals realisable within 14 weeks\r and rephrase if necessary:\n\r Parent: I want to see my child go to the University\r Facilitator: ‘’Your goal is to see your child go to university. Our programme is 9 weeks. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r Parent: Yes, I can help my child so they improve their marks in school this semester.”\r Facilitator: Great! So your goal can be ‘’getting ideas on how to help my child to improve his marks in school this semester’’\n \nMake the goals focused on the person sharing (instead of their parent/teen):\r “What can you do to help realise that goal?” (e.g. your goals is for your child to listen – what can you do as parent?).",
+      "section_title_4": "Things to remember",
+      "section_text_4": "1.     Try to ensure all household members will attend to increase the chances of collaboration through the programme.\n2.     Try your best that it will be a conversation and not an interview of questions and answers.\n3.     Use facilitation skills like acknowledge, connect and explore to strengthen the bond between you",
+      "resource_title_1": "Home visit manual"
+    },
+    {
+      "id": "id_manage_expectations",
+      "tag_1": "faq",
+      "resource_data_1": "article",
+      "resource_id_1": "id_recruitment",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "How to manage expectations",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+<<<<<<< HEAD
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
@@ -162,20 +246,73 @@
       "_translations": {
         "title": {},
         "introduction": {},
+=======
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to manage expectations"
+        },
+        "introduction": {
+          "eng": "Parents will come with various expectations from the group and from you as a facilitator. Unrealistic expectations can lead to frustration and leaving the group, so it is important to identify and address them as soon as possible. Here is how."
+        },
+        "section_title_1": {
+          "eng": "Identify the sources of expectations"
+        },
+        "section_text_1": {
+          "eng": "Other programmes may have given participants something in the past (for example snacks or transport), so now participants may expect that we do the same. Especially if participants have attended other services offered by your organisation, this may raise expectations.\nSome questions in the pre-post survey may raise expectations among participants that the programme will provide material support (like “how many meals did you miss in the last week”).\nPlease make sure to explain the purposes of the survey clearly.\nFollow the link below to access Recruitment Steps. Here is a link to the recruitment steps where you can find more about how to explain about the survey.\nID_Recruitment\nLook for the dropdown menu called ‘’ Step 3: Introduce survey & manage expectations \nFamilies may have other ideas about the programme that may keep them from participating or may make them drop out. Common misperceptions that you may need to address include:\r - ‘’This programme is for bad parents and/or bad children’’\r - ‘’This programme is only for a specific group of parents or children (e.g orphans)\r - ‘’This programme is only for female caregivers’’."
+        },
+        "section_title_2": {
+          "eng": "How to respond"
+        },
+        "section_text_2": {
+          "eng": "**Differentiate the programme**             \t\r It is important to explain that HHPP is a different programme from previous programmes that participants may have attended. Be clear that participants will not get material incentives when joining HHPP and emphasise the unique value that HHPP offers (without being negative about other programmes).\nYou cannot control what others people or organisations may be saying to participants before the start of the programme. What you CAN control is what you share during home visits and group sessions.\n-     **Be confident of value of programme**\nBe confident that you are offering something that will add value to families. Remember, HHPP’s lifelong impact on parents, teens and families will always be appreciated more in the end than temporary material incentives.\n[Voice recording of testimonial: Parents and teens were still attending group sessions on session 10, because they saw that the impact on their families was worth more than the Hungry Lion they were getting from the other programme – Chris, Livingstone]  \n-     **Help participants feel ownership of the group**\nEmpower your group by inviting participants to come up with their own ideas rather than presenting answers or solutions. \nWhen participants feel this is ‘their’ group, they will become less dependent on you and your organisation for answers or resources. The group will start supporting each other and may even be able to put resources together for activities like the graduation ceremony. \n-     ** Create space for concerns**\nPlease give caregivers lots of space to ask any questions they may have and address those clearly, both during recruitment and throughout the programme. By building a good relationship with each participant, they will feel free to share any concerns with you as they may come up and you may be able to prevent participants from dropping out.  \n-     **Be aware of other programmes**\nYour organisation, or other organisations, may be offering other programmes in the communities where you work. Know about these programmes, so you know what expectations or ideas these programmes may have raised about HHPP and can be ready to address these."
+        },
+        "resource_title_1": {
+          "eng": "Recruitment Steps"
+        }
+      },
+      "introduction": "Parents will come with various expectations from the group and from you as a facilitator. Unrealistic expectations can lead to frustration and leaving the group, so it is important to identify and address them as soon as possible. Here is how.",
+      "section_title_1": "Identify the sources of expectations",
+      "section_text_1": "Other programmes may have given participants something in the past (for example snacks or transport), so now participants may expect that we do the same. Especially if participants have attended other services offered by your organisation, this may raise expectations.\nSome questions in the pre-post survey may raise expectations among participants that the programme will provide material support (like “how many meals did you miss in the last week”).\nPlease make sure to explain the purposes of the survey clearly.\nFollow the link below to access Recruitment Steps. Here is a link to the recruitment steps where you can find more about how to explain about the survey.\nID_Recruitment\nLook for the dropdown menu called ‘’ Step 3: Introduce survey & manage expectations \nFamilies may have other ideas about the programme that may keep them from participating or may make them drop out. Common misperceptions that you may need to address include:\r - ‘’This programme is for bad parents and/or bad children’’\r - ‘’This programme is only for a specific group of parents or children (e.g orphans)\r - ‘’This programme is only for female caregivers’’.",
+      "section_title_2": "How to respond",
+      "section_text_2": "**Differentiate the programme**             \t\r It is important to explain that HHPP is a different programme from previous programmes that participants may have attended. Be clear that participants will not get material incentives when joining HHPP and emphasise the unique value that HHPP offers (without being negative about other programmes).\nYou cannot control what others people or organisations may be saying to participants before the start of the programme. What you CAN control is what you share during home visits and group sessions.\n-     **Be confident of value of programme**\nBe confident that you are offering something that will add value to families. Remember, HHPP’s lifelong impact on parents, teens and families will always be appreciated more in the end than temporary material incentives.\n[Voice recording of testimonial: Parents and teens were still attending group sessions on session 10, because they saw that the impact on their families was worth more than the Hungry Lion they were getting from the other programme – Chris, Livingstone]  \n-     **Help participants feel ownership of the group**\nEmpower your group by inviting participants to come up with their own ideas rather than presenting answers or solutions. \nWhen participants feel this is ‘their’ group, they will become less dependent on you and your organisation for answers or resources. The group will start supporting each other and may even be able to put resources together for activities like the graduation ceremony. \n-     ** Create space for concerns**\nPlease give caregivers lots of space to ask any questions they may have and address those clearly, both during recruitment and throughout the programme. By building a good relationship with each participant, they will feel free to share any concerns with you as they may come up and you may be able to prevent participants from dropping out.  \n-     **Be aware of other programmes**\nYour organisation, or other organisations, may be offering other programmes in the communities where you work. Know about these programmes, so you know what expectations or ideas these programmes may have raised about HHPP and can be ready to address these.",
+      "resource_title_1": "Recruitment Steps"
+    },
+    {
+      "id": "id_coaching",
+      "tag_1": "your_journey",
+      "related_article_id_1": "id_coaching_FAQ1",
+      "related_article_id_2": "id_coaching_FAQ2",
+      "related_article_id_3": "ID_coaching_FAQ3 \nHow to plan & prepare for my next session",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Coaching",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
         "section_title_3": {},
         "section_text_3": {},
+<<<<<<< HEAD
         "section_title_4": {},
         "section_text_4": {},
         "section_title_5": {},
         "section_text_5": {},
+=======
+        "resource_title_1": {},
+        "resource_title_2": {},
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         "related_articles_title": {}
       },
       "_translatedFields": {
         "title": {
+<<<<<<< HEAD
           "eng": "Step 1: Identify your own cycle of distress and inactivity"
         },
         "introduction": {
@@ -237,12 +374,97 @@
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Step 2: Brainstorm activities you enjoy and value  (5min-10min)",
+=======
+          "eng": "Coaching"
+        },
+        "introduction": {
+          "eng": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together."
+        },
+        "sections_title": {
+          "eng": "**What should I expect from my coaching session?**"
+        },
+        "section_title_1": {
+          "eng": "Reflection on successes"
+        },
+        "section_text_1": {
+          "eng": "It is important that we share and celebrate our successes as facilitators. What worked for you may help your colleagues, and the other way around! \nDelivering HHPP can be challenging, so by sharing our successes we stay focused on the positive impact our work makes on the lives of our families and communities."
+        },
+        "section_title_2": {
+          "eng": "Reflection on challenges & identifying solutions"
+        },
+        "section_text_2": {
+          "eng": "[text to be authored] \nWhatever challenges we experience, we can always find solutions to try out when we brainstorm together. During the coaching sessions, we have the opportunity to practise these solutions in a safe space through role-play, before applying them with our participants.\nCoaching sessions also give you the opportunity to discuss with your supervisor if there are any families that may need additional support beyond what HHPP can offer. Remember that we only should make referrals with the family’s permission unless it is a serious child protection issue in which a child’s safety is at risk."
+        },
+        "section_title_3": {
+          "eng": "Preparing for the next session"
+        },
+        "section_text_3": {
+          "eng": "Preparation sets us up for a win in the next session. During coaching sessions, you can ask questions regarding any activities in the next session, divide tasks with your co-facilitator, and practise activities if necessary."
+        },
+        "resource_title_1": {
+          "eng": "Facilitator reflection form"
+        },
+        "resource_title_2": {
+          "eng": "Session planning checklist"
+        },
+        "related_articles_title": {
+          "eng": "I already need support with a specific challenge:"
+        }
+      },
+      "introduction": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together.",
+      "sections_title": "**What should I expect from my coaching session?**",
+      "section_title_1": "Reflection on successes",
+      "section_text_1": "It is important that we share and celebrate our successes as facilitators. What worked for you may help your colleagues, and the other way around! \nDelivering HHPP can be challenging, so by sharing our successes we stay focused on the positive impact our work makes on the lives of our families and communities.",
+      "section_title_2": "Reflection on challenges & identifying solutions",
+      "section_text_2": "[text to be authored] \nWhatever challenges we experience, we can always find solutions to try out when we brainstorm together. During the coaching sessions, we have the opportunity to practise these solutions in a safe space through role-play, before applying them with our participants.\nCoaching sessions also give you the opportunity to discuss with your supervisor if there are any families that may need additional support beyond what HHPP can offer. Remember that we only should make referrals with the family’s permission unless it is a serious child protection issue in which a child’s safety is at risk.",
+      "section_title_3": "Preparing for the next session",
+      "section_text_3": "Preparation sets us up for a win in the next session. During coaching sessions, you can ask questions regarding any activities in the next session, divide tasks with your co-facilitator, and practise activities if necessary.",
+      "resource_title_1": "Facilitator reflection form",
+      "resource_title_2": "Session planning checklist",
+      "related_articles_title": "I already need support with a specific challenge:"
+    },
+    {
+      "id": "id_coaching_faq1",
+      "tag_1": "faq",
+      "related_article_id_1": "Session 1",
+      "related_article_id_2": "Session 2",
+      "related_article_id_3": "Session 3",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Participants struggle with a new skill",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants struggle with a new skill"
+        },
+        "introduction": {
+          "eng": "We can all learn from each other as facilitators. Tap your session number and check out the challenges and solutions that other facilitators came across during that session:"
+        },
+        "related_articles_title": {
+          "eng": "FAQ for HHPP sessions:"
+        }
+      },
+      "introduction": "We can all learn from each other as facilitators. Tap your session number and check out the challenges and solutions that other facilitators came across during that session:",
+      "related_articles_title": "FAQ for HHPP sessions:"
+    },
+    {
+      "id": "id_coaching_faq2",
+      "tag_1": "faq",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "I have a challenge in my group",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "_translations": {
         "title": {},
         "introduction": {},
         "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
+<<<<<<< HEAD
         "section_text_2": {},
         "related_articles_title": {}
       },
@@ -416,6 +638,109 @@
       "title": "When a participant shares a painful experience and breaks down",
       "_translations": {
         "title": {},
+=======
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I have a challenge in my group"
+        },
+        "introduction": {
+          "eng": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups."
+        },
+        "sections_title": {
+          "eng": "I have a challenge around:"
+        },
+        "section_title_1": {
+          "eng": "Dropouts"
+        },
+        "section_text_1": {
+          "eng": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions.\n [   ]"
+        },
+        "section_title_2": {
+          "eng": "Home visits & phone calls"
+        },
+        "section_text_2": {
+          "eng": "[text to be authored]"
+        },
+        "section_title_3": {
+          "eng": "Data management"
+        },
+        "section_text_3": {
+          "eng": "[text to be authored]"
+        },
+        "section_title_4": {
+          "eng": "Group participation"
+        },
+        "section_text_4": {
+          "eng": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals."
+        },
+        "section_title_5": {
+          "eng": "Facilitation skills"
+        },
+        "section_text_5": {
+          "eng": "[shorten intro from General FAQ - Facilitation Skills]"
+        }
+      },
+      "introduction": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups.",
+      "sections_title": "I have a challenge around:",
+      "section_title_1": "Dropouts",
+      "section_text_1": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions.\n [   ]",
+      "section_title_2": "Home visits & phone calls",
+      "section_text_2": "[text to be authored]",
+      "section_title_3": "Data management",
+      "section_text_3": "[text to be authored]",
+      "section_title_4": "Group participation",
+      "section_text_4": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals.",
+      "section_title_5": "Facilitation skills",
+      "section_text_5": "[shorten intro from General FAQ - Facilitation Skills]"
+    },
+    {
+      "id": "id_coaching_faq3",
+      "tag_1": "faq",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "How can I plan and prepare for my next session?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "resource_title_1": {},
+        "resource_title_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How can I plan and prepare for my next session?"
+        },
+        "introduction": {
+          "eng": "Being prepared makes all the difference! Check out the steps of a session, and the content of each session here:"
+        },
+        "resource_title_1": {
+          "eng": "Steps of a Session"
+        },
+        "resource_title_2": {
+          "eng": "HHPP sessions"
+        }
+      },
+      "introduction": "Being prepared makes all the difference! Check out the steps of a session, and the content of each session here:",
+      "resource_title_1": "Steps of a Session",
+      "resource_title_2": "HHPP sessions"
+    },
+    {
+      "id": "id_follow-up",
+      "tag_1": "your_journey",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Home visits & phone calls",
+      "_translations": {
+        "title": {},
+        "introduction": {},
         "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
@@ -425,6 +750,234 @@
         "section_text_3": {},
         "section_title_4": {},
         "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home visits & phone calls"
+        },
+        "introduction": {
+          "eng": "Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\nBuilding the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available."
+        },
+        "sections_title": {
+          "eng": "How to make follow-ups a success:"
+        },
+        "section_title_1": {
+          "eng": "Ask participants for suggestions"
+        },
+        "section_text_1": {
+          "eng": "Brainstorm ideas with your participants by asking ‘Some of our group have missed this session, what can we do to get everyone updated?’. When ideas and suggested dates/times come from participants it is more likely that the solution will work well for them and that they will follow through."
+        },
+        "section_title_2": {
+          "eng": "Use the buddy system"
+        },
+        "section_text_2": {
+          "eng": "In HHPP, each participant is paired with a ‘buddy’. \nA buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\nTo prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session."
+        },
+        "section_title_3": {
+          "eng": "Do a joint home visit catch-up"
+        },
+        "section_text_3": {
+          "eng": "When multiple participants have missed a session, you can invite them to come for a joint catch-up session at one of their homes. This is particularly helpful when participants stay closer together."
+        },
+        "section_title_4": {
+          "eng": "Do a phone call or WhatsApp call"
+        },
+        "section_text_4": {
+          "eng": "When participants have phones, you can give them a call to catch them up on a session missed.\nIf they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up).\n[link to phone call guide - transferring this to in-app content may work better than PDF]"
+        },
+        "section_title_5": {
+          "eng": "Meet participants at school/work"
+        },
+        "section_text_5": {
+          "eng": "It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.)."
+        }
+      },
+      "introduction": "Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\nBuilding the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available.",
+      "sections_title": "How to make follow-ups a success:",
+      "section_title_1": "Ask participants for suggestions",
+      "section_text_1": "Brainstorm ideas with your participants by asking ‘Some of our group have missed this session, what can we do to get everyone updated?’. When ideas and suggested dates/times come from participants it is more likely that the solution will work well for them and that they will follow through.",
+      "section_title_2": "Use the buddy system",
+      "section_text_2": "In HHPP, each participant is paired with a ‘buddy’. \nA buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\nTo prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session.",
+      "section_title_3": "Do a joint home visit catch-up",
+      "section_text_3": "When multiple participants have missed a session, you can invite them to come for a joint catch-up session at one of their homes. This is particularly helpful when participants stay closer together.",
+      "section_title_4": "Do a phone call or WhatsApp call",
+      "section_text_4": "When participants have phones, you can give them a call to catch them up on a session missed.\nIf they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up).\n[link to phone call guide - transferring this to in-app content may work better than PDF]",
+      "section_title_5": "Meet participants at school/work",
+      "section_text_5": "It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.)."
+    },
+    {
+      "id": "id_celebration",
+      "tag_1": "your_journey",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Graduation ceremony",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "resource_title_1": {},
+        "resource_title_2": {},
+        "resource_title_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Graduation ceremony"
+        },
+        "introduction": {
+          "eng": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’."
+        },
+        "sections_title": {
+          "eng": "Celebration preparations"
+        },
+        "section_title_1": {
+          "eng": "Prepare certificates"
+        },
+        "section_text_1": {
+          "eng": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme.\n[Link to example Parent certificate of attendance PDF if possible]\n[Link to example Teen certificate of attendance PDF if possible]"
+        },
+        "section_title_2": {
+          "eng": "Involve participants in planning"
+        },
+        "section_text_2": {
+          "eng": "Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \nParticipants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!"
+        },
+        "section_title_3": {
+          "eng": "Choose music"
+        },
+        "section_text_3": {
+          "eng": "Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \nIf you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!"
+        },
+        "section_title_4": {
+          "eng": "Create a checklist"
+        },
+        "section_text_4": {
+          "eng": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\n[link to  checklist below]\nPreparation              By whom\nCertificates                 [Your name]\nVenue                         [Your name]\r(can be usual group venue)\nPaper & crayons\t[Your name]\nMusic for dance party\t [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]"
+        },
+        "resource_title_1": {
+          "eng": "Celebration prep checklist"
+        },
+        "resource_title_2": {
+          "eng": "Parent certificate example"
+        },
+        "resource_title_3": {
+          "eng": "Teen certificate example"
+        }
+      },
+      "introduction": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’.",
+      "sections_title": "Celebration preparations",
+      "section_title_1": "Prepare certificates",
+      "section_text_1": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme.\n[Link to example Parent certificate of attendance PDF if possible]\n[Link to example Teen certificate of attendance PDF if possible]",
+      "section_title_2": "Involve participants in planning",
+      "section_text_2": "Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \nParticipants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!",
+      "section_title_3": "Choose music",
+      "section_text_3": "Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \nIf you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!",
+      "section_title_4": "Create a checklist",
+      "section_text_4": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\n[link to  checklist below]\nPreparation              By whom\nCertificates                 [Your name]\nVenue                         [Your name]\r(can be usual group venue)\nPaper & crayons\t[Your name]\nMusic for dance party\t [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]",
+      "resource_title_1": "Celebration prep checklist",
+      "resource_title_2": "Parent certificate example",
+      "resource_title_3": "Teen certificate example"
+    },
+    {
+      "id": "id_recruitment",
+      "tag_1": "your_journey",
+      "resource_data_1": "Family_Case_Profile",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Recruitment",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Recruitment"
+        },
+        "introduction": {
+          "eng": "Let participants experience that they will experience during the group sessions. We know we are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme."
+        },
+        "sections_title": {
+          "eng": "Steps of introducing the programme"
+        },
+        "section_title_1": {
+          "eng": "Step 1: Greeting & introduction"
+        },
+        "section_text_1": {
+          "eng": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”"
+        },
+        "section_title_2": {
+          "eng": "Step 2: Invitation"
+        },
+        "section_text_2": {
+          "eng": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”"
+        },
+        "section_title_3": {
+          "eng": "Step 3: Introduce survey & manage expectations"
+        },
+        "section_text_3": {
+          "eng": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\nSome questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\nRaising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”\n You can find more information here: ID_manage_expetations"
+        },
+        "section_title_4": {
+          "eng": "Complete survey and invite for first session"
+        },
+        "section_text_4": {
+          "eng": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session."
+        },
+        "resource_title_1": {
+          "eng": "Family Profile"
+        }
+      },
+      "introduction": "Let participants experience that they will experience during the group sessions. We know we are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme.",
+      "sections_title": "Steps of introducing the programme",
+      "section_title_1": "Step 1: Greeting & introduction",
+      "section_text_1": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”",
+      "section_title_2": "Step 2: Invitation",
+      "section_text_2": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”",
+      "section_title_3": "Step 3: Introduce survey & manage expectations",
+      "section_text_3": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\nSome questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\nRaising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”\n You can find more information here: ID_manage_expetations",
+      "section_title_4": "Complete survey and invite for first session",
+      "section_text_4": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session.",
+      "resource_title_1": "Family Profile"
+    },
+    {
+      "id": "id_pre_homevisit_duplicate",
+      "resource_data_1": "Pre_home_visit_MANUAL.pdf",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Initial home visit",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+<<<<<<< HEAD
         "section_title_5": {},
         "section_text_5": {},
         "related_articles_title": {}
@@ -677,12 +1230,118 @@
       "title": "Particular participants talk too much",
       "_translations": {
         "title": {},
+=======
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Initial home visit"
+        },
+        "introduction": {
+          "eng": "The initial home visit will allow you to explore the family needs, and set realistic expectation. It will also enable families to learn more about the programme, ask questions and raise concerns. This will ensure the programme will be an entire family journey."
+        },
+        "sections_title": {
+          "eng": "What to do during home visit?"
+        },
+        "section_title_1": {
+          "eng": "Get to know the family"
+        },
+        "section_text_1": {
+          "eng": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\nWho is the main caregiver?\nHow many children and teens are there?\nWho are the main caregivers?\nWhat is the profession of the caregivers\nWhich challenges they are facing as a family?\nWhich support or other programmes are available to them? Which challenges can prevent them from attending the sessions on a weekly basis?"
+        },
+        "section_title_2": {
+          "eng": "Setting realistic goals – the basics"
+        },
+        "section_text_2": {
+          "eng": "It is important that every family set one goal they want to achieve as part of the programme. Help them to set a goal which will be  (1) realistic, (2) positive and (3) actionable\n\r Realistic – Based on your experience, think if this can be achieved within 9 weeks? If not – help the parent to think about a more modest goal.\n \nPositive – Help them to rephrase the goal to reflect positiveness (‘’I want to get more help with house chores’’) rather than negative (‘I want my teen to stop being selfish’’’’)\n \nParent-focused - Explore how the parent can contribute to achieving this goal"
+        },
+        "section_title_3": {
+          "eng": "Setting realistic goals - stages"
+        },
+        "section_text_3": {
+          "eng": "Ask participants what goal they would like to achieve during the programme\nIf the goal is negative - make it positive\nMake the goals realisable within 14 weeks\r and rephrase if necessary:\n\r Parent: I want to see my child go to the University\r Facilitator: ‘’Your goal is to see your child go to university. Our programme is 9 weeks. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r Parent: Yes, I can help my child so they improve their marks in school this semester.”\r Facilitator: Great! So your goal can be ‘’getting ideas on how to help my child to improve his marks in school this semester’’\n \nMake the goals focused on the person sharing (instead of their parent/teen):\r “What can you do to help realise that goal?” (e.g. your goals is for your child to listen – what can you do as parent?)."
+        },
+        "section_title_4": {
+          "eng": "Things to remember"
+        },
+        "section_text_4": {
+          "eng": "1.     Try to ensure all household members will attend to increase the chances of collaboration through the programme.\n2.     Try your best that it will be a conversation and not an interview of questions and answers.\n3.     Use facilitation skills like acknowledge, connect and explore to strengthen the bond between you"
+        },
+        "resource_title_1": {
+          "eng": "Home visit manual"
+        }
+      },
+      "introduction": "The initial home visit will allow you to explore the family needs, and set realistic expectation. It will also enable families to learn more about the programme, ask questions and raise concerns. This will ensure the programme will be an entire family journey.",
+      "sections_title": "What to do during home visit?",
+      "section_title_1": "Get to know the family",
+      "section_text_1": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\nWho is the main caregiver?\nHow many children and teens are there?\nWho are the main caregivers?\nWhat is the profession of the caregivers\nWhich challenges they are facing as a family?\nWhich support or other programmes are available to them? Which challenges can prevent them from attending the sessions on a weekly basis?",
+      "section_title_2": "Setting realistic goals – the basics",
+      "section_text_2": "It is important that every family set one goal they want to achieve as part of the programme. Help them to set a goal which will be  (1) realistic, (2) positive and (3) actionable\n\r Realistic – Based on your experience, think if this can be achieved within 9 weeks? If not – help the parent to think about a more modest goal.\n \nPositive – Help them to rephrase the goal to reflect positiveness (‘’I want to get more help with house chores’’) rather than negative (‘I want my teen to stop being selfish’’’’)\n \nParent-focused - Explore how the parent can contribute to achieving this goal",
+      "section_title_3": "Setting realistic goals - stages",
+      "section_text_3": "Ask participants what goal they would like to achieve during the programme\nIf the goal is negative - make it positive\nMake the goals realisable within 14 weeks\r and rephrase if necessary:\n\r Parent: I want to see my child go to the University\r Facilitator: ‘’Your goal is to see your child go to university. Our programme is 9 weeks. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r Parent: Yes, I can help my child so they improve their marks in school this semester.”\r Facilitator: Great! So your goal can be ‘’getting ideas on how to help my child to improve his marks in school this semester’’\n \nMake the goals focused on the person sharing (instead of their parent/teen):\r “What can you do to help realise that goal?” (e.g. your goals is for your child to listen – what can you do as parent?).",
+      "section_title_4": "Things to remember",
+      "section_text_4": "1.     Try to ensure all household members will attend to increase the chances of collaboration through the programme.\n2.     Try your best that it will be a conversation and not an interview of questions and answers.\n3.     Use facilitation skills like acknowledge, connect and explore to strengthen the bond between you",
+      "resource_title_1": "Home visit manual"
+    },
+    {
+      "id": "id_manage_expectations_duplicate",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "How to manage expectations",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to manage expectations"
+        },
+        "introduction": {
+          "eng": "Parents will come with various expectations from the group and from you as a facilitator. Unrealistic expectations can lead to frustration and leaving the group, so it is important to identify and address them as soon as possible. Here is how."
+        },
+        "section_title_1": {
+          "eng": "Identify the sources of expectations"
+        },
+        "section_text_1": {
+          "eng": "Other programmes may have given participants something in the past (for example snacks or transport), so now participants may expect that we do the same. Especially if participants have attended other services offered by your organisation, this may raise expectations.\nSome questions in the pre-post survey may raise expectations among participants that the programme will provide material support (like “how many meals did you miss in the last week”).\nPlease make sure to explain the purposes of the survey clearly.\nHere is a link to the recruitment steps where you can find more about how to explain about the survey.\nID_Recruitment\nLook for the dropdown menu called ‘’ Step 3: Introduce survey & manage expectations \nFamilies may have other ideas about the programme that may keep them from participating or may make them drop out. Common misperceptions that you may need to address include:\r - ‘’This programme is for bad parents and/or bad children’’\r - ‘’This programme is only for a specific group of parents or children (e.g orphans)\r - ‘’This programme is only for female caregivers’’."
+        },
+        "section_title_2": {
+          "eng": "How to respond"
+        },
+        "section_text_2": {
+          "eng": "**Differentiate the programme**             \t\r It is important to explain that HHPP is a different programme from previous programmes that participants may have attended. Be clear that participants will not get material incentives when joining HHPP and emphasise the unique value that HHPP offers (without being negative about other programmes).\nYou cannot control what others people or organisations may be saying to participants before the start of the programme. What you CAN control is what you share during home visits and group sessions.\n-     **Be confident of value of programme**\nBe confident that you are offering something that will add value to families. Remember, HHPP’s lifelong impact on parents, teens and families will always be appreciated more in the end than temporary material incentives.\n[Voice recording of testimonial: Parents and teens were still attending group sessions on session 10, because they saw that the impact on their families was worth more than the Hungry Lion they were getting from the other programme – Chris, Livingstone]  \n-     **Help participants feel ownership of the group**\nEmpower your group by inviting participants to come up with their own ideas rather than presenting answers or solutions. \nWhen participants feel this is ‘their’ group, they will become less dependent on you and your organisation for answers or resources. The group will start supporting each other and may even be able to put resources together for activities like the graduation ceremony. \n-     ** Create space for concerns**\nPlease give caregivers lots of space to ask any questions they may have and address those clearly, both during recruitment and throughout the programme. By building a good relationship with each participant, they will feel free to share any concerns with you as they may come up and you may be able to prevent participants from dropping out.  \n-     **Be aware of other programmes**\nYour organisation, or other organisations, may be offering other programmes in the communities where you work. Know about these programmes, so you know what expectations or ideas these programmes may have raised about HHPP and can be ready to address these."
+        }
+      },
+      "introduction": "Parents will come with various expectations from the group and from you as a facilitator. Unrealistic expectations can lead to frustration and leaving the group, so it is important to identify and address them as soon as possible. Here is how.",
+      "section_title_1": "Identify the sources of expectations",
+      "section_text_1": "Other programmes may have given participants something in the past (for example snacks or transport), so now participants may expect that we do the same. Especially if participants have attended other services offered by your organisation, this may raise expectations.\nSome questions in the pre-post survey may raise expectations among participants that the programme will provide material support (like “how many meals did you miss in the last week”).\nPlease make sure to explain the purposes of the survey clearly.\nHere is a link to the recruitment steps where you can find more about how to explain about the survey.\nID_Recruitment\nLook for the dropdown menu called ‘’ Step 3: Introduce survey & manage expectations \nFamilies may have other ideas about the programme that may keep them from participating or may make them drop out. Common misperceptions that you may need to address include:\r - ‘’This programme is for bad parents and/or bad children’’\r - ‘’This programme is only for a specific group of parents or children (e.g orphans)\r - ‘’This programme is only for female caregivers’’.",
+      "section_title_2": "How to respond",
+      "section_text_2": "**Differentiate the programme**             \t\r It is important to explain that HHPP is a different programme from previous programmes that participants may have attended. Be clear that participants will not get material incentives when joining HHPP and emphasise the unique value that HHPP offers (without being negative about other programmes).\nYou cannot control what others people or organisations may be saying to participants before the start of the programme. What you CAN control is what you share during home visits and group sessions.\n-     **Be confident of value of programme**\nBe confident that you are offering something that will add value to families. Remember, HHPP’s lifelong impact on parents, teens and families will always be appreciated more in the end than temporary material incentives.\n[Voice recording of testimonial: Parents and teens were still attending group sessions on session 10, because they saw that the impact on their families was worth more than the Hungry Lion they were getting from the other programme – Chris, Livingstone]  \n-     **Help participants feel ownership of the group**\nEmpower your group by inviting participants to come up with their own ideas rather than presenting answers or solutions. \nWhen participants feel this is ‘their’ group, they will become less dependent on you and your organisation for answers or resources. The group will start supporting each other and may even be able to put resources together for activities like the graduation ceremony. \n-     ** Create space for concerns**\nPlease give caregivers lots of space to ask any questions they may have and address those clearly, both during recruitment and throughout the programme. By building a good relationship with each participant, they will feel free to share any concerns with you as they may come up and you may be able to prevent participants from dropping out.  \n-     **Be aware of other programmes**\nYour organisation, or other organisations, may be offering other programmes in the communities where you work. Know about these programmes, so you know what expectations or ideas these programmes may have raised about HHPP and can be ready to address these."
+    },
+    {
+      "id": "id_coaching_duplicate",
+      "related_article_id_1": "id_coaching_FAQ1",
+      "related_article_id_2": "id_coaching_FAQ2",
+      "related_article_id_3": "ID_coaching_FAQ3 \nHow to plan & prepare for my next session",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "COACHING",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
         "section_title_3": {},
         "section_text_3": {},
+<<<<<<< HEAD
         "section_title_4": {},
         "section_text_4": {}
       },
@@ -1374,6 +2033,194 @@
         "faq"
       ],
       "related_article_id_1": "id_follow_up_faq1",
+=======
+        "resource_title_1": {},
+        "resource_title_2": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "COACHING"
+        },
+        "introduction": {
+          "eng": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together."
+        },
+        "sections_title": {
+          "eng": "**What should I expect from my coaching session?**"
+        },
+        "section_title_1": {
+          "eng": "Reflection on successes"
+        },
+        "section_text_1": {
+          "eng": "It is important that we share and celebrate our successes as facilitators. What worked for you may help your colleagues, and the other way around! \nDelivering HHPP can be challenging, so by sharing our successes we stay focused on the positive impact our work makes on the lives of our families and communities."
+        },
+        "section_title_2": {
+          "eng": "Reflection on challenges & identifying solutions"
+        },
+        "section_text_2": {
+          "eng": "[text to be authored] \nWhatever challenges we experience, we can always find solutions to try out when we brainstorm together. During the coaching sessions, we have the opportunity to practise these solutions in a safe space through role-play, before applying them with our participants.\nCoaching sessions also give you the opportunity to discuss with your supervisor if there are any families that may need additional support beyond what HHPP can offer. Remember that we only should make referrals with the family’s permission unless it is a serious child protection issue in which a child’s safety is at risk."
+        },
+        "section_title_3": {
+          "eng": "Preparing for the next session"
+        },
+        "section_text_3": {
+          "eng": "Preparation sets us up for a win in the next session. During coaching sessions, you can ask questions regarding any activities in the next session, divide tasks with your co-facilitator, and practise activities if necessary."
+        },
+        "resource_title_1": {
+          "eng": "Facilitator reflection form"
+        },
+        "resource_title_2": {
+          "eng": "Session planning checklist"
+        },
+        "related_articles_title": {
+          "eng": "I already need support with a specific challenge:"
+        }
+      },
+      "introduction": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together.",
+      "sections_title": "**What should I expect from my coaching session?**",
+      "section_title_1": "Reflection on successes",
+      "section_text_1": "It is important that we share and celebrate our successes as facilitators. What worked for you may help your colleagues, and the other way around! \nDelivering HHPP can be challenging, so by sharing our successes we stay focused on the positive impact our work makes on the lives of our families and communities.",
+      "section_title_2": "Reflection on challenges & identifying solutions",
+      "section_text_2": "[text to be authored] \nWhatever challenges we experience, we can always find solutions to try out when we brainstorm together. During the coaching sessions, we have the opportunity to practise these solutions in a safe space through role-play, before applying them with our participants.\nCoaching sessions also give you the opportunity to discuss with your supervisor if there are any families that may need additional support beyond what HHPP can offer. Remember that we only should make referrals with the family’s permission unless it is a serious child protection issue in which a child’s safety is at risk.",
+      "section_title_3": "Preparing for the next session",
+      "section_text_3": "Preparation sets us up for a win in the next session. During coaching sessions, you can ask questions regarding any activities in the next session, divide tasks with your co-facilitator, and practise activities if necessary.",
+      "resource_title_1": "Facilitator reflection form",
+      "resource_title_2": "Session planning checklist",
+      "related_articles_title": "I already need support with a specific challenge:"
+    },
+    {
+      "id": "id_coaching_faq1_duplicate",
+      "related_article_id_1": "Session 1",
+      "related_article_id_2": "Session 2",
+      "related_article_id_3": "Session 3",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Participants struggle with a new skill",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants struggle with a new skill"
+        },
+        "introduction": {
+          "eng": "We can all learn from each other as facilitators. Tap your session number and check out the challenges and solutions that other facilitators came across during that session:"
+        },
+        "related_articles_title": {
+          "eng": "FAQ for HHPP sessions:"
+        }
+      },
+      "introduction": "We can all learn from each other as facilitators. Tap your session number and check out the challenges and solutions that other facilitators came across during that session:",
+      "related_articles_title": "FAQ for HHPP sessions:"
+    },
+    {
+      "id": "id_coaching_faq2_duplicate",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "I have a challenge in my group",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I have a challenge in my group"
+        },
+        "introduction": {
+          "eng": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups."
+        },
+        "sections_title": {
+          "eng": "I have a challenge around:"
+        },
+        "section_title_1": {
+          "eng": "Dropouts"
+        },
+        "section_text_1": {
+          "eng": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions.\n [   ]"
+        },
+        "section_title_2": {
+          "eng": "Home visits & phone calls"
+        },
+        "section_text_2": {
+          "eng": "[text to be authored]"
+        },
+        "section_title_3": {
+          "eng": "Data management"
+        },
+        "section_text_3": {
+          "eng": "[text to be authored]"
+        },
+        "section_title_4": {
+          "eng": "Group participation"
+        },
+        "section_text_4": {
+          "eng": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals."
+        },
+        "section_title_5": {
+          "eng": "Facilitation skills"
+        },
+        "section_text_5": {
+          "eng": "[shorten intro from General FAQ - Facilitation Skills]"
+        }
+      },
+      "introduction": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups.",
+      "sections_title": "I have a challenge around:",
+      "section_title_1": "Dropouts",
+      "section_text_1": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions.\n [   ]",
+      "section_title_2": "Home visits & phone calls",
+      "section_text_2": "[text to be authored]",
+      "section_title_3": "Data management",
+      "section_text_3": "[text to be authored]",
+      "section_title_4": "Group participation",
+      "section_text_4": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals.",
+      "section_title_5": "Facilitation skills",
+      "section_text_5": "[shorten intro from General FAQ - Facilitation Skills]"
+    },
+    {
+      "id": "id_coaching_faq3_duplicate",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "How can I plan and prepare for my next session?",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "resource_title_1": {},
+        "resource_title_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How can I plan and prepare for my next session?"
+        },
+        "introduction": {
+          "eng": "Being prepared makes all the difference! Check out the steps of a session, and the content of each session here:"
+        },
+        "resource_title_1": {
+          "eng": "Steps of a Session"
+        },
+        "resource_title_2": {
+          "eng": "HHPP sessions"
+        }
+      },
+      "introduction": "Being prepared makes all the difference! Check out the steps of a session, and the content of each session here:",
+      "resource_title_1": "Steps of a Session",
+      "resource_title_2": "HHPP sessions"
+    },
+    {
+      "id": "id_follow-up_duplicate",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Home visits & phone calls",
@@ -1390,15 +2237,23 @@
         "section_title_4": {},
         "section_text_4": {},
         "section_title_5": {},
+<<<<<<< HEAD
         "section_text_5": {},
         "related_articles_title": {}
+=======
+        "section_text_5": {}
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       },
       "_translatedFields": {
         "title": {
           "eng": "Home visits & phone calls"
         },
         "introduction": {
+<<<<<<< HEAD
           "eng": "* Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\n* Building the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available."
+=======
+          "eng": "Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\nBuilding the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available."
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         },
         "sections_title": {
           "eng": "How to make follow-ups a success:"
@@ -1413,7 +2268,11 @@
           "eng": "Use the buddy system"
         },
         "section_text_2": {
+<<<<<<< HEAD
           "eng": "* In HHPP, each participant is paired with a ‘buddy’. \n* A buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\n* To prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session."
+=======
+          "eng": "In HHPP, each participant is paired with a ‘buddy’. \nA buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\nTo prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session."
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         },
         "section_title_3": {
           "eng": "Do a joint home visit catch-up"
@@ -1425,12 +2284,17 @@
           "eng": "Do a phone call or WhatsApp call"
         },
         "section_text_4": {
+<<<<<<< HEAD
           "eng": "* When participants have phones, you can give them a call to catch them up on a session missed.\n* If they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up)."
+=======
+          "eng": "When participants have phones, you can give them a call to catch them up on a session missed.\nIf they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up).\n[link to phone call guide - transferring this to in-app content may work better than PDF]"
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
         },
         "section_title_5": {
           "eng": "Meet participants at school/work"
         },
         "section_text_5": {
+<<<<<<< HEAD
           "eng": "* It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.)."
         },
         "related_articles_title": {
@@ -1438,10 +2302,17 @@
         }
       },
       "introduction": "* Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\n* Building the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available.",
+=======
+          "eng": "It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.)."
+        }
+      },
+      "introduction": "Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\nBuilding the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available.",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "sections_title": "How to make follow-ups a success:",
       "section_title_1": "Ask participants for suggestions",
       "section_text_1": "Brainstorm ideas with your participants by asking ‘Some of our group have missed this session, what can we do to get everyone updated?’. When ideas and suggested dates/times come from participants it is more likely that the solution will work well for them and that they will follow through.",
       "section_title_2": "Use the buddy system",
+<<<<<<< HEAD
       "section_text_2": "* In HHPP, each participant is paired with a ‘buddy’. \n* A buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\n* To prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session.",
       "section_title_3": "Do a joint home visit catch-up",
       "section_text_3": "When multiple participants have missed a session, you can invite them to come for a joint catch-up session at one of their homes. This is particularly helpful when participants stay closer together.",
@@ -1483,6 +2354,20 @@
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Graduation ceremony",
+=======
+      "section_text_2": "In HHPP, each participant is paired with a ‘buddy’. \nA buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\nTo prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session.",
+      "section_title_3": "Do a joint home visit catch-up",
+      "section_text_3": "When multiple participants have missed a session, you can invite them to come for a joint catch-up session at one of their homes. This is particularly helpful when participants stay closer together.",
+      "section_title_4": "Do a phone call or WhatsApp call",
+      "section_text_4": "When participants have phones, you can give them a call to catch them up on a session missed.\nIf they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up).\n[link to phone call guide - transferring this to in-app content may work better than PDF]",
+      "section_title_5": "Meet participants at school/work",
+      "section_text_5": "It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.)."
+    },
+    {
+      "id": "id_celebration_duplicate",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Graduation ceremony",
       "_translations": {
         "title": {},
         "introduction": {},
@@ -1494,6 +2379,163 @@
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
+        "section_text_4": {},
+        "resource_title_1": {},
+        "resource_title_2": {},
+        "resource_title_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Graduation ceremony"
+        },
+        "introduction": {
+          "eng": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’."
+        },
+        "sections_title": {
+          "eng": "Celebration preparations"
+        },
+        "section_title_1": {
+          "eng": "Prepare certificates"
+        },
+        "section_text_1": {
+          "eng": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme.\n[Link to example Parent certificate of attendance PDF if possible]\n[Link to example Teen certificate of attendance PDF if possible]"
+        },
+        "section_title_2": {
+          "eng": "Involve participants in planning"
+        },
+        "section_text_2": {
+          "eng": "Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \nParticipants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!"
+        },
+        "section_title_3": {
+          "eng": "Choose music"
+        },
+        "section_text_3": {
+          "eng": "Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \nIf you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!"
+        },
+        "section_title_4": {
+          "eng": "Create a checklist"
+        },
+        "section_text_4": {
+          "eng": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\n[link to  checklist below]\nPreparation              By whom\nCertificates                 [Your name]\nVenue                         [Your name]\r(can be usual group venue)\nPaper & crayons\t[Your name]\nMusic for dance party\t [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]"
+        },
+        "resource_title_1": {
+          "eng": "Celebration prep checklist"
+        },
+        "resource_title_2": {
+          "eng": "Parent certificate example"
+        },
+        "resource_title_3": {
+          "eng": "Teen certificate example"
+        }
+      },
+      "introduction": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’.",
+      "sections_title": "Celebration preparations",
+      "section_title_1": "Prepare certificates",
+      "section_text_1": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme.\n[Link to example Parent certificate of attendance PDF if possible]\n[Link to example Teen certificate of attendance PDF if possible]",
+      "section_title_2": "Involve participants in planning",
+      "section_text_2": "Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \nParticipants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!",
+      "section_title_3": "Choose music",
+      "section_text_3": "Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \nIf you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!",
+      "section_title_4": "Create a checklist",
+      "section_text_4": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\n[link to  checklist below]\nPreparation              By whom\nCertificates                 [Your name]\nVenue                         [Your name]\r(can be usual group venue)\nPaper & crayons\t[Your name]\nMusic for dance party\t [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]",
+      "resource_title_1": "Celebration prep checklist",
+      "resource_title_2": "Parent certificate example",
+      "resource_title_3": "Teen certificate example"
+    },
+    {
+      "id": "id_recruitment_duplicate",
+      "resource_data_1": "Family_Case_Profile",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Recruitment",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Recruitment"
+        },
+        "introduction": {
+          "eng": "Let participants experience that they will experience during the group sessions. We know we are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme."
+        },
+        "sections_title": {
+          "eng": "Steps of introducing the programme"
+        },
+        "section_title_1": {
+          "eng": "Step 1: Greeting & introduction"
+        },
+        "section_text_1": {
+          "eng": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”"
+        },
+        "section_title_2": {
+          "eng": "Step 2: Invitation"
+        },
+        "section_text_2": {
+          "eng": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”"
+        },
+        "section_title_3": {
+          "eng": "Step 3: Introduce survey & manage expectations"
+        },
+        "section_text_3": {
+          "eng": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\nSome questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\nRaising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”\n You can find more information here: ID_manage_expetations"
+        },
+        "section_title_4": {
+          "eng": "Complete survey and invite for first session"
+        },
+        "section_text_4": {
+          "eng": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session."
+        },
+        "resource_title_1": {
+          "eng": "Family Profile"
+        }
+      },
+      "introduction": "Let participants experience that they will experience during the group sessions. We know we are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme.",
+      "sections_title": "Steps of introducing the programme",
+      "section_title_1": "Step 1: Greeting & introduction",
+      "section_text_1": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”",
+      "section_title_2": "Step 2: Invitation",
+      "section_text_2": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”",
+      "section_title_3": "Step 3: Introduce survey & manage expectations",
+      "section_text_3": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\nSome questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\nRaising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”\n You can find more information here: ID_manage_expetations",
+      "section_title_4": "Complete survey and invite for first session",
+      "section_text_4": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session.",
+      "resource_title_1": "Family Profile"
+    },
+    {
+      "id": "id_session_1",
+      "tag_1": "hhpp_sessions",
+      "icon_asset": "",
+      "resource_data_1": "Manual",
+      "resource_id_1": "session_1_manual.pdf",
+      "resource_data_2": "Physical exercise - long",
+      "resource_data_3": "Physical exercise - short",
+      "resource_data_4": "Home Visit Guide",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Session_1 - Introduction, Family Goals And One-on-one Time",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "sections_title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+<<<<<<< HEAD
         "section_text_4": {},
         "resource_title_1": {},
         "resource_title_2": {},
@@ -1566,6 +2608,83 @@
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Recruitment",
+=======
+        "resource_title_1": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "task_list_title": {},
+        "task_list_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session_1 - Introduction, Family Goals And One-on-one Time"
+        },
+        "introduction": {
+          "eng": "The goals of this session are (1) to introduce the program to participants (2) to help them define realistic goals (3) to introduce them to 1on1 time and it’s importance. As the first session sets the tone for the entire programme, it is important to create a space that is welcoming and safe for the participants to feel at ease."
+        },
+        "sections_title": {
+          "eng": "Session Summary"
+        },
+        "section_title_1": {
+          "eng": "Core Principles"
+        },
+        "section_text_1": {
+          "eng": "Goals should be specific, positive, and realistic\nShort-term goals can lead to long-term achievement in life\nOne-on-One Time with your parent/teen builds trust, communication, and positive\nrelationships\nUse Active Listening skills during One-on-One Time\nOne-on-One Time shows that you value your teen"
+        },
+        "section_title_2": {
+          "eng": "Materials"
+        },
+        "section_text_2": {
+          "eng": "Attendance register\nName tags / Stickers for writing names\nTemporary adhesive\npens, paper, flipchart\nToys\nRefreshments for the break\nHouse of Support poster\nIllustrated story (Whatsapp quality time)"
+        },
+        "section_title_3": {
+          "eng": "Agenda"
+        },
+        "section_text_3": {
+          "eng": "Welcome and Session Preps (30 minutes)\nSession Overview (30 minutes)\nCore Lesson (60 minutes)\nSession Close (30 minutes)"
+        },
+        "section_title_4": {
+          "eng": "1. Core lesson - Stages of child development (15 min)\r2. Core lesson - Family goals (30 min)~\r3. Break (5min)\r4. Core lesson - One-on-One time (30min)\r5. Taking a pause (5min)\r6. Buddies (5min)\r7. Assign home activities (10min)\r8. Closing (5min)"
+        },
+        "resource_title_1": {
+          "eng": "Resources"
+        },
+        "message_title_1": {
+          "eng": "Pre-Session Reminder"
+        },
+        "message_text_1": {
+          "eng": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organization, and the meeting time and location).."
+        },
+        "task_list_title": {
+          "eng": "Preparation Checklist"
+        },
+        "task_list_text": {
+          "eng": "- Confirm venue\n-Venue Preparation\n- Remind parents of the meeting time\n- Organise drinks and snacks\n- Consider bringing in a parent & their teen who have undergone the programme and can share their experience with the new families."
+        }
+      },
+      "introduction": "The goals of this session are (1) to introduce the program to participants (2) to help them define realistic goals (3) to introduce them to 1on1 time and it’s importance. As the first session sets the tone for the entire programme, it is important to create a space that is welcoming and safe for the participants to feel at ease.",
+      "sections_title": "Session Summary",
+      "section_title_1": "Core Principles",
+      "section_text_1": "Goals should be specific, positive, and realistic\nShort-term goals can lead to long-term achievement in life\nOne-on-One Time with your parent/teen builds trust, communication, and positive\nrelationships\nUse Active Listening skills during One-on-One Time\nOne-on-One Time shows that you value your teen",
+      "section_title_2": "Materials",
+      "section_text_2": "Attendance register\nName tags / Stickers for writing names\nTemporary adhesive\npens, paper, flipchart\nToys\nRefreshments for the break\nHouse of Support poster\nIllustrated story (Whatsapp quality time)",
+      "section_title_3": "Agenda",
+      "section_text_3": "Welcome and Session Preps (30 minutes)\nSession Overview (30 minutes)\nCore Lesson (60 minutes)\nSession Close (30 minutes)",
+      "section_title_4": "1. Core lesson - Stages of child development (15 min)\r2. Core lesson - Family goals (30 min)~\r3. Break (5min)\r4. Core lesson - One-on-One time (30min)\r5. Taking a pause (5min)\r6. Buddies (5min)\r7. Assign home activities (10min)\r8. Closing (5min)",
+      "resource_title_1": "Resources",
+      "message_title_1": "Pre-Session Reminder",
+      "message_text_1": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organization, and the meeting time and location)..",
+      "task_list_title": "Preparation Checklist",
+      "task_list_text": "- Confirm venue\n-Venue Preparation\n- Remind parents of the meeting time\n- Organise drinks and snacks\n- Consider bringing in a parent & their teen who have undergone the programme and can share their experience with the new families."
+    },
+    {
+      "id": "id_session_2",
+      "tag_1": "hhpp_sessions",
+      "resource_data_1": "session_2_manual.pdf",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
+      "title": "Session 2 - Keeping it positive: Praise and positive instructions",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "_translations": {
         "title": {},
         "introduction": {},
@@ -1576,6 +2695,7 @@
         "section_text_2": {},
         "section_title_3": {},
         "section_text_3": {},
+<<<<<<< HEAD
         "section_title_4": {},
         "section_text_4": {},
         "related_articles_title": {}
@@ -1955,20 +3075,104 @@
     },
     {
       "id": "id_session_5",
+=======
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 2 - Keeping it positive: Praise and positive instructions"
+        },
+        "introduction": {
+          "eng": "The goal of the session is to show parents and teens e how to praise and appreciate each other. While parents become more effective at giving specific, positive, and realistic instructions, teens learn how to communicate their needs and wants in a clear and calm way."
+        },
+        "sections_title": {
+          "eng": "Session summary"
+        },
+        "section_title_1": {
+          "eng": "Core principles"
+        },
+        "section_text_1": {
+          "eng": "Praise the behaviour you want to see in your parent/teen\nAppreciate your parent/teen for the positive things that s/he does\nBe specific, immediate, and enthusiastic when you praise your parent/teen\nYour parent/teen will feel better about him/herself when you praise him/her\nInstructions should be positive, specific, and realistic and given in a calm voice\nPraise your teen when s/he follows your instruction\nExplain what you want to your parent/teen in a clear and calm way\nPraise yourself!"
+        },
+        "section_title_2": {
+          "eng": "Materials"
+        },
+        "section_text_2": {
+          "eng": "Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys,\nrefreshments for the break\nHouse of Support poster"
+        },
+        "section_title_3": {
+          "eng": "Agenda"
+        },
+        "section_text_3": {
+          "eng": "1. Welcome (20min)\n2. Home Activity Discussion (40min)\n3. Break (5min)\n4. Core lesson - Talking about emotions (SEPERATED!!) (40min)\n5. Assign Home Activities (10min)\n6. Closing (5min)"
+        },
+        "resource_title_1": {
+          "eng": "Manual"
+        }
+      },
+      "introduction": "The goal of the session is to show parents and teens e how to praise and appreciate each other. While parents become more effective at giving specific, positive, and realistic instructions, teens learn how to communicate their needs and wants in a clear and calm way.",
+      "sections_title": "Session summary",
+      "section_title_1": "Core principles",
+      "section_text_1": "Praise the behaviour you want to see in your parent/teen\nAppreciate your parent/teen for the positive things that s/he does\nBe specific, immediate, and enthusiastic when you praise your parent/teen\nYour parent/teen will feel better about him/herself when you praise him/her\nInstructions should be positive, specific, and realistic and given in a calm voice\nPraise your teen when s/he follows your instruction\nExplain what you want to your parent/teen in a clear and calm way\nPraise yourself!",
+      "section_title_2": "Materials",
+      "section_text_2": "Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys,\nrefreshments for the break\nHouse of Support poster",
+      "section_title_3": "Agenda",
+      "section_text_3": "1. Welcome (20min)\n2. Home Activity Discussion (40min)\n3. Break (5min)\n4. Core lesson - Talking about emotions (SEPERATED!!) (40min)\n5. Assign Home Activities (10min)\n6. Closing (5min)",
+      "resource_title_1": "Manual"
+    },
+    {
+      "id": "id_session_3",
+      "tag_1": "hhpp_sessions",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
+    },
+    {
+      "id": "id_session_4",
+      "tag_1": "hhpp_sessions",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
+    },
+    {
+      "id": "id_session_5",
+      "tag_1": "hhpp_sessions",
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
     },
     {
       "id": "id_session_6",
+      "tag_1": "hhpp_sessions",
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
     },
     {
       "id": "id_session_7",
+      "tag_1": "hhpp_sessions",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
     },
     {
+<<<<<<< HEAD
+      "id": "id_session_6",
+=======
+      "id": "id_session_8",
+      "tag_1": "hhpp_sessions",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
+    },
+    {
+<<<<<<< HEAD
+      "id": "id_session_7",
+=======
+      "id": "id_session_9",
+      "tag_1": "hhpp_sessions",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
+    },
+    {
+<<<<<<< HEAD
       "id": "id_session_8",
       "icon_asset": "images/sessions/graduation.svg",
       "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
@@ -2211,6 +3415,11 @@
       "section_text_4": "* Sharing emotions helps your teen to be aware and learn to do the same. \n\n* You can choose how much detail you want to share about the situation. It’s up to you! \n\n* You can also choose to answer questions later by saying, “I am feeling angry/stressed now. Could you please give me some time? We can talk about this more tonight”",
       "section_title_5": "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that.",
       "section_text_5": "* It’s okay to not want to share at that time. \n\n* Find some time to explain later, when you feel calmer, so that everyone can understand."
+=======
+      "id": "id_session1_faq1",
+      "icon_asset": "images/sessions/graduation.svg",
+      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
     }
   ],
   "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"

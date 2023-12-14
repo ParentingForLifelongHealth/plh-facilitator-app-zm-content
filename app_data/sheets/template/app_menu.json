@@ -5,8 +5,13 @@
   "rows": [
     {
       "type": "button",
+<<<<<<< HEAD
       "name": "button_about",
       "value": "@global.about_this_app",
+=======
+      "name": "button_terms",
+      "value": "@global.terms_and_conditions",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "_translations": {
         "value": {}
       },
@@ -15,6 +20,7 @@
           "trigger": "click",
           "action_id": "go_to",
           "args": [
+<<<<<<< HEAD
             "app_about"
           ],
           "_raw": "click | go_to: app_about",
@@ -29,27 +35,7 @@
             "matchedExpression": "@global.about_this_app",
             "type": "global",
             "fieldName": "about_this_app"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.about_this_app": [
-          "value"
-        ]
-      }
-    },
-    {
-      "type": "button",
-      "name": "button_terms",
-      "value": "@global.terms_and_conditions",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
+=======
             "app_menu_terms"
           ],
           "_raw": "click | go_to: app_menu_terms",
@@ -64,19 +50,29 @@
             "matchedExpression": "@global.terms_and_conditions",
             "type": "global",
             "fieldName": "terms_and_conditions"
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
           }
         ]
       },
       "_dynamicDependencies": {
+<<<<<<< HEAD
+        "@global.about_this_app": [
+=======
         "@global.terms_and_conditions": [
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
           "value"
         ]
       }
     },
     {
       "type": "button",
+<<<<<<< HEAD
+      "name": "button_terms",
+      "value": "@global.terms_and_conditions",
+=======
       "name": "button_privacy",
       "value": "@global.privacy_policy",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "_translations": {
         "value": {}
       },
@@ -84,6 +80,68 @@
         {
           "trigger": "click",
           "action_id": "go_to",
+          "args": [
+<<<<<<< HEAD
+            "app_menu_terms"
+          ],
+          "_raw": "click | go_to: app_menu_terms",
+          "_cleaned": "click | go_to: app_menu_terms"
+        }
+      ],
+      "_nested_name": "button_terms",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.terms_and_conditions",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+=======
+            "app_menu_privacy_policy"
+          ],
+          "_raw": "click | go_to: app_menu_privacy_policy",
+          "_cleaned": "click | go_to: app_menu_privacy_policy"
+        }
+      ],
+      "_nested_name": "button_privacy",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.privacy_policy",
+            "matchedExpression": "@global.privacy_policy",
+            "type": "global",
+            "fieldName": "privacy_policy"
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+<<<<<<< HEAD
+        "@global.terms_and_conditions": [
+=======
+        "@global.privacy_policy": [
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "button",
+<<<<<<< HEAD
+      "name": "button_privacy",
+      "value": "@global.privacy_policy",
+=======
+      "name": "button_dev_enter",
+      "value": "Developer mode",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+<<<<<<< HEAD
           "args": [
             "app_menu_privacy_policy"
           ],
@@ -119,6 +177,8 @@
         {
           "trigger": "click",
           "action_id": "go_to",
+=======
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
           "args": [
             "enter_dev_mode"
           ],

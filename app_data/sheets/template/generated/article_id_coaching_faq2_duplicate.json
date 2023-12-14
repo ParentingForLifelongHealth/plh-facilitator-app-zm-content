@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD:app_data/sheets/template/generated/article_id_abuse.json
-  "flow_name": "article_id_abuse",
-=======
-  "flow_name": "article_id_coaching",
->>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52:app_data/sheets/template/generated/article_id_coaching.json
+  "flow_name": "article_id_coaching_faq2_duplicate",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -24,11 +20,7 @@
         },
         {
           "name": "article_id",
-<<<<<<< HEAD:app_data/sheets/template/generated/article_id_abuse.json
-          "value": "id_abuse",
-=======
-          "value": "id_coaching",
->>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52:app_data/sheets/template/generated/article_id_coaching.json
+          "value": "id_coaching_faq2_duplicate",
           "_translations": {
             "value": {}
           },

@@ -71,6 +71,7 @@
     },
     {
       "lifecycle_event": "app_start",
+<<<<<<< HEAD
       "id": "app_start_package_select",
       "priority": 4,
       "condition_list": [
@@ -96,6 +97,10 @@
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
       "priority": 5,
+=======
+      "id": "app_start_update_prompt",
+      "priority": 4,
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
       "action_list": [
         {
           "trigger": "click",

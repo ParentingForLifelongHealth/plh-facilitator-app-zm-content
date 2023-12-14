@@ -3,6 +3,7 @@
   "flow_name": "pdf_data",
   "status": "released",
   "data_list_name": "pdf",
+<<<<<<< HEAD
   "rows": [
     {
       "id": "manual_1_on_1_time",
@@ -17,5 +18,8 @@
       "icon_asset": "images/icons/women and girl with phone.svg"
     }
   ],
+=======
+  "rows": [],
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
   "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
 }

@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "flow_name": "article_id_session_2",
+=======
+<<<<<<< HEAD:app_data/sheets/template/generated/article_id_follow_up.json
+  "flow_name": "article_id_follow_up",
+=======
+  "flow_name": "article_id_session_2",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52:app_data/sheets/template/generated/article_id_session_2.json
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +28,15 @@
         },
         {
           "name": "article_id",
+<<<<<<< HEAD
           "value": "id_session_2",
+=======
+<<<<<<< HEAD:app_data/sheets/template/generated/article_id_follow_up.json
+          "value": "id_follow_up",
+=======
+          "value": "id_session_2",
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52:app_data/sheets/template/generated/article_id_session_2.json
+>>>>>>> 318e278826e2ef9332fa84b787a6262c0f62ad52
           "_translations": {
             "value": {}
           },
