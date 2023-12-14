@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "home_screen",
+  "flow_name": "home_screen_grid",
   "status": "released",
   "rows": [
     {
@@ -261,9 +261,10 @@
           }
         },
         {
-          "type": "carousel",
+          "type": "display_grid",
           "parameter_list": {
-            "centred_slides": "false"
+            "item_width": "160px",
+            "item_border": "none"
           },
           "rows": [
             {
@@ -279,7 +280,7 @@
                   "condition": "!@item.home_screen_section_list",
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.sections",
+                  "_nested_name": "items.display_grid.items.sections",
                   "_dynamicFields": {
                     "condition": [
                       {
@@ -301,7 +302,7 @@
                   "value": false,
                   "condition": "!@item.home_screen_section_list",
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.condition_section",
+                  "_nested_name": "items.display_grid.items.condition_section",
                   "_dynamicFields": {
                     "condition": [
                       {
@@ -326,7 +327,7 @@
                   },
                   "condition": "!!@item.home_screen_section_list",
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.sections",
+                  "_nested_name": "items.display_grid.items.sections",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -362,7 +363,7 @@
                   },
                   "condition": "!!@item.home_screen_section_list",
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.condition_section",
+                  "_nested_name": "items.display_grid.items.condition_section",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -417,7 +418,7 @@
                   "condition": "!@item.tag_list || !@global.has_multiple_content_packages",
                   "exclude_from_translation": true,
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.packages",
+                  "_nested_name": "items.display_grid.items.packages",
                   "_dynamicFields": {
                     "condition": [
                       {
@@ -448,7 +449,7 @@
                   "value": true,
                   "condition": "!@item.tag_list || !@global.has_multiple_content_packages",
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.condition_package",
+                  "_nested_name": "items.display_grid.items.condition_package",
                   "_dynamicFields": {
                     "condition": [
                       {
@@ -482,7 +483,7 @@
                   },
                   "condition": "!!@item.tag_list && @global.has_multiple_content_packages",
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.packages",
+                  "_nested_name": "items.display_grid.items.packages",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -527,7 +528,7 @@
                   },
                   "condition": "!!@item.tag_list && @global.has_multiple_content_packages",
                   "type": "set_variable",
-                  "_nested_name": "items.carousel.items.condition_package",
+                  "_nested_name": "items.display_grid.items.condition_package",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -612,7 +613,7 @@
                         "image_asset": "@item.icon_asset"
                       },
                       "name": "button",
-                      "_nested_name": "items.carousel.items.dg_@item.id.button",
+                      "_nested_name": "items.display_grid.items.dg_@item.id.button",
                       "_dynamicFields": {
                         "value": [
                           {
@@ -664,7 +665,7 @@
                         },
                         "_nested_name": [
                           {
-                            "fullExpression": "items.carousel.items.dg_@item.id.button",
+                            "fullExpression": "items.display_grid.items.dg_@item.id.button",
                             "matchedExpression": "@item.id.button",
                             "type": "item",
                             "fieldName": "id"
@@ -696,7 +697,7 @@
                         "value": {}
                       },
                       "condition": false,
-                      "_nested_name": "items.carousel.items.dg_@item.id.debug_condition",
+                      "_nested_name": "items.display_grid.items.dg_@item.id.debug_condition",
                       "_dynamicFields": {
                         "value": [
                           {
@@ -726,7 +727,7 @@
                         ],
                         "_nested_name": [
                           {
-                            "fullExpression": "items.carousel.items.dg_@item.id.debug_condition",
+                            "fullExpression": "items.display_grid.items.dg_@item.id.debug_condition",
                             "matchedExpression": "@item.id.debug_condition",
                             "type": "item",
                             "fieldName": "id"
@@ -752,7 +753,7 @@
                       }
                     }
                   ],
-                  "_nested_name": "items.carousel.items.dg_@item.id",
+                  "_nested_name": "items.display_grid.items.dg_@item.id",
                   "_dynamicFields": {
                     "name": [
                       {
@@ -778,7 +779,7 @@
                     ],
                     "_nested_name": [
                       {
-                        "fullExpression": "items.carousel.items.dg_@item.id",
+                        "fullExpression": "items.display_grid.items.dg_@item.id",
                         "matchedExpression": "@item.id",
                         "type": "item",
                         "fieldName": "id"
@@ -800,7 +801,7 @@
                 }
               ],
               "name": "items",
-              "_nested_name": "items.carousel.items",
+              "_nested_name": "items.display_grid.items",
               "_dynamicFields": {
                 "value": [
                   {
@@ -818,8 +819,8 @@
               }
             }
           ],
-          "name": "carousel",
-          "_nested_name": "items.carousel"
+          "name": "display_grid",
+          "_nested_name": "items.display_grid"
         }
       ],
       "name": "items",

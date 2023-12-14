@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_id_follow-up",
+  "flow_name": "article_id_mytime_identify",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "id_follow-up",
+          "value": "id_mytime_identify",
           "_translations": {
             "value": {}
           },
