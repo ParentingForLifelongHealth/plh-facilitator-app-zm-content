@@ -1,0 +1,46 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "home_screen_section_data",
+  "status": "released",
+  "data_list_name": "home_screen_section",
+  "rows": [
+    {
+      "id": "your_journey",
+      "attached_single_doc": "https://docs.google.com/document/d/11Rma8qwOrYgqz6a0W94V1SpOxPiLO88giXiBeRSu6I0",
+      "title": "Your Journey",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Your Journey"
+        }
+      }
+    },
+    {
+      "id": "hhpp_sessions",
+      "title": "HHPP sessions",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "HHPP sessions"
+        }
+      }
+    },
+    {
+      "id": "faq",
+      "title": "Solving challenges (FAQs)",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Solving challenges (FAQs)"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
+}

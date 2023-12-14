@@ -3,6 +3,19 @@
   "flow_name": "pdf_data",
   "status": "released",
   "data_list_name": "pdf",
-  "rows": [],
+  "rows": [
+    {
+      "id": "manual_1_on_1_time",
+      "title": "Session 1 Manual",
+      "pdf_asset": "pdf/manual_1_on_1_time.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    },
+    {
+      "id": "manual_positive_instructions",
+      "title": "Session 2 Manual",
+      "pdf_asset": "pdf/praise_instructions.pdf",
+      "icon_asset": "images/icons/women and girl with phone.svg"
+    }
+  ],
   "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
 }

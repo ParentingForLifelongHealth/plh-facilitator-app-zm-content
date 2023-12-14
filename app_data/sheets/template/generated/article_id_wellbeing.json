@@ -1,5 +1,5 @@
 {
-  "flow_name": "article_id_manage_expectations_duplicate",
+  "flow_name": "article_id_wellbeing",
   "flow_subtype": "generated",
   "flow_type": "template",
   "rows": [
@@ -20,7 +20,7 @@
         },
         {
           "name": "article_id",
-          "value": "id_manage_expectations_duplicate",
+          "value": "id_wellbeing",
           "_translations": {
             "value": {}
           },
