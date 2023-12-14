@@ -5,95 +5,17 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "article_1",
-      "title": "Session 1 PDF",
-      "pdf_asset": "pdf/draft_template_manual_format.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "question_1",
-      "title": "Example PDF",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
-    },
-    {
-      "id": "article_question_1",
-      "title": "Example PDF",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
-    },
-    {
-      "id": "question_11",
-      "title": "Example PDF",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
-    },
-    {
-      "id": "question_12",
-      "title": "Example PDF",
-      "icon_asset": "images/icons/women and girl with phone.svg",
-      "pdf_asset": "pdf/example.pdf"
-    },
-    {
-      "id": "manual_intro_goals",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_intro_goals.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
       "id": "manual_1_on_1_time",
-      "title": "Manual",
+      "title": "Session 1 Manual",
       "pdf_asset": "pdf/manual_1_on_1_time.pdf",
       "icon_asset": "images/icons/women and girl with phone.svg"
     },
     {
-      "id": "manual_praise_instructions",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_praise_instructions.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_managing_anger_stress",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_managing_anger_stress.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_establing_rules",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_establishing_rules.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_family_budgeting",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_family_budgeting.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_accepting_responsibilities",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_accepting_responsibilities.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_family_problemsolving",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_family_problemsolving.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_keeping_safe",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_keeping_safe.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
-    },
-    {
-      "id": "manual_widening_support",
-      "title": "Manual",
-      "pdf_asset": "pdf/manual_widening_support.pdf",
+      "id": "manual_positive_instructions",
+      "title": "Session 2 Manual",
+      "pdf_asset": "pdf/praise_instructions.pdf",
       "icon_asset": "images/icons/women and girl with phone.svg"
     }
   ],
-  "_xlsxPath": "data/article_data.xlsx"
+  "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
 }
