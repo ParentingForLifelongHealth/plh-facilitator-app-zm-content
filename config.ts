@@ -16,6 +16,7 @@ config.git = {
   content_tag_latest: "1.1.19",
 };
 
+config.api.db_name = "plh_facilitator_zm"
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
