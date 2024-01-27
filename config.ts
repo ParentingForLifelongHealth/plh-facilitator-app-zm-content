@@ -13,7 +13,7 @@ config.google_drive = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.19",
+  content_tag_latest: "1.1.20",
 };
 
 config.api.db_name = "plh_facilitator_zm"
@@ -29,5 +29,6 @@ config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
 config.app_config.APP_FOOTER_DEFAULTS.templateName = "footer";
+config.error_logging = { dsn: "https://cd3bdbb9bb46433ca6969c7a775206ac@app.glitchtip.com/5661"};
 
 export default config;
