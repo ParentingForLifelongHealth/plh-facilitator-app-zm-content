@@ -13,7 +13,7 @@ config.google_drive = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.22",
+  content_tag_latest: "1.1.23",
 };
 
 config.api.db_name = "plh_facilitator_zm"
