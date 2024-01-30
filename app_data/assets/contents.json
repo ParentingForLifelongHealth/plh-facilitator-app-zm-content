@@ -1,4 +1,20 @@
 {
+  "android/icon-background.png": {
+    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
+    "size_kb": 7
+  },
+  "android/icon-foreground.png": {
+    "md5Checksum": "8a6ac704a7bc67c17d7415d9504f308e",
+    "size_kb": 98.1
+  },
+  "android/icon.png": {
+    "md5Checksum": "8a6ac704a7bc67c17d7415d9504f308e",
+    "size_kb": 98.1
+  },
+  "android/splash.png": {
+    "md5Checksum": "8a6ac704a7bc67c17d7415d9504f308e",
+    "size_kb": 98.1
+  },
   "audio/facilitation_skills/explore.mp3": {
     "md5Checksum": "cfce94d4ac7df253fc8431295f0f5f27",
     "size_kb": 4306.4
@@ -22,22 +38,6 @@
   "audio/faq/unhelpful_participant_suggestion_testimonial.mp3": {
     "md5Checksum": "29834737175ccd9c2a67939a575dc458",
     "size_kb": 3424.8
-  },
-  "images/android/icon-background.png": {
-    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
-    "size_kb": 7
-  },
-  "images/android/icon-foreground.png": {
-    "md5Checksum": "8a6ac704a7bc67c17d7415d9504f308e",
-    "size_kb": 98.1
-  },
-  "images/android/icon.png": {
-    "md5Checksum": "8a6ac704a7bc67c17d7415d9504f308e",
-    "size_kb": 98.1
-  },
-  "images/android/splash.png": {
-    "md5Checksum": "8a6ac704a7bc67c17d7415d9504f308e",
-    "size_kb": 98.1
   },
   "images/flags/gb.svg": {
     "md5Checksum": "fcfef6780b36bef537381474df9d0be9",
