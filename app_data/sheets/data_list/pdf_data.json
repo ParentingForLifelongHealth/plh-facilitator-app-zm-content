@@ -7,14 +7,12 @@
     {
       "id": "manual_1_on_1_time",
       "title": "Session 1 Manual",
-      "pdf_asset": "pdf/manual_1_on_1_time.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
+      "pdf_asset": "pdf/manual_1_on_1_time.pdf"
     },
     {
       "id": "manual_positive_instructions",
       "title": "Session 2 Manual",
-      "pdf_asset": "pdf/praise_instructions.pdf",
-      "icon_asset": "images/icons/women and girl with phone.svg"
+      "pdf_asset": "pdf/praise_instructions.pdf"
     }
   ],
   "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
