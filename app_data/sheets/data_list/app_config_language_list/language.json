@@ -15,29 +15,7 @@
       "name": "gb_en",
       "text": "English",
       "image": "images/flags/gb.svg"
-    },
-    {
-      "id": "ug_lg",
-      "country_code": "ug",
-      "country_label": "Uganda",
-      "country_icon": "images/flags/ug.svg",
-      "language_code": "lg",
-      "language_label": "Luganda",
-      "name": "ug_lg",
-      "text": "Luganda",
-      "image": "images/flags/ug.svg"
-    },
-    {
-      "id": "ug_en",
-      "country_code": "ug",
-      "country_label": "Uganda",
-      "country_icon": "images/flags/ug.svg",
-      "language_code": "en",
-      "language_label": "English",
-      "name": "ug_en",
-      "text": "English",
-      "image": "images/flags/ug.svg"
     }
   ],
-  "_xlsxPath": "data/language_data.xlsx"
+  "_xlsxPath": "data/deployment_data_zm.xlsx"
 }

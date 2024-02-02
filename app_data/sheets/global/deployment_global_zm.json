@@ -1,0 +1,75 @@
+{
+  "flow_type": "global",
+  "flow_name": "deployment_global_zm",
+  "status": "released",
+  "override_target": "deployment_global",
+  "override_condition": "@fields._deployment_name == \"plh_facilitator_zm\"",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "Implementers App",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "home_icon_asset",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "share_medium",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "allow_multiple_parent_groups",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_content_packages",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "virtual_session_platform",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_terms_field",
+      "value": "terms_v20240118_accepted",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_terms_text",
+      "value": "16 January 2024",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_languages",
+      "value": true
+    }
+  ],
+  "_xlsxPath": "data/deployment_data_zm.xlsx"
+}
