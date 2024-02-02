@@ -11,9 +11,16 @@ config.google_drive = {
   assets_folder_ids: ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf", "1vP339DiDR4R-3q_goOYBl2wpVYP5yBoo"],
 };
 
+config.android = {
+  splash_asset_path: "./app_data/assets/android/splash.png",
+  icon_asset_path: "./app_data/assets/android/icon.png",
+  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
+  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+};
+
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.21",
+  content_tag_latest: "1.1.24",
 };
 
 config.api.db_name = "plh_facilitator_zm"
