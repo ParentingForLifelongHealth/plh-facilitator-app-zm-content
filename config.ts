@@ -20,17 +20,17 @@ config.android = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.24",
+  content_tag_latest: "1.1.25",
 };
 
 config.api.db_name = "plh_facilitator_zm"
 config.app_data.output_path = "./app_data";
 
 config.app_config.APP_LANGUAGES.default = "gb_en";
-config.app_config.APP_SIDEMENU_DEFAULTS.title = "Implementer App";
-config.app_config.APP_HEADER_DEFAULTS.title = "Implementer App";
-config.app_config.NOTIFICATION_DEFAULTS.title = "New message from Implementer App";
-config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Implementer App";
+config.app_config.APP_SIDEMENU_DEFAULTS.title = "HHPP Yanga";
+config.app_config.APP_HEADER_DEFAULTS.title = "HHPP Yanga";
+config.app_config.NOTIFICATION_DEFAULTS.title = "New message from HHPP Yanga";
+config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from HHPP Yanga";
 config.app_config.APP_THEMES.available = ["default", "professional"];
 config.app_config.APP_THEMES.defaultThemeName = "professional";
 config.app_config.APP_UPDATES.enabled = true;

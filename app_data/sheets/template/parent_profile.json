@@ -1155,7 +1155,6 @@
         {
           "type": "display_group",
           "name": "dg_add",
-          "exclude_from_translation": true,
           "rows": [
             {
               "type": "text",
@@ -1511,7 +1510,6 @@
               "type": "display_group",
               "name": "dg_coparent_@item.parent_no",
               "condition": "@local.is_family_member && @local.parent_no != @item.parent_no",
-              "exclude_from_translation": true,
               "rows": [
                 {
                   "name": "coparent_first_name",

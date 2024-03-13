@@ -32,6 +32,12 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "has_parent_groups",
+      "value": true,
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "allow_multiple_parent_groups",
       "value": true,
       "exclude_from_translation": true
@@ -50,6 +56,14 @@
         "value": {}
       },
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "deployment_country",
+      "value": "Mexico",
+      "_translations": {
+        "value": {}
+      }
     }
   ],
   "_xlsxPath": "data/deployment_data.xlsx"
