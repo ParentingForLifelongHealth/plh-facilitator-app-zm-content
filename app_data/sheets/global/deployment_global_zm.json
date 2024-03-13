@@ -8,7 +8,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_name",
-      "value": "Implementers App",
+      "value": "HHPP Yanga",
       "_translations": {
         "value": {}
       },
@@ -30,6 +30,11 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "has_parent_groups",
+      "value": false
+    },
+    {
+      "type": "declare_global_constant",
       "name": "allow_multiple_parent_groups",
       "value": false,
       "exclude_from_translation": true
@@ -37,7 +42,7 @@
     {
       "type": "declare_global_constant",
       "name": "has_multiple_content_packages",
-      "value": true,
+      "value": false,
       "exclude_from_translation": true
     },
     {
@@ -60,7 +65,7 @@
     {
       "type": "declare_global_constant",
       "name": "deployment_terms_text",
-      "value": "16 January 2024",
+      "value": "18 January 2024",
       "_translations": {
         "value": {}
       }
@@ -68,7 +73,7 @@
     {
       "type": "declare_global_constant",
       "name": "has_multiple_languages",
-      "value": true
+      "value": false
     }
   ],
   "_xlsxPath": "data/deployment_data_zm.xlsx"

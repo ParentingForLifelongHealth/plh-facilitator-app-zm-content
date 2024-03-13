@@ -6,13 +6,13 @@
   "rows": [
     {
       "id": "text_1",
-      "text": "@global.app_name will support you through your HHPP implementation journey. You will find sessions summaries, step-by-step instruction on how to lead activities, tips on how to handle facilitation challenges and tools to enhance your facilitation skills. This app also includes tools to enhance your own well being, because we can’t care for others if we are stressed, overloaded or with no energy.",
+      "text": "@global.app_name will support you through your HHPP implementation journey. You will find sessions summaries, step-by-step instruction on how to lead activities, tips on how to handle facilitation challenges and tools to enhance your facilitation skills.",
       "_translations": {
         "text": {}
       },
       "_translatedFields": {
         "text": {
-          "eng": "@global.app_name will support you through your HHPP implementation journey. You will find sessions summaries, step-by-step instruction on how to lead activities, tips on how to handle facilitation challenges and tools to enhance your facilitation skills. This app also includes tools to enhance your own well being, because we can’t care for others if we are stressed, overloaded or with no energy."
+          "eng": "@global.app_name will support you through your HHPP implementation journey. You will find sessions summaries, step-by-step instruction on how to lead activities, tips on how to handle facilitation challenges and tools to enhance your facilitation skills."
         }
       }
     }
