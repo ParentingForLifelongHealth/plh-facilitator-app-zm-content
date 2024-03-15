@@ -4,12 +4,12 @@
     "size_kb": 7
   },
   "android/icon-foreground.png": {
-    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
-    "size_kb": 7
+    "md5Checksum": "ff7ff5b6285669df5d342563d981dbc0",
+    "size_kb": 71.9
   },
   "android/icon.png": {
-    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
-    "size_kb": 7
+    "md5Checksum": "31a12282b3b225238b185fed6e20841d",
+    "size_kb": 122
   },
   "android/splash.png": {
     "md5Checksum": "82ceab23f8629879edae5c5f03929cd0",
@@ -166,6 +166,34 @@
   "images/logos/UPM.png": {
     "md5Checksum": "45484deed688ed9d0a8e328039402c89",
     "size_kb": 120.8
+  },
+  "images/logos/hhpp_yanga_logos_banner_blue.svg": {
+    "md5Checksum": "aede0c9a0255a883c7f6ea75082e443b",
+    "size_kb": 8.2
+  },
+  "images/logos/hhpp_yanga_logos_banner_colour.svg": {
+    "md5Checksum": "14cbce07e6cc25092904c07e71ea6ea0",
+    "size_kb": 8.5
+  },
+  "images/logos/hhpp_yanga_logos_banner_white.svg": {
+    "md5Checksum": "e50015e547f6a9c06575e9590defb6e1",
+    "size_kb": 8.2
+  },
+  "images/logos/hhpp_yanga_logos_icon.svg": {
+    "md5Checksum": "3d1c6f521b4126f5d1e8548cda697184",
+    "size_kb": 6.8
+  },
+  "images/logos/hhpp_yanga_logos_icon_blue.svg": {
+    "md5Checksum": "c0d92f2e939ff86ea6bd876cb902858b",
+    "size_kb": 6.2
+  },
+  "images/logos/hhpp_yanga_logos_icon_colour.svg": {
+    "md5Checksum": "8bcda64667d7ec2674c0baeb0fd6cd46",
+    "size_kb": 6.6
+  },
+  "images/logos/hhpp_yanga_logos_icon_white.svg": {
+    "md5Checksum": "96f82ac02fb6c7b1690a73a9e7997c55",
+    "size_kb": 6.2
   },
   "images/logos/lego.png": {
     "md5Checksum": "573d6506d6597a7e8c95c64724e34518",

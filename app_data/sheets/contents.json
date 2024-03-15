@@ -273,7 +273,17 @@
     "footer": {
       "flow_type": "template",
       "flow_name": "footer",
-      "_xlsxPath": "templates/footer.xlsx"
+      "_xlsxPath": "templates/footer.xlsx",
+      "_overrides": {
+        "footer_zm": "@fields._deployment_name == \"plh_facilitator_zm\""
+      }
+    },
+    "footer_zm": {
+      "flow_type": "template",
+      "flow_name": "footer_zm",
+      "override_target": "footer",
+      "override_condition": "@fields._deployment_name == \"plh_facilitator_zm\"",
+      "_xlsxPath": "templates/footer_zm.xlsx"
     },
     "article_id_abuse": {
       "flow_name": "article_id_abuse",
