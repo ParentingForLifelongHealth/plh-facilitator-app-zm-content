@@ -18,9 +18,11 @@ config.android = {
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
 
+config.web.favicon_asset = "images/logos/hhpp_yanga_logos_icon_colour.svg";
+
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.25",
+  content_tag_latest: "1.1.26",
 };
 
 config.api.db_name = "plh_facilitator_zm"
