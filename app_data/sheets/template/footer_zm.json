@@ -8,7 +8,6 @@
     {
       "name": "button_list",
       "value": [
-        "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
         "image: images/logos/hhpp_yanga_logos_icon_white.svg | target_template: @data.app_section.home.template",
         "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template"
       ],
@@ -18,27 +17,13 @@
         "value": {
           "0": [
             {
-              "fullExpression": "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
-              "matchedExpression": "@data.app_section.data_collection.icon_asset",
-              "type": "data",
-              "fieldName": "app_section"
-            },
-            {
-              "fullExpression": "image: @data.app_section.data_collection.icon_asset | target_template: @data.app_section.data_collection.template",
-              "matchedExpression": "@data.app_section.data_collection.template",
-              "type": "data",
-              "fieldName": "app_section"
-            }
-          ],
-          "1": [
-            {
               "fullExpression": "image: images/logos/hhpp_yanga_logos_icon_white.svg | target_template: @data.app_section.home.template",
               "matchedExpression": "@data.app_section.home.template",
               "type": "data",
               "fieldName": "app_section"
             }
           ],
-          "2": [
+          "1": [
             {
               "fullExpression": "image: @data.app_section.profile.icon_asset | target_template: @data.app_section.profile.template",
               "matchedExpression": "@data.app_section.profile.icon_asset",
@@ -55,20 +40,14 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.app_section.data_collection.icon_asset": [
-          "value.0"
-        ],
-        "@data.app_section.data_collection.template": [
-          "value.0"
-        ],
         "@data.app_section.home.template": [
-          "value.1"
+          "value.0"
         ],
         "@data.app_section.profile.icon_asset": [
-          "value.2"
+          "value.1"
         ],
         "@data.app_section.profile.template": [
-          "value.2"
+          "value.1"
         ]
       }
     },
