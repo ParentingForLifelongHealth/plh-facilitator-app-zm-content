@@ -22,7 +22,7 @@ config.web.favicon_asset = "images/logos/hhpp_yanga_logos_icon_colour.svg";
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-zm-content.git",
-  content_tag_latest: "1.1.26",
+  content_tag_latest: "1.1.27",
 };
 
 config.api.db_name = "plh_facilitator_zm"
