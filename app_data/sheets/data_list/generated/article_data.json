@@ -1,428 +1,14 @@
 {
-  "flow_type": "data_list",
   "flow_name": "article_data",
-  "status": "released",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
   "rows": [
     {
-      "id": "id_wellbeing",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_mytime_welcome",
-      "status": "draft",
-      "resource_data_1": "Internal house of support",
-      "resource_id_1": "HOS.jpg",
-      "resource_data_2": "Introduction.pdf",
-      "related_article_id_1": "Welcome (this section)",
-      "related_article_id_2": "Introduction (3min)",
-      "related_article_id_3": "Step 1: Identify (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "title": "Welcome!",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "resource_title_2": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Welcome!"
-        },
-        "introduction": {
-          "eng": "Being part of HHPP is meaningful, but can also be demanding, and leave us with  almost no time, or energy, to do things we like.  But investing in ourselves  is crucial to being able to do things for others. \nThis is why we developed with well-being experts and HHPP facilitators  the  ‘’Mytime’’  tool. Within 15 minutes it will guide you how you can do more meaningful and joyful activities, even when your day is packed. \nDoing more things you like, even for a few minutes a day (like 1on1 time…), will gradually build your internal ‘’house of support’’.\nFeel free to contact Dr Ohad Green at ohad.grn@gmail.com  for assistance, guidance or feedback on your ‘’mytime’’ progress."
-        },
-        "section_title_1": {
-          "eng": "Mytime ‘’house of support’’"
-        },
-        "section_text_1": {
-          "eng": "The Foundation symbolizes understanding your very own cycle of inactivity and stress.\nThe walls symbolize the engagement in meaningful and joyful activities which are connected to our values. \nThe roof is made of our values - things that important to us, in our heart, about work, relationships, religion, and every other life domain."
-        },
-        "section_title_2": {
-          "eng": "Mytime programme stages"
-        },
-        "section_text_2": {
-          "eng": "‘’ Mytime’’ stages are  the same as ‘’problem solving’’:\n\rStep 1:  Identity your own cycle of fatigue, inactivity and stress (5min)\nStep 2: Brainstorm activities you enjoy and value (5-10min)\nStep 3: Explore  how to make the activities feasible so they will  fit your schedule (10min) \nStep 4: Choose  1-2 (max!) activities to start with (2min)\nStep 5:  Try these  activities \nStep 6: Reflect about experience, and then amend or add more activities"
-        },
-        "resource_title_2": {
-          "eng": "Extended welcome section"
-        },
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      },
-      "introduction": "Being part of HHPP is meaningful, but can also be demanding, and leave us with  almost no time, or energy, to do things we like.  But investing in ourselves  is crucial to being able to do things for others. \nThis is why we developed with well-being experts and HHPP facilitators  the  ‘’Mytime’’  tool. Within 15 minutes it will guide you how you can do more meaningful and joyful activities, even when your day is packed. \nDoing more things you like, even for a few minutes a day (like 1on1 time…), will gradually build your internal ‘’house of support’’.\nFeel free to contact Dr Ohad Green at ohad.grn@gmail.com  for assistance, guidance or feedback on your ‘’mytime’’ progress.",
-      "section_title_1": "Mytime ‘’house of support’’",
-      "section_text_1": "The Foundation symbolizes understanding your very own cycle of inactivity and stress.\nThe walls symbolize the engagement in meaningful and joyful activities which are connected to our values. \nThe roof is made of our values - things that important to us, in our heart, about work, relationships, religion, and every other life domain.",
-      "section_title_2": "Mytime programme stages",
-      "section_text_2": "‘’ Mytime’’ stages are  the same as ‘’problem solving’’:\n\rStep 1:  Identity your own cycle of fatigue, inactivity and stress (5min)\nStep 2: Brainstorm activities you enjoy and value (5-10min)\nStep 3: Explore  how to make the activities feasible so they will  fit your schedule (10min) \nStep 4: Choose  1-2 (max!) activities to start with (2min)\nStep 5:  Try these  activities \nStep 6: Reflect about experience, and then amend or add more activities",
-      "resource_title_2": "Extended welcome section",
-      "related_articles_title": "Mytime programme stages"
-    },
-    {
-      "id": "id_mytime_intro",
-      "status": "draft",
-      "related_article_id_1": "Welcome",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "title": "Introduction - How does the Mytime programme works",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "section_title_5": {},
-        "section_text_5": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Introduction - How does the Mytime programme works"
-        },
-        "introduction": {
-          "eng": "Mytime  is very practical. You won’t spend much time reading: you’ll be spending time doing! \n\nMytime  is based on a proven approach called “behavioral activation”. According to this approach, the key to well-being is to make a little room for doing things  for ourselves. When we do this, we feel happier, less stressed,  and can take care better of ourseives and others."
-        },
-        "sections_title": {
-          "eng": "At this point you may think that….."
-        },
-        "section_title_1": {
-          "eng": "‘’It is worthless if I do an activity I like only for a few minutes a day’’"
-        },
-        "section_text_1": {
-          "eng": "Indeed it very frustrating to be unable to invest in ourselves the amount of time we want. However, this idea of “all or nothing” actually limits the time we invest in ourselves, and many times we end up not doing anything. \nResearch  shows that the most important thing is the consistency and the integration into your daily routine - exactly like we tell parents reagrding 1on1 time"
-        },
-        "section_title_2": {
-          "eng": "‘’After work I’m too tired to do anything’’"
-        },
-        "section_text_2": {
-          "eng": "Many people wait until they feel better to do things they like. You might have said to yourself in the past something like: “When I am less stressed/tired I  will….’’. \nBut research  show that actually,  when we engage in meaningful and joyful activities even if we are stressed or tired, we  feel increased comfort and happiness."
-        },
-        "section_title_3": {
-          "eng": "’’Doing joyful and meaningful activities won’t help me to deal with the real problems in my life’’‘"
-        },
-        "section_text_3": {
-          "eng": "While doing joyful activities won’t directly deal with problems you may be facing, it will help you to cope better. This is because after you invest in yourself and do meaningful and joyful activities, you will have more power and energy to manage other problems in your life."
-        },
-        "section_title_4": {
-          "eng": "‘’Thinking and caring about myself is very selfish’’"
-        },
-        "section_text_4": {
-          "eng": "It is very important to care for and help the people that are close to our heart.  However, if we focus entirely on the needs of others for a long time, our own health and well-being will suffer, potentially leading to burnout and distress. When we feel good, we can better help others as we wish."
-        },
-        "section_title_5": {
-          "eng": "‘’I’m already very active - my schedule is full’’"
-        },
-        "section_text_5": {
-          "eng": "it is possible to be very active - and still be stressed. This can happen if you feel that most of your activities are those you must do, or if you feel that the activities are unfulfilling."
-        },
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      },
-      "introduction": "Mytime  is very practical. You won’t spend much time reading: you’ll be spending time doing! \n\nMytime  is based on a proven approach called “behavioral activation”. According to this approach, the key to well-being is to make a little room for doing things  for ourselves. When we do this, we feel happier, less stressed,  and can take care better of ourseives and others.",
-      "sections_title": "At this point you may think that…..",
-      "section_title_1": "‘’It is worthless if I do an activity I like only for a few minutes a day’’",
-      "section_text_1": "Indeed it very frustrating to be unable to invest in ourselves the amount of time we want. However, this idea of “all or nothing” actually limits the time we invest in ourselves, and many times we end up not doing anything. \nResearch  shows that the most important thing is the consistency and the integration into your daily routine - exactly like we tell parents reagrding 1on1 time",
-      "section_title_2": "‘’After work I’m too tired to do anything’’",
-      "section_text_2": "Many people wait until they feel better to do things they like. You might have said to yourself in the past something like: “When I am less stressed/tired I  will….’’. \nBut research  show that actually,  when we engage in meaningful and joyful activities even if we are stressed or tired, we  feel increased comfort and happiness.",
-      "section_title_3": "’’Doing joyful and meaningful activities won’t help me to deal with the real problems in my life’’‘",
-      "section_text_3": "While doing joyful activities won’t directly deal with problems you may be facing, it will help you to cope better. This is because after you invest in yourself and do meaningful and joyful activities, you will have more power and energy to manage other problems in your life.",
-      "section_title_4": "‘’Thinking and caring about myself is very selfish’’",
-      "section_text_4": "It is very important to care for and help the people that are close to our heart.  However, if we focus entirely on the needs of others for a long time, our own health and well-being will suffer, potentially leading to burnout and distress. When we feel good, we can better help others as we wish.",
-      "section_title_5": "‘’I’m already very active - my schedule is full’’",
-      "section_text_5": "it is possible to be very active - and still be stressed. This can happen if you feel that most of your activities are those you must do, or if you feel that the activities are unfulfilling.",
-      "related_articles_title": "Mytime programme stages"
-    },
-    {
-      "id": "id_mytime_identify",
-      "status": "draft",
-      "resource_data_1": "Cycle of stress",
-      "resource_id_1": "cycle.jpg",
-      "related_article_id_1": "Welcome",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "title": "Step 1: Identify your own cycle of distress and inactivity (5min)",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "section_text_3": {},
-        "section_title_4": {},
-        "section_text_4": {},
-        "section_title_5": {},
-        "section_text_5": {},
-        "section_title_6": {},
-        "section_text_6": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Step 1: Identify your own cycle of distress and inactivity (5min)"
-        },
-        "introduction": {
-          "eng": "Before we begin to guide you to engage more in activities you enjoy and are important to you, it is important to explain the mechanisms behind bad feelings and what fuels them. In other words:\rWhy we feel bad, or with no energy to do things we like that are important to us.\nWhy it is hard to “get out of it” and simply begin to be active."
-        },
-        "section_title_1": {
-          "eng": "Understanding the cycle of inactivity and stress"
-        },
-        "section_text_1": {
-          "eng": "Experts agree that when something bad happens to us or to people who are important to us, the chances it will makes us feel bad depends on three things:\n\n\n1.    Our Thoughts - How are we explaining what happened? How do we think about ourselves?\n2.    Our activity level – Which types of activities are we doing each day? Did we stop doing things that we liked?\n3.    Our physical state – How much “energy” do we feel we have? Do we sleep and eat regulary? \n\nLet’s see the following two stories"
-        },
-        "section_title_2": {
-          "eng": "Story 1 - Mina"
-        },
-        "section_text_2": {
-          "eng": "Mina is an experienced 26-year-old facilitator. Being a facilitator is both rewarding and hard. Things got complicated when the funder asked to run groups  with 25 families. Soon Mina began to think that she is not good enough. Every negative thing that happened in the group became a piece of evidence. \nMina decided to put more effort into her work and stay longer with any parent who needed her. She finished her working days very tired. When she returned home. she didn’t feel like doing anything – just to be alone, and started to cancel meetings with friends and reject their invitations. \nIn the beginning, staying at home and simply resting seemed like a good idea, but very quickly it started to be a routine. Eventually, her friends almost stopped inviting her. “even her friends don’t care about me anymore”, she said. \nThe more negative things and thoughts Mina experienced, the less active she became. although she went to bed early, she had a hard time sleeping because she was worried about the next day with the group. Because of it, she started every day more exhausted than the day before. \nSoon, her coacher realized that things are not the same as they were. She told them that she felt she is not the person she used to be."
-        },
-        "section_title_3": {
-          "eng": "Questions to think about…"
-        },
-        "section_text_3": {
-          "eng": "💭 Have you ever noticed yourself talking to yourself like Mina?\n💭 Have you ever noticed yourself doing fewer enjoyable activities because of your stress? \n💭Did being less active helped or possibly make things worse?"
-        },
-        "section_title_4": {
-          "eng": "Story 2 – Joyce"
-        },
-        "section_text_4": {
-          "eng": "Joyce is an experienced 28-year-old facilitator. Being a facilitator is both rewarding and hard. Things got complicated when the funder asked to run groups  with 25 families . Joyce explained it to herself as a sensible consequence of handling so many families. ‘I only have limited time and I try your best. Funder targets are beyond my control’’, she said to herself.\nWhen she succeeded to overcome a challenge she complimented herself: ‘’It means that I’m still a good facilitator’’.  \nJoyce finished her working days very tired. When she returned home, she collapsed onto her bed. But she decided to not give up on activities she liked and valued. She called her friends and said: “I’m really tired lately. Because I still want to meet, can we meet at my house for a quick coffee?”.  Her friends agreed to this change and continued to be in touch with her. “How blessed I’m for having supportive friends”, she told herself. \nThe more negative things Joyce experienced at work, the more  joyful and meaningful activities, even those really short ones, gave her power. “Doing the things I like is like a backup battery”, she said to one of her friends. \nEvery day when she went to bed, she thought about the next session. “It won’t be easy, but I know what to do. I coped very well during the last weeks”, she said to herself. After a good night of sleep, she felt refreshed, and had the energy for all of her activities during the day."
-        },
-        "section_title_5": {
-          "eng": "questions to think about…"
-        },
-        "section_text_5": {
-          "eng": "💭 Did you ever notice yourself  telling yourself positive words when you accomplished something? \n💭 Do you try to keep doing enjoyable things even when you feel stressed, tired or don’t have motivation? \n💭 How do you feel afterwards?"
-        },
-        "section_title_6": {
-          "eng": "Conclusion"
-        },
-        "section_text_6": {
-          "eng": "As you can see, both Mina and Joyce coped with a similar situation – work-related distress. \n😟 For Mina, the distress caused negative thoughts..This made her have less and less energy and motivation. which, in turn, made her feel more distressed.\n 😟 In other words, Mina was stuck in the “cycle of distress and inactivity”. The more distressed she was, the less she was active, and the less she was active – the more distress she felt.\nJoyce, however, broke this cycle. \n😀First, she chose to focus on her success. This gave her more motivation to do her work, although she was in a difficult situation. \n😀 She also found way to continued  to do some of the meaningful and joyful activities she likes. This made her feel good in spite of the stressful situation, and cope better with her work-related challenges \nIn this program, we will show you how to be more active in meaningful and joyful activities as part of your day, even when you are stressed or tired - like Joyce did."
-        },
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      },
-      "introduction": "Before we begin to guide you to engage more in activities you enjoy and are important to you, it is important to explain the mechanisms behind bad feelings and what fuels them. In other words:\rWhy we feel bad, or with no energy to do things we like that are important to us.\nWhy it is hard to “get out of it” and simply begin to be active.",
-      "section_title_1": "Understanding the cycle of inactivity and stress",
-      "section_text_1": "Experts agree that when something bad happens to us or to people who are important to us, the chances it will makes us feel bad depends on three things:\n\n\n1.    Our Thoughts - How are we explaining what happened? How do we think about ourselves?\n2.    Our activity level – Which types of activities are we doing each day? Did we stop doing things that we liked?\n3.    Our physical state – How much “energy” do we feel we have? Do we sleep and eat regulary? \n\nLet’s see the following two stories",
-      "section_title_2": "Story 1 - Mina",
-      "section_text_2": "Mina is an experienced 26-year-old facilitator. Being a facilitator is both rewarding and hard. Things got complicated when the funder asked to run groups  with 25 families. Soon Mina began to think that she is not good enough. Every negative thing that happened in the group became a piece of evidence. \nMina decided to put more effort into her work and stay longer with any parent who needed her. She finished her working days very tired. When she returned home. she didn’t feel like doing anything – just to be alone, and started to cancel meetings with friends and reject their invitations. \nIn the beginning, staying at home and simply resting seemed like a good idea, but very quickly it started to be a routine. Eventually, her friends almost stopped inviting her. “even her friends don’t care about me anymore”, she said. \nThe more negative things and thoughts Mina experienced, the less active she became. although she went to bed early, she had a hard time sleeping because she was worried about the next day with the group. Because of it, she started every day more exhausted than the day before. \nSoon, her coacher realized that things are not the same as they were. She told them that she felt she is not the person she used to be.",
-      "section_title_3": "Questions to think about…",
-      "section_text_3": "💭 Have you ever noticed yourself talking to yourself like Mina?\n💭 Have you ever noticed yourself doing fewer enjoyable activities because of your stress? \n💭Did being less active helped or possibly make things worse?",
-      "section_title_4": "Story 2 – Joyce",
-      "section_text_4": "Joyce is an experienced 28-year-old facilitator. Being a facilitator is both rewarding and hard. Things got complicated when the funder asked to run groups  with 25 families . Joyce explained it to herself as a sensible consequence of handling so many families. ‘I only have limited time and I try your best. Funder targets are beyond my control’’, she said to herself.\nWhen she succeeded to overcome a challenge she complimented herself: ‘’It means that I’m still a good facilitator’’.  \nJoyce finished her working days very tired. When she returned home, she collapsed onto her bed. But she decided to not give up on activities she liked and valued. She called her friends and said: “I’m really tired lately. Because I still want to meet, can we meet at my house for a quick coffee?”.  Her friends agreed to this change and continued to be in touch with her. “How blessed I’m for having supportive friends”, she told herself. \nThe more negative things Joyce experienced at work, the more  joyful and meaningful activities, even those really short ones, gave her power. “Doing the things I like is like a backup battery”, she said to one of her friends. \nEvery day when she went to bed, she thought about the next session. “It won’t be easy, but I know what to do. I coped very well during the last weeks”, she said to herself. After a good night of sleep, she felt refreshed, and had the energy for all of her activities during the day.",
-      "section_title_5": "questions to think about…",
-      "section_text_5": "💭 Did you ever notice yourself  telling yourself positive words when you accomplished something? \n💭 Do you try to keep doing enjoyable things even when you feel stressed, tired or don’t have motivation? \n💭 How do you feel afterwards?",
-      "section_title_6": "Conclusion",
-      "section_text_6": "As you can see, both Mina and Joyce coped with a similar situation – work-related distress. \n😟 For Mina, the distress caused negative thoughts..This made her have less and less energy and motivation. which, in turn, made her feel more distressed.\n 😟 In other words, Mina was stuck in the “cycle of distress and inactivity”. The more distressed she was, the less she was active, and the less she was active – the more distress she felt.\nJoyce, however, broke this cycle. \n😀First, she chose to focus on her success. This gave her more motivation to do her work, although she was in a difficult situation. \n😀 She also found way to continued  to do some of the meaningful and joyful activities she likes. This made her feel good in spite of the stressful situation, and cope better with her work-related challenges \nIn this program, we will show you how to be more active in meaningful and joyful activities as part of your day, even when you are stressed or tired - like Joyce did.",
-      "related_articles_title": "Mytime programme stages"
-    },
-    {
-      "id": "id_mytime_brainstorm",
-      "status": "draft",
-      "related_article_id_1": "Welcome",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "title": "Step 2: Brainstorm activities you enjoy and value  (5min-10min)",
-      "_translations": {
-        "title": {},
-        "introduction": {},
-        "sections_title": {},
-        "section_title_1": {},
-        "section_text_1": {},
-        "section_title_2": {},
-        "section_text_2": {},
-        "section_title_3": {},
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Step 2: Brainstorm activities you enjoy and value  (5min-10min)"
-        },
-        "introduction": {
-          "eng": "There are different types of activities:\r➡️They can be important but not joyful (like doing laundry…). \r➡️They can be joyful but not important (like watching TV). ➡️They can be both joyful and important (like meeting with a friend). \nWe need a good mixture of activities in order to feel good while maintaining our daily commitments."
-        },
-        "sections_title": {
-          "eng": "What makes an activity meaningful?"
-        },
-        "section_title_1": {
-          "eng": "A meaningful activity is an activity which is connected to one of our **values** -  things that are important to us, in our hearts,  in different life areas. Here are a few values HHPP facilitators shared with us:\n💙‘’Caring for my friends’’\r💙‘’Eating healthy food’’\r💙‘’Praising the lord’’’\r💙‘’Being a good father’’\r💙‘’Learning as a way of life’’\r💙‘’Being there for those who needs me’’\r💙‘’Acting professionally’’ \nCan you identify with any of these values? \rCan you think about other values you have?"
-        },
-        "section_text_1": {
-          "eng": "Examples of meaningful activities"
-        },
-        "section_title_2": {
-          "eng": "Here are some examples of activiites, which connected to these values:\n\n‘’Calling my friend once a week’’\n‘’Cook healthy dinner’’\n‘’Going to church’’\n‘’Playing football with my kids after school’’\n‘’Learn a new language’’’. \n‘’Jogging’’’"
-        },
-        "section_text_2": {
-          "eng": "Making your own list of potential activites"
-        },
-        "section_title_3": {
-          "eng": "Now it’s your turn! \n\nUse your phone (or take a pen and paper), and write a list of activities which are meaningful to you -  even activities that you feel you don’t have time, or power,  to do. We will explore in the next step how to make even them them achievable."
-        },
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      },
-      "introduction": "There are different types of activities:\r➡️They can be important but not joyful (like doing laundry…). \r➡️They can be joyful but not important (like watching TV). ➡️They can be both joyful and important (like meeting with a friend). \nWe need a good mixture of activities in order to feel good while maintaining our daily commitments.",
-      "sections_title": "What makes an activity meaningful?",
-      "section_title_1": "A meaningful activity is an activity which is connected to one of our **values** -  things that are important to us, in our hearts,  in different life areas. Here are a few values HHPP facilitators shared with us:\n💙‘’Caring for my friends’’\r💙‘’Eating healthy food’’\r💙‘’Praising the lord’’’\r💙‘’Being a good father’’\r💙‘’Learning as a way of life’’\r💙‘’Being there for those who needs me’’\r💙‘’Acting professionally’’ \nCan you identify with any of these values? \rCan you think about other values you have?",
-      "section_text_1": "Examples of meaningful activities",
-      "section_title_2": "Here are some examples of activiites, which connected to these values:\n\n‘’Calling my friend once a week’’\n‘’Cook healthy dinner’’\n‘’Going to church’’\n‘’Playing football with my kids after school’’\n‘’Learn a new language’’’. \n‘’Jogging’’’",
-      "section_text_2": "Making your own list of potential activites",
-      "section_title_3": "Now it’s your turn! \n\nUse your phone (or take a pen and paper), and write a list of activities which are meaningful to you -  even activities that you feel you don’t have time, or power,  to do. We will explore in the next step how to make even them them achievable.",
-      "related_articles_title": "Mytime programme stages"
-    },
-    {
-      "id": "id_mytime_explore",
-      "status": "draft",
-      "related_article_id_1": "Intro",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "related_articles_title": "Mytime programme stages",
-      "_translations": {
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      }
-    },
-    {
-      "id": "id_mytime_choose",
-      "status": "draft",
-      "related_article_id_1": "Intro",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "related_articles_title": "Mytime programme stages",
-      "_translations": {
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      }
-    },
-    {
-      "id": "id_mytime_try",
-      "status": "draft",
-      "related_article_id_1": "Intro",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "related_articles_title": "Mytime programme stages",
-      "_translations": {
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      }
-    },
-    {
-      "id": "id_mytime_reflect",
-      "status": "draft",
-      "related_article_id_1": "Intro",
-      "related_article_id_2": "Introduction (2min) (this section)",
-      "related_article_id_3": "Step 1: Identity (5min)",
-      "related_article_id_4": "Step 2: Brainstorm  (5-10min)",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "related_articles_title": "Mytime programme stages",
-      "_translations": {
-        "related_articles_title": {}
-      },
-      "_translatedFields": {
-        "related_articles_title": {
-          "eng": "Mytime programme stages"
-        }
-      }
-    },
-    {
-      "id": "id_datamanagement",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_referrals",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_referrals_faq1",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_faq_dropouts",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_faq_datamanagement",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_abuse",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
       "id": "id_participation",
-      "home_screen_section_list": [
-        "faq"
-      ],
-      "icon_asset": "/images/id_participation.png",
       "related_article_id_1": "id_participation_faq1",
       "related_article_id_2": "id_participation_faq2",
       "related_article_id_3": "id_participation_faq3",
       "related_article_id_4": "id_participation_faq4",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Group participation",
       "_translations": {
         "title": {},
@@ -441,27 +27,29 @@
         }
       },
       "introduction": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals.",
-      "related_articles_title": "I need support with a specific challenge:"
+      "related_articles_title": "I need support with a specific challenge:",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "icon_asset": "/images/id_participation.png"
     },
     {
       "id": "id_participation_faq1",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "When a participant shares a painful experience and breaks down",
       "_translations": {
         "title": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
         "section_text_4": {},
         "section_title_5": {},
-        "section_text_5": {},
-        "related_articles_title": {}
+        "section_text_5": {}
       },
       "_translatedFields": {
         "title": {
@@ -504,31 +92,29 @@
           "eng": "For more practical guidance on what to do next when someone shares trauma or abuse, see:"
         }
       },
-      "sections_title": "Practical tips",
       "section_title_1": "Be ready for it any time",
       "section_text_1": "Participants may share difficult personal situations or past traumas at any point during the programme. Expect this especially when you do the session on ‘Emotions’, where participants may open up.",
       "section_title_2": "It is a ‘good’ sign!",
       "section_text_2": "As painful as it is to see a participant break down, you can also acknowledge yourself: You have managed to create a safe space and a place of healing for them. They may have been carrying this pain by themselves for a long time.",
+      "related_articles_title": "For more practical guidance on what to do next when someone shares trauma or abuse, see:",
+      "sections_title": "Practical tips",
       "section_title_3": "Let the participant choose: share or take a moment",
       "section_text_3": "Hold the space for the participant to share, and give participants a choice: “Are you okay to continue in the session or would you like to go outside to recompose yourself?” If they want to stay in the space, that is a beautiful sign that they trust the group.",
       "section_title_4": "Openness creates more openness",
       "section_text_4": "The experiences shared will help participants see that they are not the only one facing these challenges. One person sharing will help others to open up as well.",
       "section_title_5": "Sharing = solving",
-      "section_text_5": "Even if you cannot ‘solve’ an issue during the session or after the session, there is still a lot of power in giving participants the space to share, as the group will bear witness to the pain experienced. This is very empowering. In addition, participants can share from their experience. hive advice, or simply comfort the parent.",
-      "related_articles_title": "For more practical guidance on what to do next when someone shares trauma or abuse, see:"
+      "section_text_5": "Even if you cannot ‘solve’ an issue during the session or after the session, there is still a lot of power in giving participants the space to share, as the group will bear witness to the pain experienced. This is very empowering. In addition, participants can share from their experience. hive advice, or simply comfort the parent."
     },
     {
       "id": "id_participation_faq2",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants come late to sessions",
       "_translations": {
         "title": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
@@ -566,11 +152,11 @@
           "eng": "Ask your group if the day and time of the group session still works best or should change."
         }
       },
-      "sections_title": "Here are some ideas that may help you:",
       "section_title_1": "1. Connect to ground rules",
       "section_text_1": "Ensure that being on time is included in the ground rules. Before closing the session, revisit the ground rules on punctuality.",
       "section_title_2": "2. Explore consequences",
       "section_text_2": "Explore with the group possible consequences for being on time or coming late, to emphasize why coming on time is important.",
+      "sections_title": "Here are some ideas that may help you:",
       "section_title_3": "3. Use the buddy system",
       "section_text_3": "Buddies can remind each other of the session start time or even come together. This way, coming on time becomes a shared responsibility.",
       "section_title_4": "4. Re-assess session timing",
@@ -578,8 +164,6 @@
     },
     {
       "id": "id_participation_faq3",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants do not participate actively",
       "_translations": {
         "title": {},
@@ -652,17 +236,15 @@
     },
     {
       "id": "id_participation_faq4",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "There is a long silence",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {}
       },
@@ -696,18 +278,16 @@
         }
       },
       "introduction": "",
-      "sections_title": "Try to identify why the silence is happening:",
       "section_title_1": "1. Are participants confused?",
       "section_text_1": "It might be that participants do not understand the question - simplify your question or break down your instructions into smaller steps to ensure that the group can follow well.",
       "section_title_2": "2. Are participants tired?",
       "section_text_2": "Participants may be tired, especially if the session has been going on for a while. Do a quick energiser to bring back energy to the group and get people active again.",
+      "sections_title": "Try to identify why the silence is happening:",
       "section_title_3": "3. Are participant reluctant to share?",
       "section_text_3": "If the silence is caused by people being reluctant to share, try out the tips for the challenge ‘Participants do not participate actively’."
     },
     {
       "id": "id_participation_faq5",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Particular participants talk too much",
       "_translations": {
         "title": {},
@@ -760,8 +340,6 @@
     },
     {
       "id": "id_participation_faq6",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Particular participants volunteer to do activities all the time",
       "_translations": {
         "title": {},
@@ -779,8 +357,6 @@
     },
     {
       "id": "id_participation_faq7",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Some participants who wanted to share did not get a chance",
       "_translations": {
         "title": {},
@@ -798,8 +374,6 @@
     },
     {
       "id": "id_participation_faq8",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants do not feel comfortable to share in front of their parent or teen",
       "_translations": {
         "title": {},
@@ -832,8 +406,6 @@
     },
     {
       "id": "id_participation_faq9",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "I don’t know how to handle participants with special needs",
       "_translations": {
         "title": {},
@@ -871,15 +443,10 @@
     },
     {
       "id": "id_facilitation",
-      "home_screen_section_list": [
-        "faq"
-      ],
-      "icon_asset": "/images/id_facilitation.png",
       "related_article_id_1": "id_facilitation_faq1",
       "related_article_id_2": "id_facilitation_faq2",
       "related_article_id_3": "id_facilitation_faq3",
       "related_article_id_4": "id_facilitation_faq4",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Group facilitation",
       "_translations": {
         "title": {},
@@ -898,12 +465,14 @@
         }
       },
       "introduction": "* Good news! Almost every challenge you encounter as a facilitator can be resolved using the facilitation skills you learned during your training. \n* Whatever the challenge is, be positive and encouraging to make everyone feel welcome, valued and supported as equal members of the group. \n* Remind participants of the ground rules you created together, whenever needed. As a group, you set the boundaries to make your group work well! \n* Invite participants to identify their own solutions. You can guide them by asking how a situation makes them feel and by exploring the (possible) consequences of a behaviour or proposed solution. \n* Speak from your heart and in your own words (based on your great HHPP knowledge). This creates the safe space that is needed for everyone to work together well.\nYou are the expert that is in the best position to solve any challenge that may come!",
-      "related_articles_title": "I need support with a specific challenge:"
+      "related_articles_title": "I need support with a specific challenge:",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "icon_asset": "/images/id_facilitation.png"
     },
     {
       "id": "id_facilitation_faq1",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Activities take more time than anticipated",
       "_translations": {
         "title": {},
@@ -936,8 +505,6 @@
     },
     {
       "id": "id_facilitation_faq2",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants question my abilities as a facilitator (saying I am too young, inexperienced, or do not have children)",
       "_translations": {
         "title": {},
@@ -955,8 +522,6 @@
     },
     {
       "id": "id_facilitation_faq3",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants have a disagreement with each other",
       "_translations": {
         "title": {},
@@ -974,8 +539,6 @@
     },
     {
       "id": "id_facilitation_faq4",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants share personal information outside of the group",
       "_translations": {
         "title": {},
@@ -993,8 +556,6 @@
     },
     {
       "id": "id_facilitation_faq5",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants only share positive emotions during check-in",
       "_translations": {
         "title": {},
@@ -1012,8 +573,6 @@
     },
     {
       "id": "id_facilitation_faq6",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants suggest a solution that is not helpful",
       "_translations": {
         "title": {},
@@ -1031,8 +590,6 @@
     },
     {
       "id": "id_facilitation_faq7",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "I forgot to do an activity or draw out a building block",
       "_translations": {
         "title": {},
@@ -1050,8 +607,6 @@
     },
     {
       "id": "id_facilitation_faq8",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "My co-facilitator disrespects me",
       "_translations": {
         "title": {},
@@ -1069,8 +624,6 @@
     },
     {
       "id": "id_facilitation_faq9",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants expect things that go beyond the programme (for example financial support)",
       "_translations": {
         "title": {},
@@ -1088,8 +641,6 @@
     },
     {
       "id": "id_facilitation_faq10",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Parents want to bring more than one teen to group sessions",
       "_translations": {
         "title": {},
@@ -1107,20 +658,15 @@
     },
     {
       "id": "id_pre_homevisit",
-      "home_screen_section_list": [
-        "your_journey"
-      ],
-      "icon_asset": "/images/id_pre_homevisit.png",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Initial home visit",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
@@ -1162,24 +708,23 @@
         }
       },
       "introduction": "The initial home visit will allow you to explore the family needs, and set realistic expectation. It will also enable families to learn more about the programme, ask questions and raise concerns. This will ensure the programme will be an entire family journey.",
-      "sections_title": "What to do during home visit?",
       "section_title_1": "Get to know the family",
       "section_text_1": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\n* Who is the main caregiver?\n* How many children and teens are there?\n* Who are the main caregivers?\n* What is the profession of the caregivers?\n* Which challenges they are facing as a family?\n* Which support or other programmes are available to them? \n* Which challenges can prevent them from attending the sessions on a weekly basis?",
       "section_title_2": "Setting realistic goals - the basics",
       "section_text_2": "* It is important that every family set one goal they want to achieve as part of the programme. Help them to set a goal which will be  (1) realistic, (2) positive and (3) actionable\n\r* Realistic – Based on your experience, think if this can be achieved within 9 weeks? If not – help the parent to think about a more modest goal.\n* Positive – Help them to rephrase the goal to reflect positiveness (\"I want to get more help with house chores\") rather than negative (‘I want my teen to stop being selfish\"\")\n* Parent-focused - Explore how the parent can contribute to achieving this goal",
+      "sections_title": "What to do during home visit?",
       "section_title_3": "Setting realistic goals - stages",
       "section_text_3": "Ask participants what goal they would like to achieve during the programme\nIf the goal is negative - make it positive\nMake the goals realisable within 14 weeks\r and rephrase if necessary:\n\r * Parent: I want to see my child go to the University\r Facilitator: \"Your goal is to see your child go to university. Our programme is 9 weeks. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r * Parent: Yes, I can help my child so they improve their marks in school this semester.”\r Facilitator: Great! So your goal can be \"getting ideas on how to help my child to improve his marks in school this semester\"\n \nMake the goals focused on the person sharing (instead of their parent/teen):\r “What can you do to help realise that goal?” (e.g. your goals is for your child to listen – what can you do as parent?).",
       "section_title_4": "Things to remember",
-      "section_text_4": "* Try to ensure all household members will attend to increase the chances of collaboration through the programme.\n* Try your best that it will be a conversation and not an interview of questions and answers.\n* Use facilitation skills like acknowledge, connect and explore to strengthen the bond between you"
-    },
-    {
-      "id": "id_manage_expectations",
+      "section_text_4": "* Try to ensure all household members will attend to increase the chances of collaboration through the programme.\n* Try your best that it will be a conversation and not an interview of questions and answers.\n* Use facilitation skills like acknowledge, connect and explore to strengthen the bond between you",
       "home_screen_section_list": [
         "your_journey"
       ],
-      "icon_asset": "/images/id_manage_expectations.png",
+      "icon_asset": "/images/id_pre_homevisit.png"
+    },
+    {
+      "id": "id_manage_expectations",
       "related_article_id_1": "id_recruitment",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "How to manage expectations",
       "_translations": {
         "title": {},
@@ -1218,30 +763,29 @@
       "section_text_1": "* Other programmes may have given participants something in the past (for example snacks or transport), so now participants may expect that we do the same. Especially if participants have attended other services offered by your organisation, this may raise expectations.\n* Some questions in the pre-post survey may raise expectations among participants that the programme will provide material support (like “how many meals did you miss in the last week”).\nPlease make sure to explain the purposes of the survey clearly: Access Recruitment Steps and look for the dropdown menu called \" Step 3: Introduce survey & manage expectations \n* Families may have other ideas about the programme that may keep them from participating or may make them drop out. Common misperceptions that you may need to address include:\r - \"This programme is for bad parents and/or bad children\"\r - \"This programme is only for a specific group of parents or children (e.g orphans)\r - \"This programme is only for female caregivers\".",
       "section_title_2": "How to respond",
       "section_text_2": "* Differentiate the programme\nIt is important to explain that HHPP is a different programme from previous programmes that participants may have attended. Be clear that participants will not get material incentives when joining HHPP and emphasise the unique value that HHPP offers (without being negative about other programmes).\nYou cannot control what others people or organisations may be saying to participants before the start of the programme. What you CAN control is what you share during home visits and group sessions.\n* Be confident of value of programme\nBe confident that you are offering something that will add value to families. Remember, HHPP’s lifelong impact on parents, teens and families will always be appreciated more in the end than temporary material incentives.\n[Voice recording of testimonial: Parents and teens were still attending group sessions on session 10, because they saw that the impact on their families was worth more than the Hungry Lion they were getting from the other programme – Chris, Livingstone]  \n\n* Help participants feel ownership of the group\nEmpower your group by inviting participants to come up with their own ideas rather than presenting answers or solutions. \nWhen participants feel this is ‘their’ group, they will become less dependent on you and your organisation for answers or resources. The group will start supporting each other and may even be able to put resources together for activities like the graduation ceremony. \n* Create space for concerns\nPlease give caregivers lots of space to ask any questions they may have and address those clearly, both during recruitment and throughout the programme. By building a good relationship with each participant, they will feel free to share any concerns with you as they may come up and you may be able to prevent participants from dropping out.  \n* Be aware of other programmes\nYour organisation, or other organisations, may be offering other programmes in the communities where you work. Know about these programmes, so you know what expectations or ideas these programmes may have raised about HHPP and can be ready to address these.",
-      "related_articles_title": "Recruitment Steps"
-    },
-    {
-      "id": "id_coaching",
+      "related_articles_title": "Recruitment Steps",
       "home_screen_section_list": [
         "your_journey"
       ],
-      "icon_asset": "/images/id_coaching.png",
+      "icon_asset": "/images/id_manage_expectations.png"
+    },
+    {
+      "id": "id_coaching",
       "related_article_id_1": "id_coaching_faq1",
       "related_article_id_2": "id_coaching_faq2",
       "related_article_id_3": "id_coaching_faq3",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Coaching",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
         "section_title_3": {},
-        "section_text_3": {},
-        "related_articles_title": {}
+        "section_text_3": {}
       },
       "_translatedFields": {
         "title": {
@@ -1276,19 +820,21 @@
         }
       },
       "introduction": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together.",
-      "sections_title": "What should I expect from my coaching session?",
       "section_title_1": "Reflection on successes",
       "section_text_1": "* It is important that we share and celebrate our successes as facilitators. What worked for you may help your colleagues, and the other way around! \n* Delivering HHPP can be challenging, so by sharing our successes we stay focused on the positive impact our work makes on the lives of our families and communities.",
       "section_title_2": "Reflection on challenges & identifying solutions",
       "section_text_2": "[text to be authored] \n* Whatever challenges we experience, we can always find solutions to try out when we brainstorm together. During the coaching sessions, we have the opportunity to practise these solutions in a safe space through role-play, before applying them with our participants.\n* Coaching sessions also give you the opportunity to discuss with your supervisor if there are any families that may need additional support beyond what HHPP can offer. Remember that we only should make referrals with the family’s permission unless it is a serious child protection issue in which a child’s safety is at risk.",
+      "related_articles_title": "I already need support with a specific challenge:",
+      "sections_title": "What should I expect from my coaching session?",
       "section_title_3": "Preparing for the next session",
       "section_text_3": "Preparation sets us up for a win in the next session. During coaching sessions, you can ask questions regarding any activities in the next session, divide tasks with your co-facilitator, and practise activities if necessary.",
-      "related_articles_title": "I already need support with a specific challenge:"
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_coaching.png"
     },
     {
       "id": "id_coaching_faq1",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participants struggle with a new skill",
       "_translations": {
         "title": {},
@@ -1306,17 +852,15 @@
     },
     {
       "id": "id_coaching_faq2",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "I have a challenge in my group",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
@@ -1370,11 +914,11 @@
         }
       },
       "introduction": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups.",
-      "sections_title": "I have a challenge around:",
       "section_title_1": "Dropouts",
       "section_text_1": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions.",
       "section_title_2": "Home visits & phone calls",
       "section_text_2": "[text to be authored]",
+      "sections_title": "I have a challenge around:",
       "section_title_3": "Data management",
       "section_text_3": "[text to be authored]",
       "section_title_4": "Group participation",
@@ -1385,8 +929,6 @@
     },
     {
       "id": "id_coaching_faq3",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "How can I plan and prepare for my next session?",
       "_translations": {
         "title": {},
@@ -1404,28 +946,23 @@
     },
     {
       "id": "id_follow_up",
-      "home_screen_section_list": [
-        "faq"
-      ],
-      "icon_asset": "/images/id_follow_up.png",
       "related_article_id_1": "id_follow_up_faq1",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Home visits & phone calls",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
         "section_text_4": {},
         "section_title_5": {},
-        "section_text_5": {},
-        "related_articles_title": {}
+        "section_text_5": {}
       },
       "_translatedFields": {
         "title": {
@@ -1472,23 +1009,25 @@
         }
       },
       "introduction": "* Participants may miss a session or need additional support for different reasons. Whatever the reason is, it is important that they are caught up to help them build their skills and stay involved in the programme.\n* Building the skills of parents is the first focus of HHPP, as this creates healthy supportive family environments for teens. For follow-ups, it is therefore most important that the **parent is present**. Their teen(s) and other family members can also join the visit/call if they are available.",
-      "sections_title": "How to make follow-ups a success:",
       "section_title_1": "Ask participants for suggestions",
       "section_text_1": "Brainstorm ideas with your participants by asking ‘Some of our group have missed this session, what can we do to get everyone updated?’. When ideas and suggested dates/times come from participants it is more likely that the solution will work well for them and that they will follow through.",
       "section_title_2": "Use the buddy system",
       "section_text_2": "* In HHPP, each participant is paired with a ‘buddy’. \n* A buddy can share with a participant what they learned in the session. Even if you will still do a home visit afterwards, an update by the buddy will shorten the time you need for that home visit as you are only filling in the gaps.\n* To prevent the same person from missing another session, you can encourage the buddy to remind the participant of the upcoming session.",
+      "related_articles_title": "I need support with a specific challenge:",
+      "sections_title": "How to make follow-ups a success:",
       "section_title_3": "Do a joint home visit catch-up",
       "section_text_3": "When multiple participants have missed a session, you can invite them to come for a joint catch-up session at one of their homes. This is particularly helpful when participants stay closer together.",
       "section_title_4": "Do a phone call or WhatsApp call",
       "section_text_4": "* When participants have phones, you can give them a call to catch them up on a session missed.\n* If they have a smart phone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call so multiple participants can join one catch-up).",
       "section_title_5": "Meet participants at school/work",
       "section_text_5": "* It can be hard to find parents or teenagers at home at times that work well for them and yourself. You can explore if you can visit them at their school or work place (office, farm land, etc.).",
-      "related_articles_title": "I need support with a specific challenge:"
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "icon_asset": "/images/id_follow_up.png"
     },
     {
       "id": "id_follow_up_faq1",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Participant cannot be reached for follow-up (phone call or home visit)",
       "_translations": {
         "title": {},
@@ -1505,39 +1044,25 @@
       "introduction": "* Ask the participant’s buddy to update the participant on the session they missed. \n* Find out from the buddy what a good time is to visit or call (or give a ‘missed call’ when the participant is available so you can call them back). \n* Ask the participant to come early to the next session so you can update them on the previous content. \n* Agree with your coordinator how many follow-up phone calls, messages, or visits you should do before the participant is considered a dropout."
     },
     {
-      "id": "id_follow_up_faq2",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
       "id": "id_celebration",
-      "home_screen_section_list": [
-        "your_journey"
-      ],
-      "icon_asset": "/images/id_celebration.png",
       "resource_data_1": "video",
       "resource_id_1": "/video/celebration_guide.mp3",
       "resource_data_2": "pdf",
-      "resource_id_2": "/pdf/certificate_parent.pdf",
-      "resource_data_3": "pdf",
-      "resource_id_3": "/pdf/certificate_teen.pdf",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Graduation ceremony",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "resource_title_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
         "section_text_4": {},
         "resource_title_1": {},
-        "resource_title_2": {},
         "resource_title_3": {}
       },
       "_translatedFields": {
@@ -1585,41 +1110,43 @@
         }
       },
       "introduction": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’.",
-      "sections_title": "Celebration preparations",
       "section_title_1": "Prepare certificates",
       "section_text_1": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme.",
       "section_title_2": "Involve participants in planning",
       "section_text_2": "* Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \n* Participants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!",
+      "resource_title_2": "Parent certificate example",
+      "sections_title": "Celebration preparations",
       "section_title_3": "Choose music",
       "section_text_3": "* Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \n* If you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!",
       "section_title_4": "Create a checklist",
       "section_text_4": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\n[link to  checklist below]\nPreparation              By whom\nCertificates                 [Your name]\nVenue                         [Your name]\r(can be usual group venue)\nPaper & crayons\t[Your name]\nMusic for dance party\t [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]\n…                                    [Your name or participant’s name]",
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_celebration.png",
+      "resource_id_2": "/pdf/certificate_parent.pdf",
+      "resource_data_3": "pdf",
+      "resource_id_3": "/pdf/certificate_teen.pdf",
       "resource_title_1": "Celebration prep video",
-      "resource_title_2": "Parent certificate example",
       "resource_title_3": "Teen certificate example"
     },
     {
       "id": "id_recruitment",
-      "home_screen_section_list": [
-        "your_journey"
-      ],
-      "icon_asset": "/images/id_recruitment.png",
       "related_article_id_1": "id_manage_expectations",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Recruitment",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
-        "section_text_4": {},
-        "related_articles_title": {}
+        "section_text_4": {}
       },
       "_translatedFields": {
         "title": {
@@ -1660,34 +1187,34 @@
         }
       },
       "introduction": "Let participants experience that they will experience during the group sessions. We know we are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme.",
-      "sections_title": "Steps of introducing the programme",
       "section_title_1": "Step 1: Greeting & introduction",
       "section_text_1": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”",
       "section_title_2": "Step 2: Invitation",
       "section_text_2": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”",
+      "related_articles_title": "Managing Expectations",
+      "sections_title": "Steps of introducing the programme",
       "section_title_3": "Step 3: Introduce survey & manage expectations",
       "section_text_3": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\n* Some questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\n* Raising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”",
       "section_title_4": "Complete survey and invite for first session",
       "section_text_4": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session.",
-      "related_articles_title": "Managing Expectations"
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_recruitment.png"
     },
     {
       "id": "id_session_1",
-      "home_screen_section_list": [
-        "hhpp_sessions"
-      ],
-      "icon_asset": "/images/id_session_1.png",
       "related_article_id_1": "id_session1_faq1",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Session 1: Introduction, Family Goals And One-on-one Time",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
         "section_title_4": {},
         "resource_title_1": {},
         "message_title_1": {},
@@ -1699,7 +1226,6 @@
         "message_title_3": {},
         "message_text_3": {},
         "message_guidance_3": {},
-        "related_articles_title": {},
         "task_list_title": {},
         "task_list_text": {}
       },
@@ -1769,12 +1295,17 @@
         }
       },
       "introduction": "The goals of this session are:\n\n* To introduce the program to participants.\n* To help them define realistic goals.\n* To introduce them to 1on1 time and it’s importance. As the first session sets the tone for the entire programme, it is important to create a space that is welcoming and safe for the participants to feel at ease.",
-      "sections_title": "Session Summary",
       "section_title_1": "Core Principles",
       "section_text_1": "* Goals should be specific, positive, and realistic\n* Short-term goals can lead to long-term achievement in life\n* One-on-One Time with your parent/teen builds trust, communication, and positive relationships\n* Use Active Listening skills during One-on-One Time\n* One-on-One Time shows that you value your teen",
       "section_title_2": "Agenda",
       "section_text_2": "Part 1 - Welcome and Session Preps (30 minutes)\n\r Facilitators take attendance.\n▪ Participants settle down & do their name tags.\n▪ Welcome, thank everyone for coming and praise time\nkeeping\n▪ Do the “Name Game”\n▪ Do physical exercise\n\n\nPart 2 - Core lesson - stages of child development  (15 minutes)\rDiscussion: Becoming a Teenage\n\nPart 3 - Core lesson - family goals  (30 minutes)\r▪ Art Activity: identifying Positive, Specific, and Realistic Goals (10 min)\n• Discussion: Sharing Positive, Specific, and Realistic Goals (20 min)\n\n(Break - 5min)\n\nPart 4 - Core lesson - 1on1 time (30min)\n• Role-plays\n• Benefits of One-on-One Time with Your Parent/Teen\n• Discussion: Activities you can do together\n• Practice: One-on-One Time\n• Review Tips for One-on-One Time\n\nTaking a pause - 5min\n\n(Assigning PLH buddies - 5min)\n\nPart 5  - home activity\n• Have a conversation with your parent/teen about your goals that you identified during the session\n• Spend 5 minutes each day in One-on-One Time with your parent/teen\n• Take a Pause whenever you are feeling stressed or upset\n• Do the Physical Exercise every morning when you wake up\n• Meet with, or contact, your PLH Buddy once during the week\n\nPart 6  - session close\n• Review core topics covered\n• Inform parents/caregivers of text messages\n• Remind families about next session and home activities\n• Thank and praise families",
+      "related_articles_title": "Session 1: common challenges for parents  and how to solve them",
+      "sections_title": "Session Summary",
       "section_title_4": "",
+      "home_screen_section_list": [
+        "hhpp_sessions"
+      ],
+      "icon_asset": "/images/id_session_1.png",
       "resource_title_1": "Resources",
       "message_title_1": "SMS 1: Pre-Session Reminder",
       "message_text_1": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organization, and the meeting time and location).",
@@ -1785,27 +1316,21 @@
       "message_title_3": "SMS 2: Home Activity Reminder",
       "message_text_3": "Dear <name of parent>, Here is a reminder for your home activities:\r1. Have a conversation with your teen about what you want to achieve in our programme.\n2. Spend 5 minutes one 1on1 time with your teen each day. \n3. Take a pause whenever you are feeling stressed or upset\r4. Do the Physical Exercise every morning when you wake up\n5. Meet or  contact your PLH Buddy once during the week\n\nRemember it’s what you do at home that will get you close to achieving your goals! \n\nBest\n<name of facilitators>",
       "message_guidance_3": "Send two days after the session",
-      "related_articles_title": "Session 1: common challenges for parents  and how to solve them",
       "task_list_title": "Preparation Checklist",
       "task_list_text": "Remember for this session:\n- Confirm venue\n-Venue Preparation\n- Remind parents of the meeting time\n- Organise drinks and snacks\n- Consider bringing in a parent & their teen who have undergone the programme and can share their experience with the new families. \n- Help participants understand how the programme can support their families (to create buy-in)."
     },
     {
       "id": "id_session_2",
-      "home_screen_section_list": [
-        "hhpp_sessions"
-      ],
-      "icon_asset": "/images/id_session_2.png",
       "related_article_id_1": "id_session2_faq1",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Session 2: Keeping it positive: Praise and positive instructions",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "resource_title_1": {},
@@ -1867,13 +1392,17 @@
         }
       },
       "introduction": "The goal of the session is to show parents and teens how to praise and appreciate each other. While parents become more effective at giving specific, positive, and realistic instructions, teens learn how to communicate their needs and wants in a clear and calm way.",
-      "sections_title": "Session summary",
       "section_title_1": "Core principles",
       "section_text_1": "* Praise the behaviour you want to see in your parent/teen\n* Appreciate your parent/teen for the positive things that s/he does\n* Be specific, immediate, and enthusiastic when you praise your parent/teen\n* Your parent/teen will feel better about him/herself when you praise him/her\n* Instructions should be positive, specific, and realistic and given in a calm voice\n* Praise your teen when s/he follows your instruction\n* Explain what you want to your parent/teen in a clear and calm way\n* Praise yourself!",
       "section_title_2": "Materials",
       "section_text_2": "Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys,\nrefreshments for the break\nHouse of Support poster",
+      "sections_title": "Session summary",
       "section_title_3": "Agenda",
       "section_text_3": "Welcome (20min)\n• Greeting parents\n• Take a pause\n• Phyisical excercise\n \nHome Activity Discussion (40min)\n• Remind parents/teens of core home activity\n• Ask parents/teens to share highlights and challenges\n• Discuss solutions to challenges and practice solution\n\nBreak (5min)\n\nCore Lession - Praising your Parent/Teen\n• Role-play: Ignoring the Good\n• Role-play: Noticing the Positive\n• Discussion: Why should we praise each other?\n• Practice: Praising your parent/tee\n\nCore Lesson - Keeping it Positive (seperated) (25min)Sipho \n\nTogether - Game: says\n\nParents group:\n• Role-play: Negative instructions\n• Role-play: Positive instructions\n• Activity: identifying things we would\nlike our teens to do\n\nTeens group:\n• Role-play: A misunderstanding\n• Role-play: Say what you want\n• Activity: identifying needs & wants, and how to ask for them\n\nAssign home activities (10min) \n• Practice praising your parent/teen at least three times per day\n• Parents: Notice how you give instructions and try to make them positive, specific\nand realistic\n• Teens: Talk in a calm and clear way about things that are important to you\n• Do something nice for yourself during the week\n• Spend 10 minutes each day in One-on-One Time \n• Take a Pause whenever you are feeling stressed or upset\n• Do the Physical Exercise every morning when you wake up\n• Meet with, or contact, your HHPP Buddy once during the week\n\nClosing (5min)\n• Review core topics covered, remind families about next session and home activities\n• Thank and praise families",
+      "home_screen_section_list": [
+        "hhpp_sessions"
+      ],
+      "icon_asset": "/images/id_session_2.png",
       "resource_title_1": "Resources",
       "message_title_1": "SMS 1: Thank you",
       "message_text_1": "Dear <name of participant>, Thank you for attending the Second session Healthy Homes Parenting Programme. Simply by attending it shows you care. \nWe look forward to seeing you next week, <names of facilitators).",
@@ -1884,21 +1413,16 @@
     },
     {
       "id": "id_session_3",
-      "home_screen_section_list": [
-        "hhpp_sessions"
-      ],
-      "icon_asset": "/images/id_session_3.png",
       "related_article_id_1": "id_session3_faq1",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Session 3: Keeping it Cool: Managing anger and stress",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "message_title_1": {},
@@ -1960,13 +1484,17 @@
         }
       },
       "introduction": "In this session parents and teens learn how to become more aware of their own emotions, respond effectively and communicate about their emotions.",
-      "sections_title": "Session Summary",
       "section_title_1": "Core principles",
       "section_text_1": "* Being aware of how you feel can help you cope with difficult emotions\n* Noticing how your teen feels can also help him/her cope with his/her own emotions\n* If we communicate about our frustrations, we are less likely to act in anger\n* Communicating about emotions improved relationships. Communicating about emotions helps us understand each other better so we can learn how to support each other",
       "section_title_2": "Materials",
       "section_text_2": "Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys, refreshments for the break, house of Support poster",
+      "sections_title": "Session Summary",
       "section_title_3": "Agenda",
       "section_text_3": "* Welcome (20 min) \n* Home activity discussion (40 min)\n* Break (5 minutes)\n* Core lesson – talking about emotions (parents and teens separate) (40 min)\n* Assign home activities (10 min)\n* Closing (5 min)",
+      "home_screen_section_list": [
+        "hhpp_sessions"
+      ],
+      "icon_asset": "/images/id_session_3.png",
       "message_title_1": "SMS 1: Thank you",
       "message_text_1": "Dear <name of participant>, \nIt was nice seeing you in yesterday’s 3rd HHPP session. Session, where we discussed:\n1. How being aware how you feel and how your teen feels, can help coping with difficult emotions\n2. How important it is to communicate about our frustrations so we are less likely to act in anger\n3. How communicating about emotions can improve our relationships.\nThank you again for your participation. It is not taken for granted.\n<Name of facilitators>",
       "message_title_2": "SMS 2: Home Activity Reminder",
@@ -1976,78 +1504,26 @@
       "message_guidance_3": "SMS 1: Thank you"
     },
     {
-      "id": "id_session_4",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
-      "title": "Session four: Establishing rules to keep healthy and safe",
-      "_translations": {
-        "title": {},
-        "introduction": {}
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Session four: Establishing rules to keep healthy and safe"
-        },
-        "introduction": {
-          "eng": "In this session, parents and teens will explore the benefits of having clear and consistent household rules and routines for their teen. They will also learn how to make rules together  to keep teens safe."
-        }
-      },
-      "introduction": "In this session, parents and teens will explore the benefits of having clear and consistent household rules and routines for their teen. They will also learn how to make rules together  to keep teens safe."
-    },
-    {
-      "id": "id_session_5",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_session_6",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_session_7",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_session_8",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
-      "id": "id_session_9",
-      "status": "draft",
-      "icon_asset": "images/sessions/graduation.svg",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk"
-    },
-    {
       "id": "id_session1_faq1",
-      "icon_asset": "",
       "related_article_id_1": "id_participation",
       "related_article_id_2": "id_facilitation",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Session 1 - common challenges for parents  and how to solve them",
       "_translations": {
         "title": {},
         "introduction": {},
-        "sections_title": {},
         "section_title_1": {},
         "section_text_1": {},
         "section_title_2": {},
         "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
         "section_title_3": {},
         "section_text_3": {},
         "section_title_4": {},
         "section_text_4": {},
         "section_title_5": {},
         "section_text_5": {},
-        "section_title_6": {},
-        "related_articles_title": {}
+        "section_title_6": {}
       },
       "_translatedFields": {
         "title": {
@@ -2097,11 +1573,12 @@
         }
       },
       "introduction": "Parents didn’t have time for 1on1? Didn’t feel comfortable doing the activities? Struggle with scheduling 1on1 time for multiple teens?",
-      "sections_title": "Here are a few suggestions:",
       "section_title_1": "I did not have enough time",
       "section_text_1": "* It can be hard to find time during your day, with work, chores, and everything else. \n\n* Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together",
       "section_title_2": "My teen did not want to spend time with me",
       "section_text_2": "* Teens often want to spend time watching T.V. or playing with a gadget. \n\n* You could watch or play on the gadget with them. \n\n* Caring about their interests is a great start!\n\n* Once you begin spending time together you can suggest another activity.",
+      "related_articles_title": "Click here to see some ideas how to handle the following issues:",
+      "sections_title": "Here are a few suggestions:",
       "section_title_3": "My teen wanted to do things I felt uncomfortable about",
       "section_text_3": "* If your teen wants to do things that are too difficult for you to do, you could watch them.  \n\n* You could describe what they are doing like a sports announcer.\n\n* Praise them while they do it!",
       "section_title_4": "\"My teen chose a competitive activity. I won and then they got angry\"",
@@ -2109,12 +1586,10 @@
       "section_title_5": "All my children wanted One-on-one Time at the same time",
       "section_text_5": "It can be difficult to spend One-on-One Time with each child when you have more than one child. \n\nIf possible, you can ask an adult or older sibling to look after the other children while you spend One-on-One Time with one teen.\n\nThink of when it would be easier to spend One-on-One time with each child. Perhaps later in the evening with your teen, after the others have gone to sleep.",
       "section_title_6": "Ideas to handle other challenges related to this session",
-      "related_articles_title": "Click here to see some ideas how to handle the following issues:"
+      "icon_asset": ""
     },
     {
       "id": "id_session2_faq1",
-      "icon_asset": "",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Session 2 - common challenges and how to solve them",
       "_translations": {
         "title": {},
@@ -2188,12 +1663,11 @@
       "section_title_5": "I gave a negative instead of a positive instruction",
       "section_text_5": "* It takes some time to get used to giving positive instructions – it’s really worth trying again! \n\n* Think about the behaviour you would love to see your teen do more and think of positive ways to give that instruction!",
       "section_title_6": "I shouted at my teen when they behaved negatively, instead of giving them a positive instruction for what they should do.",
-      "section_text_6": "* It is difficult to come up with instructions while we are still angry. \n\n* Try and find a time when you are calm to introduce a positive instruction to your teen.\n\n* In the next session, we will ll talk more about how we can manage our emotions!"
+      "section_text_6": "* It is difficult to come up with instructions while we are still angry. \n\n* Try and find a time when you are calm to introduce a positive instruction to your teen.\n\n* In the next session, we will ll talk more about how we can manage our emotions!",
+      "icon_asset": ""
     },
     {
       "id": "id_session3_faq1",
-      "icon_asset": "",
-      "attached_single_doc": "https://docs.google.com/document/d/1mLq1x4sSmvYTROsi0cI8bv3Ia4ASgaZ_m5AM9O_0MDk",
       "title": "Session 3 - common challenges and how to solve them",
       "_translations": {
         "title": {},
@@ -2257,8 +1731,8 @@
       "section_title_4": "When I shared my emotions, my teen asked many questions, which made me uncomfortable.",
       "section_text_4": "* Sharing emotions helps your teen to be aware and learn to do the same. \n\n* You can choose how much detail you want to share about the situation. It’s up to you! \n\n* You can also choose to answer questions later by saying, “I am feeling angry/stressed now. Could you please give me some time? We can talk about this more tonight”",
       "section_title_5": "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that.",
-      "section_text_5": "* It’s okay to not want to share at that time. \n\n* Find some time to explain later, when you feel calmer, so that everyone can understand."
+      "section_text_5": "* It’s okay to not want to share at that time. \n\n* Find some time to explain later, when you feel calmer, so that everyone can understand.",
+      "icon_asset": ""
     }
-  ],
-  "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
+  ]
 }
