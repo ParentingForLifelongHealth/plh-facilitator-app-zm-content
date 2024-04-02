@@ -3,6 +3,25 @@
   "flow_name": "media_data",
   "status": "released",
   "data_list_name": "media",
-  "rows": [],
+  "rows": [
+    {
+      "id": "facilitatortestimonial",
+      "type": "audio",
+      "title": "Facilitator Testimonial",
+      "media_asset": "/audio/faq/unhelpful_participant_suggestion_testimonial.mp3"
+    },
+    {
+      "id": "examplescenario",
+      "type": "audio",
+      "title": "Example Scenario",
+      "media_asset": "/audio/faq/unhelpful_participant_suggestion_example.mp3"
+    },
+    {
+      "id": "physicalexercise",
+      "type": "video",
+      "title": "Sample Physical Exercise",
+      "media_asset": "/video/exercise1_compressed.mp4"
+    }
+  ],
   "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
 }
