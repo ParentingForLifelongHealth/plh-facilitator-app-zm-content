@@ -74,6 +74,12 @@
       "type": "declare_global_constant",
       "name": "has_multiple_languages",
       "value": false
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_profile_about",
+      "value": false,
+      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data_zm.xlsx"

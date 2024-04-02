@@ -15,6 +15,102 @@
     "md5Checksum": "82ceab23f8629879edae5c5f03929cd0",
     "size_kb": 63.2
   },
+  "archive/pdf/9 sessions-manual.pdf": {
+    "md5Checksum": "b0b03e96ce4b4289dd1463ac446992a6",
+    "size_kb": 9892.2
+  },
+  "archive/pdf/draft_template_manual_format.pdf": {
+    "md5Checksum": "20acaebd96bd0b4ad1b5148d085aca24",
+    "size_kb": 610.4
+  },
+  "archive/pdf/example.pdf": {
+    "md5Checksum": "2288c46f60ecc0dee4c0d177bd755897",
+    "size_kb": 13.6
+  },
+  "archive/pdf/manual_1_on_1_time.pdf": {
+    "md5Checksum": "dd7e58b7caca9fd23d0a4468863ca7ea",
+    "size_kb": 459.5
+  },
+  "archive/pdf/manual_accepting_responsibilities.pdf": {
+    "md5Checksum": "f9a577404eb33752aec753375a41ffee",
+    "size_kb": 225
+  },
+  "archive/pdf/manual_establishing_rules.pdf": {
+    "md5Checksum": "3905ba661e6adb240780a27983023ea9",
+    "size_kb": 224.8
+  },
+  "archive/pdf/manual_family_budgeting.pdf": {
+    "md5Checksum": "ec8b9551d93fac7e1d685219cbaa1da2",
+    "size_kb": 1891.6
+  },
+  "archive/pdf/manual_family_problemsolving.pdf": {
+    "md5Checksum": "7e00df53331713bf5b750b2dc878933c",
+    "size_kb": 171.1
+  },
+  "archive/pdf/manual_intro_goals.pdf": {
+    "md5Checksum": "aebcaf0e1e649f1bf912e0968aeb4008",
+    "size_kb": 4569.3
+  },
+  "archive/pdf/manual_keeping_safe.pdf": {
+    "md5Checksum": "ce2ee2bcddc4ade17fbcc9a8487ee996",
+    "size_kb": 2256.3
+  },
+  "archive/pdf/manual_managing_anger_stress.pdf": {
+    "md5Checksum": "77adce84984b3d7ef8de9bc4f36d34ff",
+    "size_kb": 225.5
+  },
+  "archive/pdf/manual_praise_instructions.pdf": {
+    "md5Checksum": "d07ce63f1517ba10bfdec51b9c8de18f",
+    "size_kb": 225.5
+  },
+  "archive/pdf/manual_widening_support.pdf": {
+    "md5Checksum": "46d283d4d31fd7cb91d20571bb1e697e",
+    "size_kb": 178.2
+  },
+  "archive/session_10_manual.pdf": {
+    "md5Checksum": "920b2e8c3568de9a105fb5a4ecdf6372",
+    "size_kb": 421
+  },
+  "archive/session_11_manual.pdf": {
+    "md5Checksum": "450b21e072e0bea84d48c350fe686154",
+    "size_kb": 535.2
+  },
+  "archive/session_12_manual.pdf": {
+    "md5Checksum": "5977d567948040a598c8325bcc1411d3",
+    "size_kb": 2474.1
+  },
+  "archive/session_13_manual.pdf": {
+    "md5Checksum": "816b87878217e5f79dcd58d2a18a08ec",
+    "size_kb": 921.7
+  },
+  "archive/session_14_manual.pdf": {
+    "md5Checksum": "b4e28cd5d3c472f5f93993a7718c7bee",
+    "size_kb": 128.1
+  },
+  "archive/session_4_manual.pdf": {
+    "md5Checksum": "e39bea358d807a9b84a26c2b8df15e1d",
+    "size_kb": 335
+  },
+  "archive/session_5_manual.pdf": {
+    "md5Checksum": "0c687ee027aebdc0c0ea52124602a671",
+    "size_kb": 1826.1
+  },
+  "archive/session_6_manual.pdf": {
+    "md5Checksum": "e61950330cbcd92aa8bab48cb0237080",
+    "size_kb": 541.3
+  },
+  "archive/session_7_manual.pdf": {
+    "md5Checksum": "ae52686ac94cb3579fd469958b042891",
+    "size_kb": 2206
+  },
+  "archive/session_8_manual.pdf": {
+    "md5Checksum": "af941c8e4f050c3008d6629a729de714",
+    "size_kb": 170.6
+  },
+  "archive/session_9_manual.pdf": {
+    "md5Checksum": "fcee6e70d04c7a09bf7dd365c9f02b32",
+    "size_kb": 606.4
+  },
   "audio/facilitation_skills/explore.mp3": {
     "md5Checksum": "cfce94d4ac7df253fc8431295f0f5f27",
     "size_kb": 4306.4
@@ -139,6 +235,14 @@
     "md5Checksum": "56a4162ef3e7d173ec455a97f358088b",
     "size_kb": 261.8
   },
+  "images/logos/CIDRZ.png": {
+    "md5Checksum": "d4f5f5b3bcc46880ded631b2c1b2226f",
+    "size_kb": 25.9
+  },
+  "images/logos/CWBSA.png": {
+    "md5Checksum": "2a4824b76bacd4c6d7733147eef7716b",
+    "size_kb": 101.9
+  },
   "images/logos/IDEMS.png": {
     "md5Checksum": "dd7be17e1082bfc5fb5800ac17754d0c",
     "size_kb": 84.6
@@ -211,116 +315,24 @@
     "md5Checksum": "50b917f456001fbc0cb4d693931f3051",
     "size_kb": 209.4
   },
-  "pdf/14 session- split manual/Session_10_manual.pdf": {
-    "md5Checksum": "920b2e8c3568de9a105fb5a4ecdf6372",
-    "size_kb": 421
-  },
-  "pdf/14 session- split manual/Session_11_manual.pdf": {
-    "md5Checksum": "450b21e072e0bea84d48c350fe686154",
-    "size_kb": 535.2
-  },
-  "pdf/14 session- split manual/Session_12_manual.pdf": {
-    "md5Checksum": "5977d567948040a598c8325bcc1411d3",
-    "size_kb": 2474.1
-  },
-  "pdf/14 session- split manual/Session_13_manual.pdf": {
-    "md5Checksum": "816b87878217e5f79dcd58d2a18a08ec",
-    "size_kb": 921.7
-  },
-  "pdf/14 session- split manual/Session_14_manual.pdf": {
-    "md5Checksum": "b4e28cd5d3c472f5f93993a7718c7bee",
-    "size_kb": 128.1
-  },
-  "pdf/14 session- split manual/Session_2_manual.pdf": {
-    "md5Checksum": "adca39b6814d1b469cc3e53343c6c046",
-    "size_kb": 785.8
-  },
-  "pdf/14 session- split manual/Session_3_manual.pdf": {
-    "md5Checksum": "71999bf0767b7d46090568e4b016e60e",
-    "size_kb": 380.5
-  },
-  "pdf/14 session- split manual/Session_4_manual.pdf": {
-    "md5Checksum": "e39bea358d807a9b84a26c2b8df15e1d",
-    "size_kb": 335
-  },
-  "pdf/14 session- split manual/Session_5_manual.pdf": {
-    "md5Checksum": "0c687ee027aebdc0c0ea52124602a671",
-    "size_kb": 1826.1
-  },
-  "pdf/14 session- split manual/Session_6_manual.pdf": {
-    "md5Checksum": "e61950330cbcd92aa8bab48cb0237080",
-    "size_kb": 541.3
-  },
-  "pdf/14 session- split manual/Session_7_manual.pdf": {
-    "md5Checksum": "ae52686ac94cb3579fd469958b042891",
-    "size_kb": 2206
-  },
-  "pdf/14 session- split manual/Session_8_manual.pdf": {
-    "md5Checksum": "af941c8e4f050c3008d6629a729de714",
-    "size_kb": 170.6
-  },
-  "pdf/14 session- split manual/Session_9_manual.pdf": {
-    "md5Checksum": "fcee6e70d04c7a09bf7dd365c9f02b32",
-    "size_kb": 606.4
-  },
-  "pdf/14 session- split manual/session_1_manual.pdf": {
+  "pdf/session_1_manual.pdf": {
     "md5Checksum": "bd443bfa77397da11cafa1f7025373df",
     "size_kb": 1348.7
   },
-  "pdf/9 sessions-manual.pdf": {
-    "md5Checksum": "b0b03e96ce4b4289dd1463ac446992a6",
-    "size_kb": 9892.2
+  "pdf/session_2_manual.pdf": {
+    "md5Checksum": "adca39b6814d1b469cc3e53343c6c046",
+    "size_kb": 785.8
   },
-  "pdf/draft_template_manual_format.pdf": {
-    "md5Checksum": "20acaebd96bd0b4ad1b5148d085aca24",
-    "size_kb": 610.4
+  "pdf/session_3_manual.pdf": {
+    "md5Checksum": "71999bf0767b7d46090568e4b016e60e",
+    "size_kb": 380.5
   },
-  "pdf/example.pdf": {
-    "md5Checksum": "2288c46f60ecc0dee4c0d177bd755897",
-    "size_kb": 13.6
-  },
-  "pdf/manual_1_on_1_time.pdf": {
-    "md5Checksum": "dd7e58b7caca9fd23d0a4468863ca7ea",
-    "size_kb": 459.5
-  },
-  "pdf/manual_accepting_responsibilities.pdf": {
-    "md5Checksum": "f9a577404eb33752aec753375a41ffee",
-    "size_kb": 225
-  },
-  "pdf/manual_establishing_rules.pdf": {
-    "md5Checksum": "3905ba661e6adb240780a27983023ea9",
-    "size_kb": 224.8
-  },
-  "pdf/manual_family_budgeting.pdf": {
-    "md5Checksum": "ec8b9551d93fac7e1d685219cbaa1da2",
-    "size_kb": 1891.6
-  },
-  "pdf/manual_family_problemsolving.pdf": {
-    "md5Checksum": "7e00df53331713bf5b750b2dc878933c",
-    "size_kb": 171.1
-  },
-  "pdf/manual_intro_goals.pdf": {
-    "md5Checksum": "aebcaf0e1e649f1bf912e0968aeb4008",
-    "size_kb": 4569.3
-  },
-  "pdf/manual_keeping_safe.pdf": {
-    "md5Checksum": "ce2ee2bcddc4ade17fbcc9a8487ee996",
-    "size_kb": 2256.3
-  },
-  "pdf/manual_managing_anger_stress.pdf": {
-    "md5Checksum": "77adce84984b3d7ef8de9bc4f36d34ff",
-    "size_kb": 225.5
-  },
-  "pdf/manual_praise_instructions.pdf": {
-    "md5Checksum": "d07ce63f1517ba10bfdec51b9c8de18f",
-    "size_kb": 225.5
-  },
-  "pdf/manual_widening_support.pdf": {
-    "md5Checksum": "46d283d4d31fd7cb91d20571bb1e697e",
-    "size_kb": 178.2
-  },
-  "video/Quick_exercise V1.mp4": {
+  "video/exercise1.mp4": {
     "md5Checksum": "6b42d61d76567346ea74e821ce39402e",
     "size_kb": 15379.1
+  },
+  "video/exercise1_compressed.mp4": {
+    "md5Checksum": "92c53261b1f800de8e7a55e4617ddbc7",
+    "size_kb": 8618.3
   }
 }

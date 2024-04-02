@@ -21,9 +21,9 @@
       "_xlsxPath": "data/navigation_data.xlsx"
     },
     "article_data": {
+      "flow_type": "data_list",
       "flow_name": "article_data",
-      "flow_subtype": "generated",
-      "flow_type": "data_list"
+      "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
     },
     "home_screen_section_data": {
       "flow_type": "data_list",
@@ -88,13 +88,7 @@
       "_xlsxPath": "data/profile_data.xlsx"
     }
   },
-  "data_pipe": {
-    "article_filter": {
-      "flow_type": "data_pipe",
-      "flow_name": "article_filter",
-      "_xlsxPath": "data/content_data_pipes.xlsx"
-    }
-  },
+  "data_pipe": {},
   "generator": {
     "article_generator": {
       "flow_type": "generator",
@@ -621,13 +615,33 @@
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_manual_1_on_1_time": {
-      "flow_name": "pdf_manual_1_on_1_time",
+    "media_examplescenario": {
+      "flow_name": "media_examplescenario",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
-    "pdf_manual_positive_instructions": {
-      "flow_name": "pdf_manual_positive_instructions",
+    "media_facilitatortestimonial": {
+      "flow_name": "media_facilitatortestimonial",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "media_physicalexercise": {
+      "flow_name": "media_physicalexercise",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_session_1_manual": {
+      "flow_name": "pdf_session_1_manual",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_session_2_manual": {
+      "flow_name": "pdf_session_2_manual",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "pdf_session_3_manual": {
+      "flow_name": "pdf_session_3_manual",
       "flow_subtype": "generated",
       "flow_type": "template"
     },
