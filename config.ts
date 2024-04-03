@@ -19,6 +19,7 @@ config.android = {
 };
 
 config.web.favicon_asset = "images/logos/hhpp_yanga_logos_icon_colour.svg";
+
 config.api.db_name = "plh_facilitator_zm"
 
 // Hacky fix to point extended deployment to content within its own repo

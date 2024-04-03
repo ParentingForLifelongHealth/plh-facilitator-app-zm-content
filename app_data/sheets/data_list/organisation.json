@@ -24,10 +24,15 @@
     },
     {
       "id": "organisation_4",
-      "name": "Clowns without Borders"
+      "name": "Clowns without Borders South Africa",
+      "image_asset": "images/logos/CWBSA.png",
+      "group": "partners"
     },
     {
-      "id": "organisation_5"
+      "id": "organisation_5",
+      "name": "Centre for Infectious Disease Research in Zambia",
+      "image_asset": "images/logos/CIDRZ.png",
+      "group": "partners"
     },
     {
       "id": "organisation_6"

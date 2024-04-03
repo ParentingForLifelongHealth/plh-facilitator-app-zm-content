@@ -5,14 +5,19 @@
   "data_list_name": "pdf",
   "rows": [
     {
-      "id": "manual_1_on_1_time",
+      "id": "session_1_manual",
       "title": "Session 1 Manual",
-      "pdf_asset": "pdf/manual_1_on_1_time.pdf"
+      "pdf_asset": "pdf/session_1_manual.pdf"
     },
     {
-      "id": "manual_positive_instructions",
+      "id": "session_2_manual",
       "title": "Session 2 Manual",
-      "pdf_asset": "pdf/praise_instructions.pdf"
+      "pdf_asset": "pdf/session_2_manual.pdf"
+    },
+    {
+      "id": "session_3_manual",
+      "title": "Session 3 Manual",
+      "pdf_asset": "pdf/session_3_manual.pdf"
     }
   ],
   "_xlsxPath": "data/FacilitatorApp ZM content.xlsx"
