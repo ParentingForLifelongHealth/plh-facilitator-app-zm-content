@@ -20,7 +20,6 @@ config.android = {
 };
 
 config.firebase = {
-  config: loadEncryptedConfig('firebase.json'), // set to null to omit debug missing config or do not populate encrypted
   auth:{enabled:true},
   crashlytics:{enabled:true}
 }
