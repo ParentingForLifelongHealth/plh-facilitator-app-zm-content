@@ -20,6 +20,7 @@ config.android = {
 };
 
 config.firebase = {
+  config: loadEncryptedConfig('firebase.json'),
   auth:{enabled:true},
   crashlytics:{enabled:true}
 }
