@@ -1,4 +1,5 @@
 import { extendDeploymentConfig } from "scripts";
+import { loadEncryptedConfig} from "scripts";
 const config = extendDeploymentConfig({ name: "plh_facilitator_zm", parent: "plh_facilitator" });
 
 config.google_drive.sheets_folder_ids =  ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R", "1bdyRi0SsfuuMuh5vpRr5ixGh6xrBOYEn"];
@@ -17,6 +18,12 @@ config.android = {
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
+
+config.firebase = {
+  config: loadEncryptedConfig('firebase.json'), // set to null to omit debug missing config or do not populate encrypted
+  auth:{enabled:true},
+  crashlytics:{enabled:true}
+}
 
 config.web.favicon_asset = "images/logos/hhpp_yanga_logos_icon_colour.svg";
 
