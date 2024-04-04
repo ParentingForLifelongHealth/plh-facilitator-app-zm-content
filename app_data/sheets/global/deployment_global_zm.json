@@ -30,6 +30,15 @@
     },
     {
       "type": "declare_global_constant",
+      "name": "virtual_session_platform",
+      "value": "WhatsApp",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
       "name": "has_parent_groups",
       "value": false
     },
@@ -47,12 +56,14 @@
     },
     {
       "type": "declare_global_constant",
-      "name": "virtual_session_platform",
-      "value": "WhatsApp",
-      "_translations": {
-        "value": {}
-      },
+      "name": "has_profile_about",
+      "value": false,
       "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "has_multiple_languages",
+      "value": false
     },
     {
       "type": "declare_global_constant",
@@ -69,17 +80,6 @@
       "_translations": {
         "value": {}
       }
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "has_multiple_languages",
-      "value": false
-    },
-    {
-      "type": "declare_global_constant",
-      "name": "has_profile_about",
-      "value": false,
-      "exclude_from_translation": true
     }
   ],
   "_xlsxPath": "data/deployment_data_zm.xlsx"

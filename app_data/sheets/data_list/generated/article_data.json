@@ -1,0 +1,1675 @@
+{
+  "flow_name": "article_data",
+  "flow_subtype": "generated",
+  "flow_type": "data_list",
+  "rows": [
+    {
+      "id": "id_participation",
+      "related_article_id_1": "id_participation_faq1",
+      "related_article_id_2": "id_participation_faq2",
+      "related_article_id_3": "id_participation_faq3",
+      "related_article_id_4": "id_participation_faq4",
+      "title": "Group Participation",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group Participation"
+        },
+        "introduction": {
+          "eng": "Active participation leads to the biggest impact for families. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals."
+        },
+        "related_articles_title": {
+          "eng": "I need support with a specific challenge:"
+        }
+      },
+      "introduction": "Active participation leads to the biggest impact for families. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals.",
+      "related_articles_title": "I need support with a specific challenge:",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "icon_asset": "/images/id_participation.png"
+    },
+    {
+      "id": "id_participation_faq1",
+      "title": "When a participant shares a painful experience",
+      "_translations": {
+        "title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "When a participant shares a painful experience"
+        },
+        "sections_title": {
+          "eng": "Practical tips"
+        },
+        "section_title_1": {
+          "eng": "Be ready for it any time"
+        },
+        "section_text_1": {
+          "eng": "Participants may share difficult personal situations or past traumas at any point during the programme. Expect this especially during the session on emotions."
+        },
+        "section_title_2": {
+          "eng": "It’s a good sign!"
+        },
+        "section_text_2": {
+          "eng": "If participants are sharing vulnerable experiences, you have managed to create a safe space and a place of healing for them. They may have been carrying this pain by themselves for a long time."
+        },
+        "section_title_3": {
+          "eng": "Let the participant choose: share or take a moment"
+        },
+        "section_text_3": {
+          "eng": "Hold the space for the participant to share, and give participants a choice: “Are you okay to continue in the session or would you like to go outside to compose yourself?”"
+        },
+        "section_title_4": {
+          "eng": "Openness creates more openness"
+        },
+        "section_text_4": {
+          "eng": "The experiences shared will help participants see that they are not the only one facing challenges. One person sharing will help others to open up as well."
+        },
+        "section_title_5": {
+          "eng": "Sharing = solving"
+        },
+        "section_text_5": {
+          "eng": "Even if you cannot ‘solve’ an issue during the session or after the session, there is still a lot of power in giving participants the space to share, as the group will bear witness to the pain experienced. This is very empowering. Participants can share their experience and offer hive advice or comfort."
+        }
+      },
+      "section_title_1": "Be ready for it any time",
+      "section_text_1": "Participants may share difficult personal situations or past traumas at any point during the programme. Expect this especially during the session on emotions.",
+      "section_title_2": "It’s a good sign!",
+      "section_text_2": "If participants are sharing vulnerable experiences, you have managed to create a safe space and a place of healing for them. They may have been carrying this pain by themselves for a long time.",
+      "sections_title": "Practical tips",
+      "section_title_3": "Let the participant choose: share or take a moment",
+      "section_text_3": "Hold the space for the participant to share, and give participants a choice: “Are you okay to continue in the session or would you like to go outside to compose yourself?”",
+      "section_title_4": "Openness creates more openness",
+      "section_text_4": "The experiences shared will help participants see that they are not the only one facing challenges. One person sharing will help others to open up as well.",
+      "section_title_5": "Sharing = solving",
+      "section_text_5": "Even if you cannot ‘solve’ an issue during the session or after the session, there is still a lot of power in giving participants the space to share, as the group will bear witness to the pain experienced. This is very empowering. Participants can share their experience and offer hive advice or comfort."
+    },
+    {
+      "id": "id_participation_faq2",
+      "title": "Participants are arriving late",
+      "_translations": {
+        "title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants are arriving late"
+        },
+        "sections_title": {
+          "eng": "Here are some ideas that may help you:"
+        },
+        "section_title_1": {
+          "eng": "1. Connect to ground rules"
+        },
+        "section_text_1": {
+          "eng": "Ensure that being on time is included in the ground rules. Before closing the session, revisit the ground rules on punctuality."
+        },
+        "section_title_2": {
+          "eng": "2. Explore consequences"
+        },
+        "section_text_2": {
+          "eng": "Explore with the group possible consequences for being on time or coming late, to emphasise why coming on time is important."
+        },
+        "section_title_3": {
+          "eng": "3. Use the buddy system"
+        },
+        "section_text_3": {
+          "eng": "You can make coming on time a shared responsibility by establishing a buddy system. Buddies can remind each other of the session start time or even come together."
+        },
+        "section_title_4": {
+          "eng": "4. Reconsider session timing"
+        },
+        "section_text_4": {
+          "eng": "It is possible that the timing of this session doesn’t work. Ask your group participants."
+        }
+      },
+      "section_title_1": "1. Connect to ground rules",
+      "section_text_1": "Ensure that being on time is included in the ground rules. Before closing the session, revisit the ground rules on punctuality.",
+      "section_title_2": "2. Explore consequences",
+      "section_text_2": "Explore with the group possible consequences for being on time or coming late, to emphasise why coming on time is important.",
+      "sections_title": "Here are some ideas that may help you:",
+      "section_title_3": "3. Use the buddy system",
+      "section_text_3": "You can make coming on time a shared responsibility by establishing a buddy system. Buddies can remind each other of the session start time or even come together.",
+      "section_title_4": "4. Reconsider session timing",
+      "section_text_4": "It is possible that the timing of this session doesn’t work. Ask your group participants."
+    },
+    {
+      "id": "id_participation_faq3",
+      "title": "Participants are not actively participating",
+      "_translations": {
+        "title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {},
+        "section_title_6": {},
+        "section_text_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants are not actively participating"
+        },
+        "section_title_1": {
+          "eng": "Reminder of ground rule"
+        },
+        "section_text_1": {
+          "eng": "Remind the group of the rule that everyone’s opinion is welcome in the group (or use this opportunity to add a ground rule like this)."
+        },
+        "section_title_2": {
+          "eng": "Explore importance"
+        },
+        "section_text_2": {
+          "eng": "Explore with your group why it is important that everyone contributes. Keep reminding the group that teens’ input and experiences add value to the group."
+        },
+        "section_title_3": {
+          "eng": "Problem-solve together"
+        },
+        "section_text_3": {
+          "eng": "Ask your group for advice on how to foster sharing. You might split into pairs or smaller groups and share findings with the big group afterwards. Emphasise the importance of respecting each other’s opinions."
+        },
+        "section_title_4": {
+          "eng": "Praise, praise, praise"
+        },
+        "section_text_4": {
+          "eng": "Praise makes a difference! Remember to praise every time a participant shares."
+        },
+        "section_title_5": {
+          "eng": "Ask direct questions"
+        },
+        "section_text_5": {
+          "eng": "If specific participants are not actively engaged, ask them questions directly. You can use the “catch the ball and answer” strategy: Throw an imaginary ball at any participant and ask them to respond to the question asked."
+        },
+        "section_title_6": {
+          "eng": "Do an energiser"
+        },
+        "section_text_6": {
+          "eng": "Tired participants are not active participants. Do a quick energiser to bring back energy to the group."
+        }
+      },
+      "section_title_1": "Reminder of ground rule",
+      "section_text_1": "Remind the group of the rule that everyone’s opinion is welcome in the group (or use this opportunity to add a ground rule like this).",
+      "section_title_2": "Explore importance",
+      "section_text_2": "Explore with your group why it is important that everyone contributes. Keep reminding the group that teens’ input and experiences add value to the group.",
+      "section_title_3": "Problem-solve together",
+      "section_text_3": "Ask your group for advice on how to foster sharing. You might split into pairs or smaller groups and share findings with the big group afterwards. Emphasise the importance of respecting each other’s opinions.",
+      "section_title_4": "Praise, praise, praise",
+      "section_text_4": "Praise makes a difference! Remember to praise every time a participant shares.",
+      "section_title_5": "Ask direct questions",
+      "section_text_5": "If specific participants are not actively engaged, ask them questions directly. You can use the “catch the ball and answer” strategy: Throw an imaginary ball at any participant and ask them to respond to the question asked.",
+      "section_title_6": "Do an energiser",
+      "section_text_6": "Tired participants are not active participants. Do a quick energiser to bring back energy to the group."
+    },
+    {
+      "id": "id_participation_faq4",
+      "title": "There is a long silence",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "There is a long silence"
+        },
+        "introduction": {
+          "eng": ""
+        },
+        "sections_title": {
+          "eng": "Try to identify why the silence is happening:"
+        },
+        "section_title_1": {
+          "eng": "1. Are participants confused?"
+        },
+        "section_text_1": {
+          "eng": "It might be that participants do not understand the question - simplify your question or break down your instructions into smaller steps to ensure that the group can follow well."
+        },
+        "section_title_2": {
+          "eng": "2. Are participants tired?"
+        },
+        "section_text_2": {
+          "eng": "Participants may be tired, especially if the session has been going on for a while. Do a quick energiser to bring back energy to the group."
+        },
+        "section_title_3": {
+          "eng": "3. Are participants reluctant to share?"
+        },
+        "section_text_3": {
+          "eng": "If the silence is caused by people being reluctant to share, try out the tips for the challenge ‘Participants do not actively participate’."
+        }
+      },
+      "introduction": "",
+      "section_title_1": "1. Are participants confused?",
+      "section_text_1": "It might be that participants do not understand the question - simplify your question or break down your instructions into smaller steps to ensure that the group can follow well.",
+      "section_title_2": "2. Are participants tired?",
+      "section_text_2": "Participants may be tired, especially if the session has been going on for a while. Do a quick energiser to bring back energy to the group.",
+      "sections_title": "Try to identify why the silence is happening:",
+      "section_title_3": "3. Are participants reluctant to share?",
+      "section_text_3": "If the silence is caused by people being reluctant to share, try out the tips for the challenge ‘Participants do not actively participate’."
+    },
+    {
+      "id": "id_participation_faq5",
+      "title": "Some participants talk too much",
+      "_translations": {
+        "title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Some participants talk too much"
+        },
+        "section_title_1": {
+          "eng": "Remind of ground rule"
+        },
+        "section_text_1": {
+          "eng": "⏱️Remind the group of your ground rule that everyone’s opinion is welcome in the group (or use the opportunity to add a ground rule like this.)"
+        },
+        "section_title_2": {
+          "eng": "Thank, then invite others"
+        },
+        "section_text_2": {
+          "eng": "⏱️Thank the person who wants to contribute and say: “Let's give others a chance to share as well”."
+        },
+        "section_title_3": {
+          "eng": "Ask to keep responses short, then shift to others"
+        },
+        "section_text_3": {
+          "eng": "⏱️If someone generally gives long responses, you can say: “I always appreciate your contributions. Could you please share a shorter response so I can summarise your point before moving on to the next point?”. Then paraphrase their point, thank them, and say “Now let’s hear what others think. Bibi, I have not heard from you in a while - what do you think?”."
+        },
+        "section_title_4": {
+          "eng": "Limit to sharing one thought"
+        },
+        "section_text_4": {
+          "eng": "⏱️You can limit the length of responses as well by saying: “For this question, everyone can share one idea, so others also get a chance to share.”"
+        }
+      },
+      "section_title_1": "Remind of ground rule",
+      "section_text_1": "⏱️Remind the group of your ground rule that everyone’s opinion is welcome in the group (or use the opportunity to add a ground rule like this.)",
+      "section_title_2": "Thank, then invite others",
+      "section_text_2": "⏱️Thank the person who wants to contribute and say: “Let's give others a chance to share as well”.",
+      "section_title_3": "Ask to keep responses short, then shift to others",
+      "section_text_3": "⏱️If someone generally gives long responses, you can say: “I always appreciate your contributions. Could you please share a shorter response so I can summarise your point before moving on to the next point?”. Then paraphrase their point, thank them, and say “Now let’s hear what others think. Bibi, I have not heard from you in a while - what do you think?”.",
+      "section_title_4": "Limit to sharing one thought",
+      "section_text_4": "⏱️You can limit the length of responses as well by saying: “For this question, everyone can share one idea, so others also get a chance to share.”"
+    },
+    {
+      "id": "id_participation_faq6",
+      "title": "The same participants volunteer to do activities every time",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The same participants volunteer to do activities every time"
+        },
+        "introduction": {
+          "eng": "🔑Explain that you would like to give everyone a chance to try out the activities: “Thank you for volunteering. It would be great if others get a chance to try this as well.”, and select another participant."
+        }
+      },
+      "introduction": "🔑Explain that you would like to give everyone a chance to try out the activities: “Thank you for volunteering. It would be great if others get a chance to try this as well.”, and select another participant."
+    },
+    {
+      "id": "id_participation_faq7",
+      "title": "Some participants who wanted to share did not get a chance",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Some participants who wanted to share did not get a chance"
+        },
+        "introduction": {
+          "eng": "Thank participants, explain your time constraints, and invite others to share in the next activity or session. For example:: \n“Thank you for sharing, I see this discussion is really interesting for you! For the sake of time we have to move on now. You will get another opportunity to share in the next discussion/session”."
+        }
+      },
+      "introduction": "Thank participants, explain your time constraints, and invite others to share in the next activity or session. For example:: \n“Thank you for sharing, I see this discussion is really interesting for you! For the sake of time we have to move on now. You will get another opportunity to share in the next discussion/session”."
+    },
+    {
+      "id": "id_participation_faq8",
+      "title": "Participants do not feel comfortable sharing in front of their parent or teen",
+      "_translations": {
+        "title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants do not feel comfortable sharing in front of their parent or teen"
+        },
+        "section_title_1": {
+          "eng": "Parents do not feel comfortable talking with their teen"
+        },
+        "section_text_1": {
+          "eng": "Parents may not be used to spending time with their teens and discussing together. Let them know it is normal to feel uncomfortable at first.\n\nExplore the benefits of spending 1-on-1 time together. Emphasise that that is how parents and teens build trust and confidence to talk about more challenging topics and deal with difficult situations together.\n\nHelp parents think about their own past and about what they would have loved to discuss with their own parents. \n\nExplore the realities and risks that teens need to navigate, and ask what role parents should take: “In our society, do these things happen? How much knowledge do our teens have and what risks do they run? How can we help them?” \n\nExplore the consequences of parents and teens not talking about difficult topics: \r“If parents and teens do not talk about these topics, where will teens get this information?” Explore how these sources may give inaccurate or incomplete information and what the consequences are."
+        },
+        "section_title_2": {
+          "eng": "Teens do not feel comfortable talking with their parents"
+        },
+        "section_text_2": {
+          "eng": "Teens are often not used to spending time with their parents and discussing together. Emphasise that it is normal to feel uncomfortable at first. \n\nExplore the benefits of spending 1-on-1 time together. Emphasise that that is how parents and teens build trust and confidence to talk about more challenging topics and deal with difficult situations together.\n\nHelp teens understand that they also have a responsibility, now that they are not young children anymore. Their parents cannot read their minds, so they will need to learn how to share their feelings and experiences with their parents - even when the parent does not ask for this.\n\nEmphasise that the group is a safe space. Remind them of the ground rules that every opinion is valuable and respected. \n\nWhenever one of the teenagers shares, make sure to praise their contributions explicitly. This will encourage other teens to also open up more."
+        }
+      },
+      "section_title_1": "Parents do not feel comfortable talking with their teen",
+      "section_text_1": "Parents may not be used to spending time with their teens and discussing together. Let them know it is normal to feel uncomfortable at first.\n\nExplore the benefits of spending 1-on-1 time together. Emphasise that that is how parents and teens build trust and confidence to talk about more challenging topics and deal with difficult situations together.\n\nHelp parents think about their own past and about what they would have loved to discuss with their own parents. \n\nExplore the realities and risks that teens need to navigate, and ask what role parents should take: “In our society, do these things happen? How much knowledge do our teens have and what risks do they run? How can we help them?” \n\nExplore the consequences of parents and teens not talking about difficult topics: \r“If parents and teens do not talk about these topics, where will teens get this information?” Explore how these sources may give inaccurate or incomplete information and what the consequences are.",
+      "section_title_2": "Teens do not feel comfortable talking with their parents",
+      "section_text_2": "Teens are often not used to spending time with their parents and discussing together. Emphasise that it is normal to feel uncomfortable at first. \n\nExplore the benefits of spending 1-on-1 time together. Emphasise that that is how parents and teens build trust and confidence to talk about more challenging topics and deal with difficult situations together.\n\nHelp teens understand that they also have a responsibility, now that they are not young children anymore. Their parents cannot read their minds, so they will need to learn how to share their feelings and experiences with their parents - even when the parent does not ask for this.\n\nEmphasise that the group is a safe space. Remind them of the ground rules that every opinion is valuable and respected. \n\nWhenever one of the teenagers shares, make sure to praise their contributions explicitly. This will encourage other teens to also open up more."
+    },
+    {
+      "id": "id_participation_faq9",
+      "title": "I don’t know how to handle participants with special needs",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I don’t know how to handle participants with special needs"
+        },
+        "introduction": {
+          "eng": "Know your participants before your group sessions. Be observant during recruitment to pick up on any specific needs your participants may have."
+        },
+        "section_title_1": {
+          "eng": "Participants cannot read or write"
+        },
+        "section_text_1": {
+          "eng": "Be creative during sessions! Use pictures, drawings, and role-plays to show what you are trying to communicate. \n\nFor example, when creating ground rules, you can draw a clock for time-keeping. \n\nWhen writing on the flipchart, use simple language and recap what was said.\n\nTeens are more likely to be able to read and write and can often assist their caregivers during activities like budgeting.\n\nIt can feel embarrassing for participants to not be able to write. If you see participants are reluctant to sign the attendance register, agree on a good solution with your supervisor (e.g. you can tick attendance)."
+        },
+        "section_title_2": {
+          "eng": "Participants cannot participate in an activity because of their disability"
+        },
+        "section_text_2": {
+          "eng": "Try to make every activity accessible for all! \n\nBe observant of any challenges participants may experience and find creative solutions. Encourage participants to participate to the best of their ability. \n\nIf a participant struggles to stand during an activity, let them sit down and give verbal input. \n\nInvolve the group as needed. For example, if someone struggles to hear, other participants can speak louder or you can sit next to them to recap what is being said."
+        }
+      },
+      "introduction": "Know your participants before your group sessions. Be observant during recruitment to pick up on any specific needs your participants may have.",
+      "section_title_1": "Participants cannot read or write",
+      "section_text_1": "Be creative during sessions! Use pictures, drawings, and role-plays to show what you are trying to communicate. \n\nFor example, when creating ground rules, you can draw a clock for time-keeping. \n\nWhen writing on the flipchart, use simple language and recap what was said.\n\nTeens are more likely to be able to read and write and can often assist their caregivers during activities like budgeting.\n\nIt can feel embarrassing for participants to not be able to write. If you see participants are reluctant to sign the attendance register, agree on a good solution with your supervisor (e.g. you can tick attendance).",
+      "section_title_2": "Participants cannot participate in an activity because of their disability",
+      "section_text_2": "Try to make every activity accessible for all! \n\nBe observant of any challenges participants may experience and find creative solutions. Encourage participants to participate to the best of their ability. \n\nIf a participant struggles to stand during an activity, let them sit down and give verbal input. \n\nInvolve the group as needed. For example, if someone struggles to hear, other participants can speak louder or you can sit next to them to recap what is being said."
+    },
+    {
+      "id": "id_facilitation",
+      "related_article_id_1": "id_facilitation_faq1",
+      "related_article_id_2": "id_facilitation_faq2",
+      "related_article_id_3": "id_facilitation_faq3",
+      "related_article_id_4": "id_facilitation_faq4",
+      "title": "Group Facilitation",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group Facilitation"
+        },
+        "introduction": {
+          "eng": "* Good news! Almost every challenge you encounter as a facilitator can be resolved using the facilitation skills you learned during your training. \n* Whatever the challenge is, be positive and encouraging to make everyone feel welcome, valued and supported as equal members of the group. \n* Remind participants of the ground rules you created together, whenever needed. As a group, you set the boundaries to make your group work well! \n* Invite participants to identify their own solutions. You can guide them by asking how a situation makes them feel and by exploring the (possible) consequences of a behaviour or proposed solution. \n* Speak from your heart and in your own words, based on your great HHPP knowledge. This creates the safe space that is needed for everyone to work together well.\nYou are the expert!"
+        },
+        "related_articles_title": {
+          "eng": "I need support with a specific challenge:"
+        }
+      },
+      "introduction": "* Good news! Almost every challenge you encounter as a facilitator can be resolved using the facilitation skills you learned during your training. \n* Whatever the challenge is, be positive and encouraging to make everyone feel welcome, valued and supported as equal members of the group. \n* Remind participants of the ground rules you created together, whenever needed. As a group, you set the boundaries to make your group work well! \n* Invite participants to identify their own solutions. You can guide them by asking how a situation makes them feel and by exploring the (possible) consequences of a behaviour or proposed solution. \n* Speak from your heart and in your own words, based on your great HHPP knowledge. This creates the safe space that is needed for everyone to work together well.\nYou are the expert!",
+      "related_articles_title": "I need support with a specific challenge:",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "icon_asset": "/images/id_facilitation.png"
+    },
+    {
+      "id": "id_facilitation_faq1",
+      "title": "Activities take more time than anticipated",
+      "_translations": {
+        "title": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Activities take more time than anticipated"
+        },
+        "section_title_1": {
+          "eng": "Group discussions are taking too long"
+        },
+        "section_text_1": {
+          "eng": "* After small group discussions, select only a few participants (not all) to share their experiences. Stop once you have heard the learning points you are looking for.\n* As soon as participants have shared those answers, summarise the key learnings and move to the next question.\n* If participants struggle to get to the required learning points, simplify the question to ease understanding and link the question to participants’ personal experience (e.g. “If this happened to you, how would you/your teen feel?”). \n* Simplify and/or translate words that may be difficult to understand. \n* Know your group: If your group loves to engage in specific discussions, frame the discussion in advance (e.g. “I know this discussion will be so exciting. If you don’t get a chance to share now, there will be more opportunities”). \n* Work together as co-facilitators. Plan together and help your co-facilitator keep track of time - if they go over time, signal to them discreetly that it is time to move to the next activity."
+        },
+        "section_title_2": {
+          "eng": "Introducing the session takes too much time"
+        },
+        "section_text_2": {
+          "eng": "* Know the goal of your session: What do you want participants to learn? \n* Read and understand the facilitator notes at the start of the session. \n* Pick out the key points of the session and write out a short summary. This can be as short as 3 sentences! \n* Add one sentence to explain how the current session relates to the previous session."
+        }
+      },
+      "section_title_1": "Group discussions are taking too long",
+      "section_text_1": "* After small group discussions, select only a few participants (not all) to share their experiences. Stop once you have heard the learning points you are looking for.\n* As soon as participants have shared those answers, summarise the key learnings and move to the next question.\n* If participants struggle to get to the required learning points, simplify the question to ease understanding and link the question to participants’ personal experience (e.g. “If this happened to you, how would you/your teen feel?”). \n* Simplify and/or translate words that may be difficult to understand. \n* Know your group: If your group loves to engage in specific discussions, frame the discussion in advance (e.g. “I know this discussion will be so exciting. If you don’t get a chance to share now, there will be more opportunities”). \n* Work together as co-facilitators. Plan together and help your co-facilitator keep track of time - if they go over time, signal to them discreetly that it is time to move to the next activity.",
+      "section_title_2": "Introducing the session takes too much time",
+      "section_text_2": "* Know the goal of your session: What do you want participants to learn? \n* Read and understand the facilitator notes at the start of the session. \n* Pick out the key points of the session and write out a short summary. This can be as short as 3 sentences! \n* Add one sentence to explain how the current session relates to the previous session."
+    },
+    {
+      "id": "id_facilitation_faq2",
+      "title": "Participants question my abilities as a facilitator (saying I am too young, inexperienced, or do not have children)",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants question my abilities as a facilitator (saying I am too young, inexperienced, or do not have children)"
+        },
+        "introduction": {
+          "eng": "* Prevent these challenges by putting yourself in the parents’ shoes and speaking of ‘us parents’ from the start of the programme. Remember, you can have experience with children without having your own children!\n* Emphasise that participants and facilitators are all equal and have valuable contributions to make.\n* Plan and prepare well for your session. That will build trust and confidence over time."
+        }
+      },
+      "introduction": "* Prevent these challenges by putting yourself in the parents’ shoes and speaking of ‘us parents’ from the start of the programme. Remember, you can have experience with children without having your own children!\n* Emphasise that participants and facilitators are all equal and have valuable contributions to make.\n* Plan and prepare well for your session. That will build trust and confidence over time."
+    },
+    {
+      "id": "id_facilitation_faq3",
+      "title": "Participants have a disagreement with each other",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants have a disagreement with each other"
+        },
+        "introduction": {
+          "eng": "Stay neutral. Do not take sides in the discussion: \n1. Remind participants of the ground rules they agreed on (everyone’s opinion and experience is welcome, it is okay for people to have different views, raise your hand before sharing).\n2. Then ask the group for other thoughts, to divert from the disagreement between the participants. \n3. After the session, have a 1-on-1 check-in with both participants to check if they feel they were heard or if they still want to explain themselves more. This can prevent participants from dropping out of the programme."
+        }
+      },
+      "introduction": "Stay neutral. Do not take sides in the discussion: \n1. Remind participants of the ground rules they agreed on (everyone’s opinion and experience is welcome, it is okay for people to have different views, raise your hand before sharing).\n2. Then ask the group for other thoughts, to divert from the disagreement between the participants. \n3. After the session, have a 1-on-1 check-in with both participants to check if they feel they were heard or if they still want to explain themselves more. This can prevent participants from dropping out of the programme."
+    },
+    {
+      "id": "id_facilitation_faq4",
+      "title": "Participants share personal information outside of the group",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants share personal information outside of the group"
+        },
+        "introduction": {
+          "eng": "If a participant shared confidential information, lead a group discussion on confidentiality:\n\n- **Remind** your group of the ground rules, emphasising the importance of keeping personal stories private. \n- **Identify the issue and explore emotions** \"This has come to my attention, and I would just like to find out from all of you how would you feel if someone you trusted shared your private information? (sad, betrayed etc.) Do you think the person whose information was shared felt those emotions?” (they will probably agree) \n- **Identify possible solutions** “What do you think is the right thing to do for the person who shared the information?” (e.g., apologise)\n- **Accept the answer** \"Thank you very much. If you shared someone’s private information, please take the time to apologise to them.” \n- **Thank participants for sharing and emphasise also what CAN be shared** “Thank you everyone for your contributions, and just remember, you can share all the skills and songs that we learn, but let’s keep personal information in this safe space.”\n- **End discussion with an energiser** to bring back positive energy to the space, before continuing with your session.  \n   \nIf the situation persists, have a separate 1-on-1 conversation with the participants involved."
+        }
+      },
+      "introduction": "If a participant shared confidential information, lead a group discussion on confidentiality:\n\n- **Remind** your group of the ground rules, emphasising the importance of keeping personal stories private. \n- **Identify the issue and explore emotions** \"This has come to my attention, and I would just like to find out from all of you how would you feel if someone you trusted shared your private information? (sad, betrayed etc.) Do you think the person whose information was shared felt those emotions?” (they will probably agree) \n- **Identify possible solutions** “What do you think is the right thing to do for the person who shared the information?” (e.g., apologise)\n- **Accept the answer** \"Thank you very much. If you shared someone’s private information, please take the time to apologise to them.” \n- **Thank participants for sharing and emphasise also what CAN be shared** “Thank you everyone for your contributions, and just remember, you can share all the skills and songs that we learn, but let’s keep personal information in this safe space.”\n- **End discussion with an energiser** to bring back positive energy to the space, before continuing with your session.  \n   \nIf the situation persists, have a separate 1-on-1 conversation with the participants involved."
+    },
+    {
+      "id": "id_facilitation_faq5",
+      "title": "Participants only share positive emotions during check-in",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants only share positive emotions during check-in"
+        },
+        "introduction": {
+          "eng": "* During the first group sessions, you are still building a relationship and trust in the group, so people may not share how they really feel (especially if people are not used to sharing their emotions).\n* If by session 3 you are only hearing positive emotions, model emotion sharing in the 4th check-in by sharing your own challenging emotions. \n* Remember to remind participants that all emotions are normal and welcome in the space."
+        }
+      },
+      "introduction": "* During the first group sessions, you are still building a relationship and trust in the group, so people may not share how they really feel (especially if people are not used to sharing their emotions).\n* If by session 3 you are only hearing positive emotions, model emotion sharing in the 4th check-in by sharing your own challenging emotions. \n* Remember to remind participants that all emotions are normal and welcome in the space."
+    },
+    {
+      "id": "id_facilitation_faq6",
+      "resource_data_1": "media",
+      "resource_id_1": "facilitatortestimonial",
+      "resource_data_2": "media",
+      "title": "Participants suggest a solution that is not helpful",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "resource_title_2": {},
+        "resource_title_1": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants suggest a solution that is not helpful"
+        },
+        "introduction": {
+          "eng": "1. Stay friendly and accept what was shared.\n2. Explore the consequences of the suggested action. Encourage the participant to identify the negative outcomes on their own by exploring the impact the solution has on people’s feelings and the teen/parent relationship. \n3. Help the participant to come up with an alternative solution by asking, “What else could you try to solve this situation?”.\n4. Once a better solution is offered, connect the new solution to the building blocks learned in your sessions."
+        },
+        "resource_title_1": {
+          "eng": "Facilitator Testimonial"
+        },
+        "resource_title_2": {
+          "eng": "Example Scenario"
+        }
+      },
+      "introduction": "1. Stay friendly and accept what was shared.\n2. Explore the consequences of the suggested action. Encourage the participant to identify the negative outcomes on their own by exploring the impact the solution has on people’s feelings and the teen/parent relationship. \n3. Help the participant to come up with an alternative solution by asking, “What else could you try to solve this situation?”.\n4. Once a better solution is offered, connect the new solution to the building blocks learned in your sessions.",
+      "resource_title_2": "Example Scenario",
+      "resource_id_2": "examplescenario",
+      "resource_title_1": "Facilitator Testimonial"
+    },
+    {
+      "id": "id_facilitation_faq7",
+      "title": "I forgot to do an activity or draw out a building block",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I forgot to do an activity or draw out a building block"
+        },
+        "introduction": {
+          "eng": "* Each session has a lot of activities and building blocks, so it can happen that you forget to cover one - that is okay! Our co-facilitator is our back-up plan. The co-facilitator can respectfully come in to remind the group of an important activity or building block. \n* If you remember the building block *after* the session, make a plan with your co-facilitator to recap the activity or building block during the next session. Write a reminder on your notebook or manual so you remember."
+        }
+      },
+      "introduction": "* Each session has a lot of activities and building blocks, so it can happen that you forget to cover one - that is okay! Our co-facilitator is our back-up plan. The co-facilitator can respectfully come in to remind the group of an important activity or building block. \n* If you remember the building block *after* the session, make a plan with your co-facilitator to recap the activity or building block during the next session. Write a reminder on your notebook or manual so you remember."
+    },
+    {
+      "id": "id_facilitation_faq8",
+      "title": "My co-facilitator disrespects me",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "My co-facilitator disrespects me"
+        },
+        "introduction": {
+          "eng": "* Working together can be challenging. It is important to work as a team, with an equal division of tasks and mutual support. \n* After every session, sit down with your co-facilitator and chat about how things went. Talk about how you worked together and if any problems came up. Be honest and kind to each other. If you're not sure how to fix something, ask your coach or trainer for help.\n\n* As facilitators, we set an example for the families in our group. That means it's crucial to communicate nicely and back each other up. Show everyone how to be positive and supportive."
+        }
+      },
+      "introduction": "* Working together can be challenging. It is important to work as a team, with an equal division of tasks and mutual support. \n* After every session, sit down with your co-facilitator and chat about how things went. Talk about how you worked together and if any problems came up. Be honest and kind to each other. If you're not sure how to fix something, ask your coach or trainer for help.\n\n* As facilitators, we set an example for the families in our group. That means it's crucial to communicate nicely and back each other up. Show everyone how to be positive and supportive."
+    },
+    {
+      "id": "id_facilitation_faq9",
+      "title": "Participants expect support beyond what the programme offers, such as financial support",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participants expect support beyond what the programme offers, such as financial support"
+        },
+        "introduction": {
+          "eng": "* Before kicking off the program, touch base with your coordinator to know what's covered and what's not (like, will participants get snacks, certificates, etc.).\n* When recruiting and in the first session, keep expectations clear. Remind participants about the program's goal and any perks they might get. Keep doing this whenever there are requests you can't fulfil.\n* Figure out what support services are around for referrals beyond the parenting skills you're teaching."
+        }
+      },
+      "introduction": "* Before kicking off the program, touch base with your coordinator to know what's covered and what's not (like, will participants get snacks, certificates, etc.).\n* When recruiting and in the first session, keep expectations clear. Remind participants about the program's goal and any perks they might get. Keep doing this whenever there are requests you can't fulfil.\n* Figure out what support services are around for referrals beyond the parenting skills you're teaching."
+    },
+    {
+      "id": "id_facilitation_faq10",
+      "title": "Parents want to bring more than one teen to group sessions",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Parents want to bring more than one teen to group sessions"
+        },
+        "introduction": {
+          "eng": "* Before you kick off the program, chat with your coordinator to know how many parents and teens should be in your group. During recruiting, tell families how many teens can join their parents in the sessions. \n* Encourage them to pick which teen joins (to dodge conflicts) and how they'll share what they learn at home.\n* Tell everyone they can use the new skills with all the teens at home, for everyone's benefit.\n* During follow-up calls, let participants put their phone on speaker so everyone at home can join in."
+        }
+      },
+      "introduction": "* Before you kick off the program, chat with your coordinator to know how many parents and teens should be in your group. During recruiting, tell families how many teens can join their parents in the sessions. \n* Encourage them to pick which teen joins (to dodge conflicts) and how they'll share what they learn at home.\n* Tell everyone they can use the new skills with all the teens at home, for everyone's benefit.\n* During follow-up calls, let participants put their phone on speaker so everyone at home can join in."
+    },
+    {
+      "id": "id_recruitment",
+      "related_article_id_1": "id_manage_expectations",
+      "title": "Recruitment",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Recruitment"
+        },
+        "introduction": {
+          "eng": "Let participants experience what they will experience during the group sessions. We are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme."
+        },
+        "sections_title": {
+          "eng": "Steps of introducing the programme"
+        },
+        "section_title_1": {
+          "eng": "Step 1: Greeting & Introduction"
+        },
+        "section_text_1": {
+          "eng": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”"
+        },
+        "section_title_2": {
+          "eng": "Step 2: Invitation"
+        },
+        "section_text_2": {
+          "eng": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”"
+        },
+        "section_title_3": {
+          "eng": "Step 3: Introduce survey & manage expectations"
+        },
+        "section_text_3": {
+          "eng": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\n* Some questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\n* Raising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”"
+        },
+        "section_title_4": {
+          "eng": "Complete survey and invite for first session"
+        },
+        "section_text_4": {
+          "eng": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session."
+        },
+        "related_articles_title": {
+          "eng": "Managing Expectations"
+        }
+      },
+      "introduction": "Let participants experience what they will experience during the group sessions. We are all trying to meet targets, but taking your time will make it more likely that participants will join and stay in the programme.",
+      "section_title_1": "Step 1: Greeting & Introduction",
+      "section_text_1": "How this can sound:\n“Mama Jean, so nice to meet you. My name is Sussie Mwjara from CWBSA. I am here today in your community, and you will see me around for the next few days.”",
+      "section_title_2": "Step 2: Invitation",
+      "section_text_2": "How this can sound:\n“We are trying to get together a group of parents to discuss the journey of parenting. We all know that it can be hard to raise children, so this is an opportunity to support each other. I would love for you to join us.”",
+      "related_articles_title": "Managing Expectations",
+      "sections_title": "Steps of introducing the programme",
+      "section_title_3": "Step 3: Introduce survey & manage expectations",
+      "section_text_3": "How this can sound:\n “Before we start the group, there are a few questions I would love to ask you, so we can better identify areas in which we can support each other. Some questions may be uncomfortable or may paint a different picture – as much as some questions may give you an idea that we will give you more than the group discussions, but I just want to emphasise there is no money reward. All that we are going to do is sit together, share ideas, and support each other.\n* Some questions will ask about money – those questions are there because money challenges can make us do things that are not helping our family, so it is important to know if these challenges are there in our group.\n* Raising kids is not easy. Being a teenager is not easy. We are going to learn about managing our stress and managing our finances – and if we don’t have income, we are going to learn things that will help us generate more income.”",
+      "section_title_4": "Complete survey and invite for first session",
+      "section_text_4": "Complete the survey with both the parent and the teenager (one teenager only, selected by the family), and ensure you invite both to the first parent-teen group session.",
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_recruitment.png"
+    },
+    {
+      "id": "id_pre_homevisit",
+      "title": "Initial home visit",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Initial home visit"
+        },
+        "introduction": {
+          "eng": "The first home visit helps you understand the family's needs and set realistic expectations. It also lets families learn about the program, ask questions, and share concerns. This makes sure the program is a journey for the whole family."
+        },
+        "sections_title": {
+          "eng": "What should I do during the home visit?"
+        },
+        "section_title_1": {
+          "eng": "Get to know the family"
+        },
+        "section_text_1": {
+          "eng": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\n* Who is the main caregiver?\n* How many children and teens are there?\n* Who are the main caregivers?\n* What are caregivers’ professions?\n* Which challenges are they facing as a family?\n* What support or other programmes are available to them? \n* Which challenges can prevent them from attending the sessions on a weekly basis?"
+        },
+        "section_title_2": {
+          "eng": "Set realistic goals - the basics"
+        },
+        "section_text_2": {
+          "eng": "* It is important that each family sets one goal they want to achieve as part of the programme. Help them to set a goal which will be (1) realistic, (2) positive and (3) actionable.\n\r* Realistic – Based on your experience, can it be achieved within 9 weeks? If not, help the parent to think about a more modest goal.\n* Positive – Goals should be rephrased from negative language (“I want my teen to stop being selfish”) to positive language (“I want to get more help with house chores.”)\n* Parent-focused - Explore how the parent can contribute to achieving this goal"
+        },
+        "section_title_3": {
+          "eng": "Set realistic goals - Scenario"
+        },
+        "section_text_3": {
+          "eng": "Ask participants what they want to achieve during the program. If their goal is negative, help them turn it into a positive one. Make sure the goals can be reached within 14 weeks, and rephrase them if needed.\n\r**Parent:** I want to see my child go to University.\r**Facilitator:** Your goal is to see your child go to university. Our programme is 9 weeks long. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r**Parent:** Yes, I can help my child so they improve their marks in school this semester.\r**Facilitator:** Great! So your goal can be *Get ideas on how to help my child to improve his marks in school this semester.*\n \nMake the goals focused on what the individual can do, rather than what their parent or teen can do. \"What steps can you take to achieve that goal?\" (e.g., if your goal is for your child to listen, what actions can you take as a parent?)"
+        },
+        "section_title_4": {
+          "eng": "Things to remember"
+        },
+        "section_text_4": {
+          "eng": "* Aim to have all household members attend to boost collaboration throughout the program.\n* Strive to make it a conversation rather than just a Q&A session.\n* Employ facilitation skills such as acknowledging, connecting, and exploring to strengthen the bond between everyone involved."
+        }
+      },
+      "introduction": "The first home visit helps you understand the family's needs and set realistic expectations. It also lets families learn about the program, ask questions, and share concerns. This makes sure the program is a journey for the whole family.",
+      "section_title_1": "Get to know the family",
+      "section_text_1": "Try to get as much as information as possible about the household, for example:\r Who lives in the house?\n* Who is the main caregiver?\n* How many children and teens are there?\n* Who are the main caregivers?\n* What are caregivers’ professions?\n* Which challenges are they facing as a family?\n* What support or other programmes are available to them? \n* Which challenges can prevent them from attending the sessions on a weekly basis?",
+      "section_title_2": "Set realistic goals - the basics",
+      "section_text_2": "* It is important that each family sets one goal they want to achieve as part of the programme. Help them to set a goal which will be (1) realistic, (2) positive and (3) actionable.\n\r* Realistic – Based on your experience, can it be achieved within 9 weeks? If not, help the parent to think about a more modest goal.\n* Positive – Goals should be rephrased from negative language (“I want my teen to stop being selfish”) to positive language (“I want to get more help with house chores.”)\n* Parent-focused - Explore how the parent can contribute to achieving this goal",
+      "sections_title": "What should I do during the home visit?",
+      "section_title_3": "Set realistic goals - Scenario",
+      "section_text_3": "Ask participants what they want to achieve during the program. If their goal is negative, help them turn it into a positive one. Make sure the goals can be reached within 14 weeks, and rephrase them if needed.\n\r**Parent:** I want to see my child go to University.\r**Facilitator:** Your goal is to see your child go to university. Our programme is 9 weeks long. Will your child be able to go to university in 9 weeks from now? Is there a quicker goal that can help your child go to university?\r**Parent:** Yes, I can help my child so they improve their marks in school this semester.\r**Facilitator:** Great! So your goal can be *Get ideas on how to help my child to improve his marks in school this semester.*\n \nMake the goals focused on what the individual can do, rather than what their parent or teen can do. \"What steps can you take to achieve that goal?\" (e.g., if your goal is for your child to listen, what actions can you take as a parent?)",
+      "section_title_4": "Things to remember",
+      "section_text_4": "* Aim to have all household members attend to boost collaboration throughout the program.\n* Strive to make it a conversation rather than just a Q&A session.\n* Employ facilitation skills such as acknowledging, connecting, and exploring to strengthen the bond between everyone involved.",
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_pre_homevisit.png"
+    },
+    {
+      "id": "id_manage_expectations",
+      "related_article_id_1": "id_recruitment",
+      "title": "How to manage expectations",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "related_articles_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "How to manage expectations"
+        },
+        "introduction": {
+          "eng": "Parents may have different expectations from the group and from you as a facilitator. Unrealistic expectations can cause frustration and may lead them to leave the group. It's crucial to identify and address these expectations early on. Here's how:"
+        },
+        "section_title_1": {
+          "eng": "Identify the source of expectations"
+        },
+        "section_text_1": {
+          "eng": "* Some participants may expect certain things based on their experiences with other programs, like snacks or transportation. This could be especially true if they've used other services from our organisation before, which might raise their expectations.\n* Certain questions in the pre-post survey might make participants think the program will provide material support, such as asking about missed meals in the last week. Make sure to clarify the survey's purpose: \n* Families might have misconceptions about the program that could stop them from joining or cause them to drop out. Common misunderstandings to address include:\n  - \"This program is only for 'bad' parents or children.\"\n  - \"This program is only for a specific group, like orphans.\"\n  - \"This program is only for female caregivers.\""
+        },
+        "section_title_2": {
+          "eng": "How to respond"
+        },
+        "section_text_2": {
+          "eng": "* Set HHPP apart\nExplain that HHPP is different from past programs participants may have joined. Make it clear they won't receive material rewards for joining HHPP, but highlight the unique benefits it offers, without putting down other programs.\nYou can't control what others say to participants before the program starts. What you CAN control is what you share during home visits and group sessions.\n\n* Believe in the program's value\nHave confidence in the value HHPP brings to families. Remember, HHPP's long-term impact on parents, teens, and families is more valuable than temporary material rewards.\n\n* Foster group ownership\nEncourage participants to come up with their own ideas instead of providing all the answers. When they feel ownership of the group, they'll rely less on you and your organisation for solutions. The group will start supporting each other and might even pool resources for activities like graduation.\n\n* Create room for concerns\nGive caregivers plenty of space to ask questions during recruitment and throughout the program. Building good relationships with each participant will make them feel comfortable sharing concerns, potentially preventing dropouts.\n\n* Stay aware of other programs\nYour organisation, or others, may offer different programs in the communities you serve. Stay informed about these programs so you can address any expectations or ideas they may have raised about HHPP."
+        },
+        "related_articles_title": {
+          "eng": "Recruitment Steps"
+        }
+      },
+      "introduction": "Parents may have different expectations from the group and from you as a facilitator. Unrealistic expectations can cause frustration and may lead them to leave the group. It's crucial to identify and address these expectations early on. Here's how:",
+      "section_title_1": "Identify the source of expectations",
+      "section_text_1": "* Some participants may expect certain things based on their experiences with other programs, like snacks or transportation. This could be especially true if they've used other services from our organisation before, which might raise their expectations.\n* Certain questions in the pre-post survey might make participants think the program will provide material support, such as asking about missed meals in the last week. Make sure to clarify the survey's purpose: \n* Families might have misconceptions about the program that could stop them from joining or cause them to drop out. Common misunderstandings to address include:\n  - \"This program is only for 'bad' parents or children.\"\n  - \"This program is only for a specific group, like orphans.\"\n  - \"This program is only for female caregivers.\"",
+      "section_title_2": "How to respond",
+      "section_text_2": "* Set HHPP apart\nExplain that HHPP is different from past programs participants may have joined. Make it clear they won't receive material rewards for joining HHPP, but highlight the unique benefits it offers, without putting down other programs.\nYou can't control what others say to participants before the program starts. What you CAN control is what you share during home visits and group sessions.\n\n* Believe in the program's value\nHave confidence in the value HHPP brings to families. Remember, HHPP's long-term impact on parents, teens, and families is more valuable than temporary material rewards.\n\n* Foster group ownership\nEncourage participants to come up with their own ideas instead of providing all the answers. When they feel ownership of the group, they'll rely less on you and your organisation for solutions. The group will start supporting each other and might even pool resources for activities like graduation.\n\n* Create room for concerns\nGive caregivers plenty of space to ask questions during recruitment and throughout the program. Building good relationships with each participant will make them feel comfortable sharing concerns, potentially preventing dropouts.\n\n* Stay aware of other programs\nYour organisation, or others, may offer different programs in the communities you serve. Stay informed about these programs so you can address any expectations or ideas they may have raised about HHPP.",
+      "related_articles_title": "Recruitment Steps",
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_manage_expectations.png"
+    },
+    {
+      "id": "id_coaching",
+      "related_article_id_1": "id_coaching_faq2",
+      "title": "Coaching",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Coaching"
+        },
+        "introduction": {
+          "eng": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together."
+        },
+        "sections_title": {
+          "eng": "What should I expect from my coaching session?"
+        },
+        "section_title_1": {
+          "eng": "Reflection on successes"
+        },
+        "section_text_1": {
+          "eng": "* Sharing successes is vital. What works for you can help your colleagues, and vice versa!\n* Delivering HHPP can be tough, but by sharing successes, we keep focused on the positive impact on families and communities."
+        },
+        "section_title_2": {
+          "eng": "Reflection on challenges & identifying solutions"
+        },
+        "section_text_2": {
+          "eng": "* No matter the challenges, together we can brainstorm solutions. In coaching sessions, we practice these solutions through role-play before using them with participants.\n* Coaching sessions also let you talk with your supervisor about families needing extra support beyond HHPP. Remember, we only make referrals with the family's permission, unless it's a serious child protection issue risking a child's safety."
+        },
+        "section_title_3": {
+          "eng": "Preparing for the next session"
+        },
+        "section_text_3": {
+          "eng": "Preparation ensures success in the upcoming session. In coaching sessions, you can ask about activities, divide tasks with your co-facilitator, and practice activities if needed."
+        },
+        "related_articles_title": {
+          "eng": "I already need support with a specific challenge:"
+        }
+      },
+      "introduction": "During coaching sessions we receive feedback and support from other facilitators and an experienced coach. Sharing our successes and challenges with colleagues helps to grow our skills, confidence, and impact together.",
+      "section_title_1": "Reflection on successes",
+      "section_text_1": "* Sharing successes is vital. What works for you can help your colleagues, and vice versa!\n* Delivering HHPP can be tough, but by sharing successes, we keep focused on the positive impact on families and communities.",
+      "section_title_2": "Reflection on challenges & identifying solutions",
+      "section_text_2": "* No matter the challenges, together we can brainstorm solutions. In coaching sessions, we practice these solutions through role-play before using them with participants.\n* Coaching sessions also let you talk with your supervisor about families needing extra support beyond HHPP. Remember, we only make referrals with the family's permission, unless it's a serious child protection issue risking a child's safety.",
+      "related_articles_title": "I already need support with a specific challenge:",
+      "sections_title": "What should I expect from my coaching session?",
+      "section_title_3": "Preparing for the next session",
+      "section_text_3": "Preparation ensures success in the upcoming session. In coaching sessions, you can ask about activities, divide tasks with your co-facilitator, and practice activities if needed.",
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_coaching.png"
+    },
+    {
+      "id": "id_coaching_faq2",
+      "title": "I have a challenge in my group",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "I have a challenge in my group"
+        },
+        "introduction": {
+          "eng": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups."
+        },
+        "sections_title": {
+          "eng": "I have a challenge around:"
+        },
+        "section_title_1": {
+          "eng": "Dropouts"
+        },
+        "section_text_1": {
+          "eng": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions."
+        },
+        "section_title_2": {
+          "eng": "Group participation"
+        },
+        "section_text_2": {
+          "eng": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals."
+        }
+      },
+      "introduction": "Delivering HHPP comes with its own challenges. Check out what challenges and solutions other facilitators experienced when running their groups.",
+      "section_title_1": "Dropouts",
+      "section_text_1": "You can help ensure that participants stay in the programme at various key points of HHPP: During recruitment, during session 1, and during following sessions.",
+      "section_title_2": "Group participation",
+      "section_text_2": "When participants participate actively in group sessions, they will see the biggest impact in their families’ lives. As facilitator, your role is to ensure that participants in your group feel at ease, acknowledged, respected and encouraged to share and participate as equals.",
+      "sections_title": "I have a challenge around:"
+    },
+    {
+      "id": "id_follow_up",
+      "related_article_id_1": "id_follow_up_faq1",
+      "title": "Home visits & phone calls",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Home visits & phone calls"
+        },
+        "introduction": {
+          "eng": "* If participants miss a session or need extra help, it's crucial to catch them up so they can keep building their skills and stay engaged.\n* HHPP prioritises building parents' skills first to create supportive family environments for teens. For follow-ups, it's most important that the **parent is present**. Teens and other family members can join if available."
+        },
+        "sections_title": {
+          "eng": "How to make follow-ups a success:"
+        },
+        "section_title_1": {
+          "eng": "Ask participants for suggestions"
+        },
+        "section_text_1": {
+          "eng": "Brainstorm with participants by asking: \"Some of our group have missed this session, what can we do to get everyone updated?\" When ideas and suggested dates/times come from participants, it's more likely the solution will work well for them and they'll follow through."
+        },
+        "section_title_2": {
+          "eng": "Use the buddy system"
+        },
+        "section_text_2": {
+          "eng": "* In HHPP, each participant is paired with a 'buddy'.\n* A buddy can share what they learned in the session with their partner. Even if a home visit is scheduled afterward, a buddy's update can reduce the burden of your home visit and help keep everyone up to speed. \n* To avoid someone missing another session, you can prompt the buddy to remind their buddy of the upcoming session."
+        },
+        "section_title_3": {
+          "eng": "Do a joint home visit catch-up"
+        },
+        "section_text_3": {
+          "eng": "When several participants miss a session, consider inviting them to a joint catch-up session at one of their homes. This is especially helpful when participants live closer to each other."
+        },
+        "section_title_4": {
+          "eng": "Do a phone call or WhatsApp call"
+        },
+        "section_text_4": {
+          "eng": "* If participants have phones, give them a call to catch them up on missed sessions.\n* If they have a smartphone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call to include multiple participants)."
+        },
+        "section_title_5": {
+          "eng": "Meet participants at school or work"
+        },
+        "section_text_5": {
+          "eng": "* Sometimes it's tough to find parents or teenagers at home at convenient times. You can see if visiting them at their school or workplace (office, farm, etc.) is an option."
+        },
+        "related_articles_title": {
+          "eng": "I need support with a specific challenge:"
+        }
+      },
+      "introduction": "* If participants miss a session or need extra help, it's crucial to catch them up so they can keep building their skills and stay engaged.\n* HHPP prioritises building parents' skills first to create supportive family environments for teens. For follow-ups, it's most important that the **parent is present**. Teens and other family members can join if available.",
+      "section_title_1": "Ask participants for suggestions",
+      "section_text_1": "Brainstorm with participants by asking: \"Some of our group have missed this session, what can we do to get everyone updated?\" When ideas and suggested dates/times come from participants, it's more likely the solution will work well for them and they'll follow through.",
+      "section_title_2": "Use the buddy system",
+      "section_text_2": "* In HHPP, each participant is paired with a 'buddy'.\n* A buddy can share what they learned in the session with their partner. Even if a home visit is scheduled afterward, a buddy's update can reduce the burden of your home visit and help keep everyone up to speed. \n* To avoid someone missing another session, you can prompt the buddy to remind their buddy of the upcoming session.",
+      "related_articles_title": "I need support with a specific challenge:",
+      "sections_title": "How to make follow-ups a success:",
+      "section_title_3": "Do a joint home visit catch-up",
+      "section_text_3": "When several participants miss a session, consider inviting them to a joint catch-up session at one of their homes. This is especially helpful when participants live closer to each other.",
+      "section_title_4": "Do a phone call or WhatsApp call",
+      "section_text_4": "* If participants have phones, give them a call to catch them up on missed sessions.\n* If they have a smartphone with WhatsApp, you can catch them up via a WhatsApp call (or even a conference call to include multiple participants).",
+      "section_title_5": "Meet participants at school or work",
+      "section_text_5": "* Sometimes it's tough to find parents or teenagers at home at convenient times. You can see if visiting them at their school or workplace (office, farm, etc.) is an option.",
+      "home_screen_section_list": [
+        "faq"
+      ],
+      "icon_asset": "/images/id_follow_up.png"
+    },
+    {
+      "id": "id_follow_up_faq1",
+      "title": "Participant cannot be reached for follow-up (phone call or home visit)",
+      "_translations": {
+        "title": {},
+        "introduction": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Participant cannot be reached for follow-up (phone call or home visit)"
+        },
+        "introduction": {
+          "eng": "* Have the participant's buddy update them on the missed session.\n* Check with the buddy for a convenient time to visit or call (or give a 'missed call' to schedule a callback).\n* Ask the participant to arrive early at the next session for updates on previous content.\n* Coordinate with your supervisor on the number of follow-up calls, messages, or visits before considering the participant a dropout."
+        }
+      },
+      "introduction": "* Have the participant's buddy update them on the missed session.\n* Check with the buddy for a convenient time to visit or call (or give a 'missed call' to schedule a callback).\n* Ask the participant to arrive early at the next session for updates on previous content.\n* Coordinate with your supervisor on the number of follow-up calls, messages, or visits before considering the participant a dropout."
+    },
+    {
+      "id": "id_celebration",
+      "title": "Graduation ceremony",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Graduation ceremony"
+        },
+        "introduction": {
+          "eng": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’."
+        },
+        "sections_title": {
+          "eng": "Celebration preparations"
+        },
+        "section_title_1": {
+          "eng": "Prepare certificates"
+        },
+        "section_text_1": {
+          "eng": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme."
+        },
+        "section_title_2": {
+          "eng": "Involve participants in planning"
+        },
+        "section_text_2": {
+          "eng": "* Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \n* Participants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!"
+        },
+        "section_title_3": {
+          "eng": "Choose music"
+        },
+        "section_text_3": {
+          "eng": "* Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \n* If you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!"
+        },
+        "section_title_4": {
+          "eng": "Create a checklist"
+        },
+        "section_text_4": {
+          "eng": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\nCertificates\nVenue\nPaper & crayons\nMusic for dance party"
+        }
+      },
+      "introduction": "At the final session, families are happy that they completed the programme and want to celebrate. You can celebrate at the end of the final session or organise a separate ‘graduation ceremony’.",
+      "section_title_1": "Prepare certificates",
+      "section_text_1": "It can be a great motivation for both parents and teens to receive a certificate of attendance at the end of the programme.",
+      "section_title_2": "Involve participants in planning",
+      "section_text_2": "* Ask participants how THEY want to celebrate THEIR achievement! Work together with your group to come up with a plan for how you can organise a ceremony. \n* Participants can contribute anything within their means, like snacks, food, or decorations. They may even surprise you (and themselves) with what they can put together as a group!",
+      "sections_title": "Celebration preparations",
+      "section_title_3": "Choose music",
+      "section_text_3": "* Music makes any celebration better. Ask your group what kind of music they enjoy, and ensure that you (and/or one of the participants) have the music ready on the day of the celebration. \n* If you do not manage to get music (or set up a more elaborate celebration), that is also okay. Distributing the certificates and singing some of the songs your group learned will be an important and festive moment in itself!",
+      "section_title_4": "Create a checklist",
+      "section_text_4": "Create a checklist to ensure you have everything ready for the final celebration.\n\nYou can add to the following list:\nCertificates\nVenue\nPaper & crayons\nMusic for dance party",
+      "home_screen_section_list": [
+        "your_journey"
+      ],
+      "icon_asset": "/images/id_celebration.png"
+    },
+    {
+      "id": "id_session_1",
+      "resource_data_1": "pdf",
+      "resource_id_1": "session_1_manual",
+      "resource_data_2": "media",
+      "related_article_id_1": "id_session1_faq1",
+      "title": "Session 1: Introduction, Family Goals And 1-on-1 time",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "resource_title_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
+        "section_title_4": {},
+        "resource_title_1": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_guidance_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_guidance_2": {},
+        "message_title_3": {},
+        "message_text_3": {},
+        "message_guidance_3": {},
+        "task_list_title": {},
+        "task_list_text": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 1: Introduction, Family Goals And 1-on-1 time"
+        },
+        "introduction": {
+          "eng": "The goals of this session are:\n\n* To introduce the program to participants.\n* To help them define realistic goals.\n* To introduce them to 1-on-1 time and its importance. \n\nAs the first session sets the tone for the entire programme, it is important to create a space that is welcoming and puts the participants at ease."
+        },
+        "sections_title": {
+          "eng": "Session Summary"
+        },
+        "section_title_1": {
+          "eng": "Core Principles"
+        },
+        "section_text_1": {
+          "eng": "* Goals should be specific, positive, and realistic\n* Short-term goals can lead to long-term achievement in life\n* 1-on-1 time with your parent/teen builds trust, communication, and positive relationships\n* Use Active Listening skills during 1-on-1 time\n* 1-on-1 time shows that you value your teen"
+        },
+        "section_title_2": {
+          "eng": "Agenda"
+        },
+        "section_text_2": {
+          "eng": "**Part 1: Welcome and Session Prep** \r(30 minutes)\n\r- Facilitators take attendance.\n- Participants settle down & do their name tags.\n- Welcome, thank everyone for coming and praise time keeping\n- Do the “Name Game”\n- Do physical exercise\n\n\n**Part 2: Core Lesson - stages of child development**\n(15 minutes)\r- Discussion: Becoming a Teenager\n\n**Part 3: Core lesson - family goals**  \n(30 minutes)\r- Art Activity: identifying Positive, Specific, and Realistic Goals (10 min)\n- Discussion: Sharing Positive, Specific, and Realistic Goals (20 min)\n\n**Break - 5min**\n\n**Part 4: Core lesson - 1-on-1 time** \n(30min)\n- Role-plays\n- Benefits of 1-on-1 time with Your Parent/Teen\n- Discussion: Activities you can do together\n- Practice: 1-on-1 time\n- Review Tips for 1-on-1 time\n\n**Taking a pause**\n(5min)\n\n**Assigning PLH buddies** \n(5min)\n\n**Part 5: Home Activity**\n- Have a conversation with your parent/teen about your goals that you identified during the session\n- Spend 5 minutes each day in 1-on-1 time with your parent/teen\n- Take a Pause whenever you are feeling stressed or upset\n- Do the Physical Exercise every morning when you wake up\n- Meet with, or contact, your PLH Buddy once during the week\n\n**Part 6: Session Close**\n- Review core topics covered\n- Inform parents/caregivers of text messages\n- Remind families about next session and home activities\n- Thank and praise families"
+        },
+        "section_title_4": {
+          "eng": ""
+        },
+        "resource_title_1": {
+          "eng": "Session 1 Manual"
+        },
+        "resource_title_2": {
+          "eng": "Sample Physical Exercise"
+        },
+        "message_title_1": {
+          "eng": "SMS 1: Pre-Session Reminder"
+        },
+        "message_text_1": {
+          "eng": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organisation, and the meeting time and location)."
+        },
+        "message_guidance_1": {
+          "eng": "Send 2 days before the first session"
+        },
+        "message_title_2": {
+          "eng": "SMS 2: Thank you"
+        },
+        "message_text_2": {
+          "eng": "Dear Parents, Thank you for attending the first session of the Healthy Homes Parenting Programme. Simply by attending it shows you care. \nWe look forward to seeing you next week, \r(Insert Facilitator Names)"
+        },
+        "message_guidance_2": {
+          "eng": "Send a day after the first session"
+        },
+        "message_title_3": {
+          "eng": "SMS 2: Home Activity Reminder"
+        },
+        "message_text_3": {
+          "eng": "Here is a reminder for your home activities:\r1. Have a conversation with your teen about what you want to achieve in our programme.\n2. Spend 5 minutes one 1-on-1 time with your teen each day. \n3. Take a pause whenever you are feeling stressed or upset\r4. Do physical exercise every morning when you wake up\n5. Meet or  contact your PLH Buddy once during the week\n\nRemember, it’s what you do at home that will get you close to achieving your goals! \n\nBest\n(Insert Facilitator Names)"
+        },
+        "message_guidance_3": {
+          "eng": "Send two days after the session"
+        },
+        "related_articles_title": {
+          "eng": "Session 1: common challenges for parents  and how to solve them"
+        },
+        "task_list_title": {
+          "eng": "Preparation Checklist"
+        },
+        "task_list_text": {
+          "eng": "Remember for this session:\n- Confirm venue\n-Venue Preparation\n- Remind parents of the meeting time\n- Organise drinks and snacks\n- Consider bringing in a parent & their teen who have undergone the programme and can share their experience with the new families. \n- Help participants understand how the programme can support their families (to create buy-in)."
+        }
+      },
+      "introduction": "The goals of this session are:\n\n* To introduce the program to participants.\n* To help them define realistic goals.\n* To introduce them to 1-on-1 time and its importance. \n\nAs the first session sets the tone for the entire programme, it is important to create a space that is welcoming and puts the participants at ease.",
+      "section_title_1": "Core Principles",
+      "section_text_1": "* Goals should be specific, positive, and realistic\n* Short-term goals can lead to long-term achievement in life\n* 1-on-1 time with your parent/teen builds trust, communication, and positive relationships\n* Use Active Listening skills during 1-on-1 time\n* 1-on-1 time shows that you value your teen",
+      "section_title_2": "Agenda",
+      "section_text_2": "**Part 1: Welcome and Session Prep** \r(30 minutes)\n\r- Facilitators take attendance.\n- Participants settle down & do their name tags.\n- Welcome, thank everyone for coming and praise time keeping\n- Do the “Name Game”\n- Do physical exercise\n\n\n**Part 2: Core Lesson - stages of child development**\n(15 minutes)\r- Discussion: Becoming a Teenager\n\n**Part 3: Core lesson - family goals**  \n(30 minutes)\r- Art Activity: identifying Positive, Specific, and Realistic Goals (10 min)\n- Discussion: Sharing Positive, Specific, and Realistic Goals (20 min)\n\n**Break - 5min**\n\n**Part 4: Core lesson - 1-on-1 time** \n(30min)\n- Role-plays\n- Benefits of 1-on-1 time with Your Parent/Teen\n- Discussion: Activities you can do together\n- Practice: 1-on-1 time\n- Review Tips for 1-on-1 time\n\n**Taking a pause**\n(5min)\n\n**Assigning PLH buddies** \n(5min)\n\n**Part 5: Home Activity**\n- Have a conversation with your parent/teen about your goals that you identified during the session\n- Spend 5 minutes each day in 1-on-1 time with your parent/teen\n- Take a Pause whenever you are feeling stressed or upset\n- Do the Physical Exercise every morning when you wake up\n- Meet with, or contact, your PLH Buddy once during the week\n\n**Part 6: Session Close**\n- Review core topics covered\n- Inform parents/caregivers of text messages\n- Remind families about next session and home activities\n- Thank and praise families",
+      "resource_title_2": "Sample Physical Exercise",
+      "related_articles_title": "Session 1: common challenges for parents  and how to solve them",
+      "sections_title": "Session Summary",
+      "section_title_4": "",
+      "home_screen_section_list": [
+        "hhpp_sessions"
+      ],
+      "icon_asset": "/images/id_session_1.png",
+      "resource_id_2": "physicalexercise",
+      "resource_title_1": "Session 1 Manual",
+      "message_title_1": "SMS 1: Pre-Session Reminder",
+      "message_text_1": "Greetings Parents! I look forward to meeting you this week. We will be meeting at...(add in your name, organisation, and the meeting time and location).",
+      "message_guidance_1": "Send 2 days before the first session",
+      "message_title_2": "SMS 2: Thank you",
+      "message_text_2": "Dear Parents, Thank you for attending the first session of the Healthy Homes Parenting Programme. Simply by attending it shows you care. \nWe look forward to seeing you next week, \r(Insert Facilitator Names)",
+      "message_guidance_2": "Send a day after the first session",
+      "message_title_3": "SMS 2: Home Activity Reminder",
+      "message_text_3": "Here is a reminder for your home activities:\r1. Have a conversation with your teen about what you want to achieve in our programme.\n2. Spend 5 minutes one 1-on-1 time with your teen each day. \n3. Take a pause whenever you are feeling stressed or upset\r4. Do physical exercise every morning when you wake up\n5. Meet or  contact your PLH Buddy once during the week\n\nRemember, it’s what you do at home that will get you close to achieving your goals! \n\nBest\n(Insert Facilitator Names)",
+      "message_guidance_3": "Send two days after the session",
+      "task_list_title": "Preparation Checklist",
+      "task_list_text": "Remember for this session:\n- Confirm venue\n-Venue Preparation\n- Remind parents of the meeting time\n- Organise drinks and snacks\n- Consider bringing in a parent & their teen who have undergone the programme and can share their experience with the new families. \n- Help participants understand how the programme can support their families (to create buy-in)."
+    },
+    {
+      "id": "id_session_2",
+      "resource_data_1": "pdf",
+      "resource_id_1": "session_2_manual",
+      "resource_data_2": "media",
+      "related_article_id_1": "id_session2_faq1",
+      "title": "Session 2: Keeping it positive: Praise and positive instructions",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "resource_title_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "resource_title_1": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 2: Keeping it positive: Praise and positive instructions"
+        },
+        "introduction": {
+          "eng": "The goal of the session is to show parents and teens how to praise and appreciate each other. While parents become more effective at giving specific, positive, and realistic instructions, teens learn how to communicate their needs and wants in a clear and calm way."
+        },
+        "sections_title": {
+          "eng": "Session summary"
+        },
+        "section_title_1": {
+          "eng": "Core principles"
+        },
+        "section_text_1": {
+          "eng": "* Praise the behaviour you want to see in your parent/teen\n* Appreciate your parent/teen for the positive things that s/he does\n* Be specific, immediate, and enthusiastic when you praise your parent/teen\n* Your parent/teen will feel better about him/herself when you praise him/her\n* Instructions should be positive, specific, and realistic and given in a calm voice\n* Praise your teen when s/he follows your instruction\n* Explain what you want to your parent/teen in a clear and calm way\n* Praise yourself!"
+        },
+        "section_title_2": {
+          "eng": "Materials"
+        },
+        "section_text_2": {
+          "eng": "Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys,\nrefreshments for the break\nHouse of Support poster"
+        },
+        "section_title_3": {
+          "eng": "Agenda"
+        },
+        "section_text_3": {
+          "eng": "Welcome (20min)\n• Greeting parents\n• Take a pause\n• Phyisical excercise\n \nHome Activity Discussion (40min)\n• Remind parents/teens of core home activity\n• Ask parents/teens to share highlights and challenges\n• Discuss solutions to challenges and practice solution\n\nBreak (5min)\n\nCore Lession - Praising your Parent/Teen\n• Role-play: Ignoring the Good\n• Role-play: Noticing the Positive\n• Discussion: Why should we praise each other?\n• Practice: Praising your parent/tee\n\nCore Lesson - Keeping it Positive (seperated) (25min)Sipho \n\nTogether - Game: says\n\nParents group:\n• Role-play: Negative instructions\n• Role-play: Positive instructions\n• Activity: identifying things we would\nlike our teens to do\n\nTeens group:\n• Role-play: A misunderstanding\n• Role-play: Say what you want\n• Activity: identifying needs & wants, and how to ask for them\n\nAssign home activities (10min) \n• Practice praising your parent/teen at least three times per day\n• Parents: Notice how you give instructions and try to make them positive, specific\nand realistic\n• Teens: Talk in a calm and clear way about things that are important to you\n• Do something nice for yourself during the week\n• Spend 10 minutes each day in 1-on-1 time \n• Take a Pause whenever you are feeling stressed or upset\n• Do the Physical Exercise every morning when you wake up\n• Meet with, or contact, your HHPP Buddy once during the week\n\nClosing (5min)\n• Review core topics covered, remind families about next session and home activities\n• Thank and praise families"
+        },
+        "resource_title_1": {
+          "eng": "Session 2 Manual"
+        },
+        "resource_title_2": {
+          "eng": "Sample Physical Exercise"
+        },
+        "message_title_1": {
+          "eng": "SMS 1: Thank you"
+        },
+        "message_text_1": {
+          "eng": "Dear Parents, Thank you for attending the Second session Healthy Homes Parenting Programme. Simply by attending it shows you care. \nWe look forward to seeing you next week!"
+        },
+        "message_title_2": {
+          "eng": "SMS 2: Home Activity Reminder"
+        },
+        "message_text_2": {
+          "eng": "Dear Parents, Your home activities for this week are:\n* Do something nice for yourself during the week\n* Praise your teen whenever you see them doing or behaving the way you wanted. \n* Do the Physical Exercise every morning when you wake up\n* Praise yourself for caring for your family\n* Notice how you give instructions - try to make them positive, specific and realistic\n* Spend 10 minutes each day in 1-on-1 time \n* Take a Pause whenever you are feeling stressed or upset\n* Meet with your HHPP buddy"
+        },
+        "message_title_3": {
+          "eng": "SMS 3: Sesssion reminder"
+        },
+        "message_text_3": {
+          "eng": "Dear Parents, I hope you are well. We look forward to see you and your teen tomorrow at <time and venue> for our 2nd session!"
+        }
+      },
+      "introduction": "The goal of the session is to show parents and teens how to praise and appreciate each other. While parents become more effective at giving specific, positive, and realistic instructions, teens learn how to communicate their needs and wants in a clear and calm way.",
+      "section_title_1": "Core principles",
+      "section_text_1": "* Praise the behaviour you want to see in your parent/teen\n* Appreciate your parent/teen for the positive things that s/he does\n* Be specific, immediate, and enthusiastic when you praise your parent/teen\n* Your parent/teen will feel better about him/herself when you praise him/her\n* Instructions should be positive, specific, and realistic and given in a calm voice\n* Praise your teen when s/he follows your instruction\n* Explain what you want to your parent/teen in a clear and calm way\n* Praise yourself!",
+      "section_title_2": "Materials",
+      "section_text_2": "Attendance register, name tags, temporary adhesive, pens, paper, flipchart, toys,\nrefreshments for the break\nHouse of Support poster",
+      "resource_title_2": "Sample Physical Exercise",
+      "sections_title": "Session summary",
+      "section_title_3": "Agenda",
+      "section_text_3": "Welcome (20min)\n• Greeting parents\n• Take a pause\n• Phyisical excercise\n \nHome Activity Discussion (40min)\n• Remind parents/teens of core home activity\n• Ask parents/teens to share highlights and challenges\n• Discuss solutions to challenges and practice solution\n\nBreak (5min)\n\nCore Lession - Praising your Parent/Teen\n• Role-play: Ignoring the Good\n• Role-play: Noticing the Positive\n• Discussion: Why should we praise each other?\n• Practice: Praising your parent/tee\n\nCore Lesson - Keeping it Positive (seperated) (25min)Sipho \n\nTogether - Game: says\n\nParents group:\n• Role-play: Negative instructions\n• Role-play: Positive instructions\n• Activity: identifying things we would\nlike our teens to do\n\nTeens group:\n• Role-play: A misunderstanding\n• Role-play: Say what you want\n• Activity: identifying needs & wants, and how to ask for them\n\nAssign home activities (10min) \n• Practice praising your parent/teen at least three times per day\n• Parents: Notice how you give instructions and try to make them positive, specific\nand realistic\n• Teens: Talk in a calm and clear way about things that are important to you\n• Do something nice for yourself during the week\n• Spend 10 minutes each day in 1-on-1 time \n• Take a Pause whenever you are feeling stressed or upset\n• Do the Physical Exercise every morning when you wake up\n• Meet with, or contact, your HHPP Buddy once during the week\n\nClosing (5min)\n• Review core topics covered, remind families about next session and home activities\n• Thank and praise families",
+      "home_screen_section_list": [
+        "hhpp_sessions"
+      ],
+      "icon_asset": "/images/id_session_2.png",
+      "resource_id_2": "physicalexercise",
+      "resource_title_1": "Session 2 Manual",
+      "message_title_1": "SMS 1: Thank you",
+      "message_text_1": "Dear Parents, Thank you for attending the Second session Healthy Homes Parenting Programme. Simply by attending it shows you care. \nWe look forward to seeing you next week!",
+      "message_title_2": "SMS 2: Home Activity Reminder",
+      "message_text_2": "Dear Parents, Your home activities for this week are:\n* Do something nice for yourself during the week\n* Praise your teen whenever you see them doing or behaving the way you wanted. \n* Do the Physical Exercise every morning when you wake up\n* Praise yourself for caring for your family\n* Notice how you give instructions - try to make them positive, specific and realistic\n* Spend 10 minutes each day in 1-on-1 time \n* Take a Pause whenever you are feeling stressed or upset\n* Meet with your HHPP buddy",
+      "message_title_3": "SMS 3: Sesssion reminder",
+      "message_text_3": "Dear Parents, I hope you are well. We look forward to see you and your teen tomorrow at <time and venue> for our 2nd session!"
+    },
+    {
+      "id": "id_session_3",
+      "resource_data_1": "pdf",
+      "resource_id_1": "session_3_manual",
+      "related_article_id_1": "id_session3_faq1",
+      "title": "Session 3: Keeping it Cool: Managing anger and stress",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "resource_title_1": {},
+        "message_title_1": {},
+        "message_text_1": {},
+        "message_title_2": {},
+        "message_text_2": {},
+        "message_title_3": {},
+        "message_text_3": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 3: Keeping it Cool: Managing anger and stress"
+        },
+        "introduction": {
+          "eng": "In this session parents and teens learn how to become more aware of their own emotions, respond effectively and communicate about their emotions."
+        },
+        "sections_title": {
+          "eng": "Session Summary"
+        },
+        "section_title_1": {
+          "eng": "Core Principles"
+        },
+        "section_text_1": {
+          "eng": "* Being aware of your emotions helps you manage tough feelings.\n* Recognizing your teen's emotions aids them in handling their own.\n* Talking about frustrations lowers the risk of reacting in anger.\n* Openly discussing emotions strengthens relationships, deepening understanding and support."
+        },
+        "section_title_2": {
+          "eng": "Materials"
+        },
+        "section_text_2": {
+          "eng": "- Attendance register\n- Name tags\n- Temporary adhesive\n- Pens\n- Paper\n- Flipchart\n- Toys\n- Refreshments for the break\n- House of Support poster"
+        },
+        "section_title_3": {
+          "eng": "Agenda"
+        },
+        "section_text_3": {
+          "eng": "- Welcome (20 min)\n- Home activity discussion (40 min)\n- Break (5 minutes)\n- Core lesson – talking about emotions (parents and teens separate) (40 min)\n- Assign home activities (10 min)\n- Closing (5 min)"
+        },
+        "resource_title_1": {
+          "eng": "Session 3 Manual"
+        },
+        "message_title_1": {
+          "eng": "SMS 1: Thank you"
+        },
+        "message_text_1": {
+          "eng": "Dear Parents,\rIt was nice seeing you in the 3rd HHPP session where we discussed:\n1. How noticing how you and your teen feel, can help you cope with difficult emotions\n2. How it is important to communicate about our frustrations so we are less likely to act in anger\n3. How communicating about emotions can improve our relationships.\nThank you again for your participation. It is not taken for granted.\n<Name of facilitators>"
+        },
+        "message_title_2": {
+          "eng": "SMS 2: Home Activity Reminder"
+        },
+        "message_text_2": {
+          "eng": "Dear Parents,\rYour home activities for this week are:\n* Do a nice thing for yourself  during the week. You deserve it!\n* Continue to take a pause whenever you are feeling stressed or upset\n* Ask your parent/teen about how s/he is feeling, and practice ‘’I feel’’ when talking about feelings\n* Spend 15 minutes each day in 1-on-1 time \n* Practice praising your parent/teen at least once per day\n* Do the physical exercise every day\n* Meet with, or contact, your PLH Buddy once during the week\n\nBest\n<Name of facilitators>"
+        },
+        "message_title_3": {
+          "eng": "SMS 3: Session reminder"
+        },
+        "message_text_3": {
+          "eng": "Dear Parents, I hope you are well. We look forward to seeing you and your teen tomorrow at <time and venue> for our next session."
+        }
+      },
+      "introduction": "In this session parents and teens learn how to become more aware of their own emotions, respond effectively and communicate about their emotions.",
+      "section_title_1": "Core Principles",
+      "section_text_1": "* Being aware of your emotions helps you manage tough feelings.\n* Recognizing your teen's emotions aids them in handling their own.\n* Talking about frustrations lowers the risk of reacting in anger.\n* Openly discussing emotions strengthens relationships, deepening understanding and support.",
+      "section_title_2": "Materials",
+      "section_text_2": "- Attendance register\n- Name tags\n- Temporary adhesive\n- Pens\n- Paper\n- Flipchart\n- Toys\n- Refreshments for the break\n- House of Support poster",
+      "sections_title": "Session Summary",
+      "section_title_3": "Agenda",
+      "section_text_3": "- Welcome (20 min)\n- Home activity discussion (40 min)\n- Break (5 minutes)\n- Core lesson – talking about emotions (parents and teens separate) (40 min)\n- Assign home activities (10 min)\n- Closing (5 min)",
+      "home_screen_section_list": [
+        "hhpp_sessions"
+      ],
+      "icon_asset": "/images/id_session_3.png",
+      "resource_title_1": "Session 3 Manual",
+      "message_title_1": "SMS 1: Thank you",
+      "message_text_1": "Dear Parents,\rIt was nice seeing you in the 3rd HHPP session where we discussed:\n1. How noticing how you and your teen feel, can help you cope with difficult emotions\n2. How it is important to communicate about our frustrations so we are less likely to act in anger\n3. How communicating about emotions can improve our relationships.\nThank you again for your participation. It is not taken for granted.\n<Name of facilitators>",
+      "message_title_2": "SMS 2: Home Activity Reminder",
+      "message_text_2": "Dear Parents,\rYour home activities for this week are:\n* Do a nice thing for yourself  during the week. You deserve it!\n* Continue to take a pause whenever you are feeling stressed or upset\n* Ask your parent/teen about how s/he is feeling, and practice ‘’I feel’’ when talking about feelings\n* Spend 15 minutes each day in 1-on-1 time \n* Practice praising your parent/teen at least once per day\n* Do the physical exercise every day\n* Meet with, or contact, your PLH Buddy once during the week\n\nBest\n<Name of facilitators>",
+      "message_title_3": "SMS 3: Session reminder",
+      "message_text_3": "Dear Parents, I hope you are well. We look forward to seeing you and your teen tomorrow at <time and venue> for our next session."
+    },
+    {
+      "id": "id_session1_faq1",
+      "related_article_id_1": "id_participation",
+      "related_article_id_2": "id_facilitation",
+      "title": "Session 1: Common Challenges",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "related_articles_title": {},
+        "sections_title": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {},
+        "section_title_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 1: Common Challenges"
+        },
+        "introduction": {
+          "eng": "Parents are struggling with 1-on-1 time. They either don’t have enough time, feel awkward, or have too many teens competing for their attention and time."
+        },
+        "sections_title": {
+          "eng": "Here are a few suggestions:"
+        },
+        "section_title_1": {
+          "eng": "I did not have enough time"
+        },
+        "section_text_1": {
+          "eng": "* It can be hard to find time during your day, with work, chores, and everything else. \n\n* Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together."
+        },
+        "section_title_2": {
+          "eng": "My teen did not want to spend time with me"
+        },
+        "section_text_2": {
+          "eng": "* Teens often want to spend time watching T.V. or playing with a gadget. \n\n* You could watch or play on the gadget with them. \n\n* Caring about their interests is a great start!\n\n* Once you begin spending time together, you can suggest another activity."
+        },
+        "section_title_3": {
+          "eng": "My teen wanted to do things I felt uncomfortable about"
+        },
+        "section_text_3": {
+          "eng": "* If your teen wants to do things that are too difficult for you to do, you could watch them.  \n\n* You could describe what they are doing like a sports announcer.\n\n* Praise them while they do it!"
+        },
+        "section_title_4": {
+          "eng": "My teen chose a competitive activity. I won and then they got angry"
+        },
+        "section_text_4": {
+          "eng": "Competitive games can be hard for teens (and adults!) if they don’t like losing. \n\nWhen they have calmed down, talk with your teen about what winning well and losing well might look like.\n\nSuggest other activities that you can do to work together instead of against each other."
+        },
+        "section_title_5": {
+          "eng": "All my children wanted 1-on-1 time at the same time"
+        },
+        "section_text_5": {
+          "eng": "It can be difficult to spend 1-on-1 time with each child when you have more than one child. \n\nIf possible, you can ask an adult or older sibling to look after the other children while you spend 1-on-1 time with one teen.\n\nThink of when it would be easier to spend 1-on-1 time with each child. Perhaps later in the evening with your teen, after the others have gone to sleep."
+        },
+        "section_title_6": {
+          "eng": "Ideas to handle other challenges related to this session"
+        },
+        "related_articles_title": {
+          "eng": "Get additional support with"
+        }
+      },
+      "introduction": "Parents are struggling with 1-on-1 time. They either don’t have enough time, feel awkward, or have too many teens competing for their attention and time.",
+      "section_title_1": "I did not have enough time",
+      "section_text_1": "* It can be hard to find time during your day, with work, chores, and everything else. \n\n* Think of a time each day that you could spare 5 minutes. You can even make household chores into a game to do together.",
+      "section_title_2": "My teen did not want to spend time with me",
+      "section_text_2": "* Teens often want to spend time watching T.V. or playing with a gadget. \n\n* You could watch or play on the gadget with them. \n\n* Caring about their interests is a great start!\n\n* Once you begin spending time together, you can suggest another activity.",
+      "related_articles_title": "Get additional support with",
+      "sections_title": "Here are a few suggestions:",
+      "section_title_3": "My teen wanted to do things I felt uncomfortable about",
+      "section_text_3": "* If your teen wants to do things that are too difficult for you to do, you could watch them.  \n\n* You could describe what they are doing like a sports announcer.\n\n* Praise them while they do it!",
+      "section_title_4": "My teen chose a competitive activity. I won and then they got angry",
+      "section_text_4": "Competitive games can be hard for teens (and adults!) if they don’t like losing. \n\nWhen they have calmed down, talk with your teen about what winning well and losing well might look like.\n\nSuggest other activities that you can do to work together instead of against each other.",
+      "section_title_5": "All my children wanted 1-on-1 time at the same time",
+      "section_text_5": "It can be difficult to spend 1-on-1 time with each child when you have more than one child. \n\nIf possible, you can ask an adult or older sibling to look after the other children while you spend 1-on-1 time with one teen.\n\nThink of when it would be easier to spend 1-on-1 time with each child. Perhaps later in the evening with your teen, after the others have gone to sleep.",
+      "section_title_6": "Ideas to handle other challenges related to this session",
+      "icon_asset": ""
+    },
+    {
+      "id": "id_session2_faq1",
+      "title": "Session 2: Common Challenges",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {},
+        "section_title_6": {},
+        "section_text_6": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 2: Common Challenges"
+        },
+        "introduction": {
+          "eng": "A Parent forgot to praise? Teens felt strange when praised? Parents used negative and not positive instructions? Here are some solutions to these frequent challenges:"
+        },
+        "section_title_1": {
+          "eng": "I forgot to praise my teen"
+        },
+        "section_text_1": {
+          "eng": "* It can sometimes be hard to remember to praise our teens. \n\n* Next time you spend 1-on-1 time with your teen, try and think of one thing you can praise them for. \n\n* You can even say, “Thank you for spending time with me!”"
+        },
+        "section_title_2": {
+          "eng": "My teen did not like it"
+        },
+        "section_text_2": {
+          "eng": "* It happens - just be patient. \n\n* Make sure to keep spending time with your teen, so they will value your opinion more and more. \n* When your praise is genuine, you will see the benefits soon!"
+        },
+        "section_title_3": {
+          "eng": "My teen was surprised and felt suspicious"
+        },
+        "section_text_3": {
+          "eng": "* Remember, it takes some time for your teen to get used to seeing you praise them. \n\n* The more time you spend with them, the better it will go!"
+        },
+        "section_title_4": {
+          "eng": "My teenager did not want to follow the instruction"
+        },
+        "section_text_4": {
+          "eng": "* Our children need time to learn to follow instructions. \n\n* Be patient, try again, and remember to praise them every time they follow an instruction!"
+        },
+        "section_title_5": {
+          "eng": "I gave a negative instead of a positive instruction"
+        },
+        "section_text_5": {
+          "eng": "* It takes some time to get used to giving positive instructions – it’s really worth trying again! \n\n* Think about the behaviour you would love to see your teen do more and think of positive ways to give that instruction!"
+        },
+        "section_title_6": {
+          "eng": "I shouted at my teen when they behaved negatively, instead of giving them a positive instruction for what they should do."
+        },
+        "section_text_6": {
+          "eng": "* It is difficult to come up with instructions while we are still angry. \n\n* Try and find a time when you are calm to introduce a positive instruction to your teen.\n\n* In the next session, we will ll talk more about how we can manage our emotions!"
+        }
+      },
+      "introduction": "A Parent forgot to praise? Teens felt strange when praised? Parents used negative and not positive instructions? Here are some solutions to these frequent challenges:",
+      "section_title_1": "I forgot to praise my teen",
+      "section_text_1": "* It can sometimes be hard to remember to praise our teens. \n\n* Next time you spend 1-on-1 time with your teen, try and think of one thing you can praise them for. \n\n* You can even say, “Thank you for spending time with me!”",
+      "section_title_2": "My teen did not like it",
+      "section_text_2": "* It happens - just be patient. \n\n* Make sure to keep spending time with your teen, so they will value your opinion more and more. \n* When your praise is genuine, you will see the benefits soon!",
+      "section_title_3": "My teen was surprised and felt suspicious",
+      "section_text_3": "* Remember, it takes some time for your teen to get used to seeing you praise them. \n\n* The more time you spend with them, the better it will go!",
+      "section_title_4": "My teenager did not want to follow the instruction",
+      "section_text_4": "* Our children need time to learn to follow instructions. \n\n* Be patient, try again, and remember to praise them every time they follow an instruction!",
+      "section_title_5": "I gave a negative instead of a positive instruction",
+      "section_text_5": "* It takes some time to get used to giving positive instructions – it’s really worth trying again! \n\n* Think about the behaviour you would love to see your teen do more and think of positive ways to give that instruction!",
+      "section_title_6": "I shouted at my teen when they behaved negatively, instead of giving them a positive instruction for what they should do.",
+      "section_text_6": "* It is difficult to come up with instructions while we are still angry. \n\n* Try and find a time when you are calm to introduce a positive instruction to your teen.\n\n* In the next session, we will ll talk more about how we can manage our emotions!",
+      "icon_asset": ""
+    },
+    {
+      "id": "id_session3_faq1",
+      "title": "Session 3: Common Challenges",
+      "_translations": {
+        "title": {},
+        "introduction": {},
+        "section_title_1": {},
+        "section_text_1": {},
+        "section_title_2": {},
+        "section_text_2": {},
+        "section_title_3": {},
+        "section_text_3": {},
+        "section_title_4": {},
+        "section_text_4": {},
+        "section_title_5": {},
+        "section_text_5": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Session 3: Common Challenges"
+        },
+        "introduction": {
+          "eng": "Did a teen feel uncomfortable when their parent shared emotions? Did a parent struggle with sharing? Here is how you can respond:"
+        },
+        "section_title_1": {
+          "eng": "I’m afraid my teen might think I am weak for sharing my emotions."
+        },
+        "section_text_1": {
+          "eng": "* Sharing your emotions sets an important example for your teen - even more when sharing difficult emotions! \n\n* It makes everyone in the family stronger, because it means you can understand and support each other better."
+        },
+        "section_title_2": {
+          "eng": "I felt uncomfortable about naming specific difficult feelings."
+        },
+        "section_text_2": {
+          "eng": "* Being specific is not rude or insensitive - it really helps others to understand you clearly and this prevents confusion in the family. \n\n* Feelings like anger and stress are part of our lives. \n\n* When we feel angry and stressed we can better handle our emotions by taking a few deep breaths before responding."
+        },
+        "section_title_3": {
+          "eng": "My teen felt uncomfortable when I shared my feelings."
+        },
+        "section_text_3": {
+          "eng": "* Starting a new thing is always difficult at first. \n\n* Give yourselves time to get used to it and keep showing a good example by observing and sharing your feelings. \n\n* Over time, your teen will learn to do the same, and they will feel even more loved and cared for!"
+        },
+        "section_title_4": {
+          "eng": "When I shared my emotions, my teen asked many questions, which made me uncomfortable."
+        },
+        "section_text_4": {
+          "eng": "* Sharing emotions helps your teen to be aware and learn to do the same. \n\n* You can choose how much detail you want to share about the situation. It’s up to you! \n\n* You can also choose to answer questions later by saying, “I am feeling angry/stressed now. Could you please give me some time? We can talk about this more tonight.”"
+        },
+        "section_title_5": {
+          "eng": "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that."
+        },
+        "section_text_5": {
+          "eng": "* It’s okay to not want to share at that time. \n\n* Find some time to explain later, when you feel calmer, so that everyone can understand."
+        }
+      },
+      "introduction": "Did a teen feel uncomfortable when their parent shared emotions? Did a parent struggle with sharing? Here is how you can respond:",
+      "section_title_1": "I’m afraid my teen might think I am weak for sharing my emotions.",
+      "section_text_1": "* Sharing your emotions sets an important example for your teen - even more when sharing difficult emotions! \n\n* It makes everyone in the family stronger, because it means you can understand and support each other better.",
+      "section_title_2": "I felt uncomfortable about naming specific difficult feelings.",
+      "section_text_2": "* Being specific is not rude or insensitive - it really helps others to understand you clearly and this prevents confusion in the family. \n\n* Feelings like anger and stress are part of our lives. \n\n* When we feel angry and stressed we can better handle our emotions by taking a few deep breaths before responding.",
+      "section_title_3": "My teen felt uncomfortable when I shared my feelings.",
+      "section_text_3": "* Starting a new thing is always difficult at first. \n\n* Give yourselves time to get used to it and keep showing a good example by observing and sharing your feelings. \n\n* Over time, your teen will learn to do the same, and they will feel even more loved and cared for!",
+      "section_title_4": "When I shared my emotions, my teen asked many questions, which made me uncomfortable.",
+      "section_text_4": "* Sharing emotions helps your teen to be aware and learn to do the same. \n\n* You can choose how much detail you want to share about the situation. It’s up to you! \n\n* You can also choose to answer questions later by saying, “I am feeling angry/stressed now. Could you please give me some time? We can talk about this more tonight.”",
+      "section_title_5": "I was too stressed or angry to try sharing my emotions – I prefer to be alone when I feel like that.",
+      "section_text_5": "* It’s okay to not want to share at that time. \n\n* Find some time to explain later, when you feel calmer, so that everyone can understand.",
+      "icon_asset": ""
+    }
+  ]
+}
